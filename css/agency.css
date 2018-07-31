@@ -134,8 +134,6 @@ img::-moz-selection {
   padding: 13px;
   text-transform: uppercase;
   color: white;
-  border: 0;
-  background-color: #ff2c3c;
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
