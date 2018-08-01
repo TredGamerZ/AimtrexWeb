@@ -159,6 +159,10 @@ img::-moz-selection {
   color: #ff2c3c;
 }
 
+.dropdown-menu {
+  top: 80%;
+}
+
 @media (min-width: 992px) {
   .dropdown:hover > .dropdown-menu {
     display: block;
