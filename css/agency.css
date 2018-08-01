@@ -160,6 +160,13 @@ img::-moz-selection {
 }
 
 @media (min-width: 992px) {
+  .dropdown:hover > .dropdown-menu {
+    display: block;
+  }
+  .dropdown > .dropdown-toggle:active {
+    /*Without this, clicking will make it sticky*/
+    pointer-events: none;
+  }
   #mainNav {
     padding-top: 25px;
     padding-bottom: 25px;
@@ -225,6 +232,14 @@ header.masthead .intro-text .intro-heading {
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
+.intro-heading {
+  font-size: 50px;
+  font-weight: 700;
+  line-height: 50px;
+  margin-bottom: 25px;
+  font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
 @media (min-width: 768px) {
   header.masthead .intro-text {
     padding-top: 300px;
@@ -238,6 +253,13 @@ header.masthead .intro-text .intro-heading {
     font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   }
   header.masthead .intro-text .intro-heading {
+    font-size: 75px;
+    font-weight: 700;
+    line-height: 75px;
+    margin-bottom: 50px;
+    font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  }
+  .intro-heading {
     font-size: 75px;
     font-weight: 700;
     line-height: 75px;
@@ -259,7 +281,6 @@ header.masthead .intro-text .intro-heading {
 #portfolio .portfolio-item .portfolio-link {
   position: relative;
   display: block;
-  max-width: 400px;
   margin: 0 auto;
   cursor: pointer;
 }
@@ -300,7 +321,6 @@ header.masthead .intro-text .intro-heading {
 }
 
 #portfolio .portfolio-item .portfolio-caption {
-  max-width: 400px;
   margin: 0 auto;
   padding: 25px;
   text-align: center;
