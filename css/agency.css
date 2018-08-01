@@ -61,12 +61,11 @@ section h3.section-subheading {
 
 .btn {
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
-  font-weight: 700;
 }
 
 .btn-xl {
-  font-size: 18px;
-  padding: 20px 40px;
+  font-size: 16px;
+  padding: 40px 50px;
 }
 
 .btn-primary {

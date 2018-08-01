@@ -54,12 +54,12 @@ section {
 // Button Styles
 .btn {
   @include heading-font;
-  font-weight: 700;
+
 }
 
 .btn-xl {
-  font-size: 18px;
-  padding: 20px 40px;
+  font-size: 16px;
+  padding: 40px 50px;
 }
 
 .btn-primary {
