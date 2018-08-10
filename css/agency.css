@@ -108,7 +108,7 @@ img::-moz-selection {
 }
 
 .c-s {
-  color: #2f3444;
+  color: #16181d;
 }
 
 .c-w {
@@ -120,12 +120,12 @@ img::-moz-selection {
 }
 
 .bg-s {
-  background-color: #2f3444;
+  background-color: #16181d;
   color: #fff;
 }
 
 #mainNav {
-  background-color: transparent;
+  background-color: #16181d;
 }
 
 #mainNav .navbar-toggler {
@@ -202,7 +202,7 @@ img::-moz-selection {
   #mainNav.navbar-shrink {
     padding-top: 0;
     padding-bottom: 0;
-    background-color: #2f3444;
+    background-color: #16181d;
   }
   #mainNav.navbar-shrink .navbar-brand {
     font-size: 1.5em;
@@ -765,4 +765,17 @@ ul.social-buttons li a {
 
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
   background-color: #ff2c3c;
+}
+
+.gf {
+  padding: 20px;
+  padding-left: 30px;
+  padding-right: 40px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  text-align: center !important;
+}
+
+.gf p {
+  text-align: left;
 }
