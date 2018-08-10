@@ -13,7 +13,10 @@
     <script
             src="https://code.jquery.com/jquery-3.3.1.min.js"
             integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
-            crossorigin="anonymous"></script>
+            crossorigin="anonymous"></script>    <script src="https://cdn.jsdelivr.net/npm/queryloader2@3.2.3/queryloader2.min.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.css" />
     <script src="../../js/owl.carousel.min.js"></script>
     <!-- Bootstrap core CSS -->
     <link href="../../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -113,35 +116,47 @@
 <!-- Header -->
 <header class="masthead" style="position:relative;
   overflow:hidden;">
-    <img src="img/osr/header.jpg"  style="position: absolute;max-height: 900px;height: 100%;min-width: 100%;z-index: 0;opacity: 0.5;left: 0px">
     <div class="container text-left" style="z-index: 10;position: relative">
-        <div class="intro-text">
-            <div class="intro-heading ">Outdoor <span class="c-p">Shooting </span> <br> Ranges</div>
+        <div class="row intro-text">
+            <div class="col-md-12 intro-heading wow fadeInUp ">Outdoor <span class="c-p">Shooting </span> <br> Ranges</div>
+            <div class="col-md-7 col-sm-10 col-12 wow fadeInUp  ">
             <p class="lead c-w w-75" >Outdoor Ranges are the most conventional structures designed for training and firing practices. By the nature of design, users can easily and safely customize training drills, targetry and scenarios. outdoor training mimics real life environment since it requires exposure to the elements such as wind, heat or rain.
  </p>
-            <a class="btn btn-primary btn-lg  js-scroll-trigger" href="#services">Tell Me More</a>
+            <a class="btn btn-primary btn-lg  js-scroll-trigger" href="#services">Tell Me More</a></div>
         </div>
     </div>
 </header>
-
+    <style>
+        .masthead::before{
+            opacity: 0.4; left: 0;
+            top: 0;
+            position: absolute;
+            background: url(img/osr/header.jpg) center;
+            background-size: cover;
+            content: "";
+            width: 100%;
+            height: 100%;
+            display: inline-block;
+        }
+    </style>
 <!-- Services -->
 <section id="services">
     <div class="container">
         <div class="row">
-            <div class="col-lg-12 text-left">
+            <div class="col-lg-12 text-left wow fadeInLeft">
                 <h2 class="section-heading ">What is<br>
                     <span class="c-p">Outdoor</span> shooting range ?</h2>
                 <h3 class="section-subheading text-muted"></h3>
             </div>
         </div>
         <div class="row" >
-            <div class="col-lg-6 ">
+            <div class="col-lg-6 wow fadeInLeft ">
                 <p class="text-muted bg-white">Outdoor Ranges are the most conventional
                     structures designed for training and firing practices.
                     By the nature of design, users can easily and safely customize training drills, targetry and scenarios. outdoor training mimics real life environment since it requires exposure to the elements such as wind, heat or rain.
 </p>
             </div>
-            <div class="col-lg-6" >
+            <div class="col-lg-6 wow fadeInRight" >
                 <img src="img/osr/body-1.jpg" class="img-fluid">
             </div>
         </div>
@@ -153,14 +168,14 @@
 <section class="bg-light" id="portfolio">
     <div class="container">
         <div class="row">
-            <div class="col-lg-12 text-center">
+            <div class="col-lg-12 text-center wow fadeInUp">
                 <h2 class="section-heading ">Key <span class="c-p">Features</span></h2>
-                <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                <h3 class="section-subheading text-muted"> </h3>
             </div>
         </div>
         <div class="row ">
-            <div class="col-md-4 col-sm-6 portfolio-item">
-                <div class="portfolio-caption text-left">
+            <div class="col-md-4 col-sm-6 portfolio-item wow fadeInUp">
+                <div class="portfolio-caption text-center">
                     <div class="img-holder text-center ">
                         <img src="img/osr/key-features/kf1.png" class="img-fluid" style="position: relative;left:00%;top:-40%">
                     </div>
@@ -168,9 +183,9 @@
                     <p class="text-muted" style="font-size:14px">Ranges cater to all weapons like 5.56 mm INSAS, 7.62 mm, SLR, 9 mm Carbine, AK-47,MP5, Pistols of all caliber.</p>
                 </div>
             </div>
-            <div class="col-md-4 col-sm-6 portfolio-item">
+            <div class="col-md-4 col-sm-6 portfolio-item wow fadeInUp">
 
-                <div class="portfolio-caption text-left">
+                <div class="portfolio-caption text-center">
                     <div class="img-holder text-center ">
                         <img src="img/osr/key-features/kf2.png" class="img-fluid" style="position: relative;left:5%;top:-40%">
                     </div>
@@ -178,9 +193,9 @@
                     <p class="text-muted" style="font-size:14px">for changing training scenarios and variable lighting intensity.</p>
                 </div>
             </div>
-            <div class="col-md-4 col-sm-6 portfolio-item">
+            <div class="col-md-4 col-sm-6 portfolio-item wow fadeInUp">
 
-                <div class="portfolio-caption text-left">
+                <div class="portfolio-caption text-center">
                     <div class="img-holder text-center ">
                         <img src="img/osr/key-features/kf3.png" class="img-fluid" style="position: relative;left:5%;top:-40%">
                     </div>
@@ -189,9 +204,9 @@
 </p>
                 </div>
             </div> 
-            <div class="col-md-4 col-sm-6 portfolio-item">
+            <div class="col-md-4 col-sm-6 portfolio-item wow fadeInUp">
 
-                <div class="portfolio-caption text-left">
+                <div class="portfolio-caption text-center">
                     <div class="img-holder text-center ">
                         <img src="img/osr/key-features/kf4.png" class="img-fluid" style="position: relative;left:5%;top:-40%">
                     </div>
@@ -199,9 +214,9 @@
                     <p class="text-muted" style="font-size:14px">multiple movements can be achived 360 degrees, pop up, turning, slicing, rotate.</p>
                 </div>
             </div>
-            <div class="col-md-4 col-sm-6 portfolio-item">
+            <div class="col-md-4 col-sm-6 portfolio-item wow fadeInUp">
 
-                <div class="portfolio-caption text-left">
+                <div class="portfolio-caption text-center">
                     <div class="img-holder text-center ">
                         <img src="img/osr/key-features/kf5.png" class="img-fluid" style="position: relative;left:5%;top:-40%">
                     </div>
@@ -209,9 +224,9 @@
                     <p class="text-muted" style="font-size:14px">multiple targets can be controlled by single handheld controller from a range of 1 km.</p>
                 </div>
             </div>
-            <div class="col-md-4 col-sm-6 portfolio-item">
+            <div class="col-md-4 col-sm-6 portfolio-item wow fadeInUp">
 
-                <div class="portfolio-caption text-left">
+                <div class="portfolio-caption text-center">
                     <div class="img-holder text-center ">
                         <img src="img/osr/key-features/kf6.png" class="img-fluid" style="position: relative;left:5%;top:-40%">
                     </div>
@@ -227,35 +242,35 @@
 <section class="bg-s" style="height: 100%" >
     <div class="container">
         <div class="row my-4">
-            <div class="col-md-4 col-sm-6 col-8 offset-sm-0 offset-md-0 offset-2">
-                <h2 class="section-heading my-4" style="font-weight: 100">Other <br> <span class="c-p">Essential Features</span></h2>
+            <div class="col-md-12 text-center">
+                <h2 class="section-heading my-4" style="font-weight: 100">Other <span class="c-p">Great Features</span></h2>
             </div>
 
-            <div class="col-md-4 col-sm-6 col-8 offset-sm-0 offset-md-0 offset-2">
+            <div class="col-md-4 col-sm-6 col-8 offset-sm-0 gf wow fadeInUp offset-md-0 offset-2">
                 <img src="img/osr/essential-features/ef-01.png">
                 <h5 >REMOTE OPERATION</h5>
                 <p class="text-muted c-w w-75" style="font-weight: 200">All Aimtrex ranges can be controlled Wirelessly from a distance of up to 1 km,
 Ensuring you are always in control.
 </p>
             </div>
-            <div class="col-md-4 col-sm-6 col-8 offset-sm-0 offset-md-0 offset-2">
+            <div class="col-md-4 col-sm-6 col-8 offset-sm-0 gf wow fadeInUp offset-md-0 offset-2">
                 <img src="img/osr/essential-features/ef-02.png">
                 <h5 >SAFETY MEASURES</h5>
                 <p class="text-muted c-w w-75" style="font-weight: 200">Special attention to safety provided: firefighting equipment, emergency alarms, emergency exits, and anti-ricochet treatment in every range.
  </p>
             </div>
-            <div class="col-md-4 col-sm-6 col-8 offset-sm-0 offset-md-0 offset-2">
+            <div class="col-md-4 col-sm-6 col-8 offset-sm-0 gf wow fadeInUp offset-md-0 offset-2">
                 <img src="img/osr/essential-features/ef-03.png">
                 <h5>CONTROL STATION</h5>
                 <p class="text-muted c-w w-75"  style="font-weight: 200">wireless controller, ventilation system, scenario based lighting, cctv surveillance, PA system, 2 way audio, scoring, indexing shooting performance.
 </p>
             </div>
-            <div class="col-md-4 col-sm-6 col-8 offset-sm-0 offset-md-0 offset-2">
+            <div class="col-md-4 col-sm-6 col-8 offset-sm-0 gf wow fadeInUp offset-md-0 offset-2">
                 <img src="img/osr/essential-features/ef-04.png">
                 <h5 >HIT DISPLAY:</h5>
                 <p class="text-muted c-w w-75" style="font-weight: 200">LCD monitors at each firing bay to display location of hits and misses.</p>
             </div>
-            <div class="col-md-4 col-sm-6 col-8 offset-sm-0 offset-md-0 offset-2">
+            <div class="col-md-4 col-sm-6 col-8 offset-sm-0 gf wow fadeInUp offset-md-0 offset-2">
                 <img src="img/osr/essential-features/ef-05.png">
                 <h5>UNIQUE STEEL PLATING:</h5>
                 <p class="text-muted c-w w-75" style="font-weight: 200">the construction is embedded with rugged rugged steel exterior walls made to withstand extreme usage.
@@ -306,46 +321,40 @@ Ensuring you are always in control.
 </script>
 
 
-
-<!-- Team -->
-<section class="bg-light" id="team">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12 text-center">
-                <h2 class="section-heading text-uppercase">Supported By</h2>
-                <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+    <!-- Team -->
+    <section class="bg-light py-2" id="team"  >
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <p class="lead section-heading text-uppercase">Supported By</p>
+                    <!--<h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>-->
+                </div>
             </div>
+            <div class="row py-2">
+                <div class="col-sm-3 col-6 text-center">
+                    <img class="mx-auto img-fluid py-2" src="../../img/support/1.jpg" alt="">
+                </div>
+                <div class="col-sm-3 col-6 text-center">
+                    <img class="mx-auto img-fluid py-2 " src="../../img/support/2.jpg" alt="">
+                </div>
+                <div class="col-sm-3 col-6 text-center">
+                    <img class="mx-auto  img-fluid py-2 " src="../../img/support/3.jpg" alt="">
+                </div>
+                <div class="col-sm-3 col-6 text-center">
+                    <img class="mx-auto  img-fluid py-2" src="../../img/support/4.jpg" alt="">
+                </div>
+
+            </div>
+
         </div>
-        <div class="row">
-            <div class="col-sm-3 col-6">
-                <img class="mx-auto py-2" src="../../img/support/1.jpg" alt="">
-            </div>
-            <div class="col-sm-3 col-6">
-                <img class="mx-auto py-2 " src="../../img/support/2.jpg" alt="">
-            </div>
-            <div class="col-sm-3 col-6">
-                <img class="mx-auto py-2 " src="../../img/support/3.jpg" alt="">
-            </div>
-            <div class="col-sm-3 col-6">
-                <img class="mx-auto py-2" src="../../img/support/4.jpg" alt="">
-            </div>
-
-        </div>
-        <!--<div class="row">-->
-            <!--<div class="col-lg-8 mx-auto text-center">-->
-                <!--<p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>-->
-            <!--</div>-->
-        <!--</div>-->
-    </div>
-</section>
-
+    </section>
 
 
     <!-- Footer -->
     <footer class="bg-s">
         <div class="container ">
             <div class="row">
-                <div class="col-md-4 text-left my-5">
+                <div class="col-md-4 text-center my-5">
                     <img src="../../img/logo/1.png" class="img-fluid" width="250px" style="mix-blend-mode: luminosity" ><br>
                     <span class="copyright mt-4">© Aimtrex Technologies. All rights reserved.</span>
                 </div>

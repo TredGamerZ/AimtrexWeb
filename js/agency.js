@@ -53,4 +53,20 @@ $('.dropdown-toggle').click(function() {
     var location = $(this).attr('href');
     window.location.href = location;
     return false;
-}); new WOW().init();
+});
+
+
+
+window.addEventListener('DOMContentLoaded', function() {
+    QueryLoader2(document.querySelector("body"), {
+        barColor: "#efefef",
+        backgroundColor: "#111",
+        percentage: true,
+        barHeight: 1,
+        minimumTime: 200,
+        fadeOutTime: 500,
+        onComplete:function() {
+            new WOW().init()
+        }
+    });
+});

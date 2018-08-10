@@ -14,6 +14,12 @@
             src="https://code.jquery.com/jquery-3.3.1.min.js"
             integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
             crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/queryloader2@3.2.3/queryloader2.min.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.css" />
+
+
     <script src="../../js/owl.carousel.min.js"></script>
     <!-- Bootstrap core CSS -->
     <link href="../../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -29,6 +35,8 @@
     <link href="../../css/agency.min.css" rel="stylesheet">
     <link href="../../css/owl.carousel.css" rel="stylesheet">
     <link href="../../css/owl.theme.default.css" rel="stylesheet">
+
+
 
 </head>
 <style>
@@ -111,31 +119,42 @@
 
 <!-- Header -->
 <header class="masthead" style="position:relative;
-  overflow:hidden;height: 800px">
-    <img src="img/csr/header.jpg"  style="position: absolute;max-height: 900px;min-width: 100%;z-index: 0;;opacity: 0.5;left: 0px">
+  overflow:hidden; ">
     <div class="container text-left" style="z-index: 10;position: relative">
-        <div class="row intro-text">
-            <div class="col-md-12 intro-heading ">Containerized <span class="c-p">Shooting </span> <br> Ranges</div>
-            <div class="col-md-7 col-sm-8 col-12">
+        <div class="row intro-text ">
+            <div class="col-md-12 intro-heading wow fadeInUp ">Containerized <span class="c-p">Shooting </span> <br> Ranges</div>
+            <div class="col-md-7 col-sm-8 col-12 wow fadeInUp">
                 <p class="lead c-w    " >Aimtrex Insta-range is a turnkey solution which is a self contained marksmanship training facility. The whole structure is modular in nature. It allows setting up a shooting range at any place, and for any period of time. </p>
                 <a class="btn btn-primary btn-lg  js-scroll-trigger" href="#services">Tell Me More</a>
             </div>
         </div>
     </div>
 </header>
-
+    <style>
+        .masthead::before{
+            opacity: 0.4; left: 0;
+            top: 0;
+            position: absolute;
+            background: url(img/csr/header.jpg) center;
+            background-size: cover;
+            content: "";
+            width: 100%;
+            height: 100%;
+            display: inline-block;
+        }
+    </style>
 <!-- Services -->
 <section id="services">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 text-left">
-                <h2 class="section-heading ">What is<br>
+                <h2 class="section-heading wow fadeInLeft ">What is<br>
                     <span class="c-p">Containerized</span> shooting range ?</h2>
                 <h3 class="section-subheading text-muted"></h3>
             </div>
         </div>
         <div class="row" >
-            <div class="col-lg-6 ">
+            <div class="col-lg-6 wow fadeInLeft">
                 <p class="text-muted bg-white">Aimtrex Instarange is a next generation solution made in compliance
                     <br>with world-class standards for live firing shooting ranges. <br>
                <br>Some advantages of a containerised shooting ranges are:
@@ -146,7 +165,7 @@
 <li >a very cost effective solution made in compliance with world class standards for live firing shooting ranges</li>
 </ul></p>
             </div>
-            <div class="col-lg-6" >
+            <div class="col-lg-6 wow fadeInRight" >
                 <img src="img/csr/body-1.jpg" class="img-fluid">
             </div>
         </div>
@@ -158,14 +177,14 @@
 <section class="bg-light" id="portfolio">
     <div class="container">
         <div class="row">
-            <div class="col-lg-12 text-center">
+            <div class="col-lg-12 text-center wow fadeInUp">
                 <h2 class="section-heading ">Key <span class="c-p">Features</span></h2>
                 <h3 class="section-subheading text-muted"> </h3>
             </div>
         </div>
         <div class="row ">
-            <div class="col-md-4 col-sm-6 portfolio-item">
-                <div class="portfolio-caption text-left">
+            <div class="col-md-4 col-sm-6 portfolio-item wow fadeInUp ">
+                <div class="portfolio-caption text-center">
                     <div class="img-holder text-center ">
                         <img src="img/csr/key-features/kf1.png" class="img-fluid" style="position: relative;left:00%;top:-40%">
                     </div>
@@ -173,9 +192,9 @@
                     <p class="text-muted" style="font-size:14px">Multiple movements can be achived 360 degrees, pop up, turning, slicing, rotate.</p>
                 </div>
             </div>
-            <div class="col-md-4 col-sm-6 portfolio-item">
+            <div class="col-md-4 col-sm-6 portfolio-item wow fadeInUp">
 
-                <div class="portfolio-caption text-left">
+                <div class="portfolio-caption text-center">
                     <div class="img-holder text-center ">
                         <img src="img/csr/key-features/kf2.png" class="img-fluid" style="position: relative;left:5%;top:-40%">
                     </div>
@@ -183,9 +202,9 @@
                     <p class="text-muted" style="font-size:14px">The rugged construction insures that you can train repeatedly and continuously. </p>
                 </div>
             </div>
-            <div class="col-md-4 col-sm-6 portfolio-item">
+            <div class="col-md-4 col-sm-6 portfolio-item wow fadeInUp">
 
-                <div class="portfolio-caption text-left">
+                <div class="portfolio-caption text-center">
                     <div class="img-holder text-center ">
                         <img src="img/csr/key-features/kf3.png" class="img-fluid" style="position: relative;left:5%;top:-40%">
                     </div>
@@ -193,8 +212,8 @@
                     <p class="text-muted" style="font-size:14px">All systems are lightweight and are powered by rechargeable batteries.
                         Requires no electrical wiring!</p>
                 </div>
-            </div> <div class="col-md-4 col-sm-6 portfolio-item">
-                <div class="portfolio-caption text-left">
+            </div> <div class="col-md-4 col-sm-6 portfolio-item wow fadeInUp">
+                <div class="portfolio-caption text-center">
                     <div class="img-holder text-center ">
                         <img src="img/csr/key-features/kf4.png" class="img-fluid" style="position: relative;left:5%;top:-40%">
                     </div>
@@ -202,9 +221,9 @@
                     <p class="text-muted" style="font-size:14px">Aimtrex's patented and customized bullet trap ensures 100000 bullet hits.</p>
                 </div>
             </div>
-            <div class="col-md-4 col-sm-6 portfolio-item">
+            <div class="col-md-4 col-sm-6 portfolio-item wow fadeInUp">
 
-                <div class="portfolio-caption text-left">
+                <div class="portfolio-caption text-center">
                     <div class="img-holder text-center ">
                         <img src="img/csr/key-features/kf5.png" class="img-fluid" style="position: relative;left:5%;top:-40%">
                     </div>
@@ -212,9 +231,9 @@
                     <p class="text-muted" style="font-size:14px">Aimtrex advance targets are now an industry standard for shooting practice and training throughout India.</p>
                 </div>
             </div>
-            <div class="col-md-4 col-sm-6 portfolio-item">
+            <div class="col-md-4 col-sm-6 portfolio-item wow fadeInUp">
 
-                <div class="portfolio-caption text-left">
+                <div class="portfolio-caption text-center">
                     <div class="img-holder text-center ">
                         <img src="img/csr/key-features/kf6.png" class="img-fluid" style="position: relative;left:5%;top:-40%">
                     </div>
@@ -230,50 +249,50 @@
 <section class="bg-s" style="height: 100%" >
     <div class="container">
         <div class="row my-4">
-            <div class="col-md-12 col-sm-12 col-12 text-center  ">
+            <div class="col-md-12 col-sm-12 col-12 text-center  wow fadeInUp ">
                 <h2 class="section-heading my-4" style="font-weight: 100">Other  <span class="c-p">Great Features</span></h2>
             </div>
 
-            <div class="col-md-4 col-sm-6 gf col-8 offset-sm-0 offset-md-0 offset-2">
+            <div class="col-md-4 col-sm-6 gf col-8 offset-sm-0 offset-md-0 offset-2 wow fadeInUp">
                 <img src="img/csr/essential-features/ef-01.png">
                 <h5 >COST EFFECTIVE:</h5>
                 <p class="text-muted c-w    " style="font-weight: 200">Timely delivery, standard materials and ever available manpower ensures that the construction is economical. </p>
             </div>
-            <div class="col-md-4 col-sm-6 gf col-8 offset-sm-0 offset-md-0 offset-2">
+            <div class="col-md-4 col-sm-6 gf col-8 offset-sm-0 offset-md-0 offset-2 wow fadeInUp">
                 <img src="img/csr/essential-features/ef-02.png">
                 <h5>WORLD CLASS STANDARD: </h5>
                 <p class="text-muted c-w    " style="font-weight: 200">only indian company which has own ground experience with a proven track record.</p>
             </div>
 
-            <div class="col-md-4 col-sm-6  gf col-8 offset-sm-0 offset-md-0 offset-2">
+            <div class="col-md-4 col-sm-6  gf col-8 offset-sm-0 offset-md-0 offset-2 wow fadeInUp">
                 <img src="img/csr/essential-features/ef-03.png">
                 <h5 >Easily Portable</h5>
                 <p class="text-muted c-w    " style="font-weight: 200">All systems are fully portable and require no permanent constructions for setup.</p>
             </div>
-            <div class="col-md-4 col-sm-6 gf col-8 offset-sm-0 offset-md-0 offset-2">
+            <div class="col-md-4 col-sm-6 gf col-8 offset-sm-0 offset-md-0 offset-2 wow fadeInUp">
                 <img src="img/csr/essential-features/ef-04.png">
                 <h5 >ROUND-THE-CLOCK UTILIZATION:</h5>
                 <p class="text-muted c-w    " style="font-weight: 200">the range requires no outside setup or electricity which ensures independent and hassle free usages. </p>
             </div>
-            <div class="col-md-4 col-sm-6 gf col-8 offset-sm-0 offset-md-0 offset-2">
+            <div class="col-md-4 col-sm-6 gf col-8 offset-sm-0 offset-md-0 offset-2 wow fadeInUp">
                 <img src="img/csr/essential-features/ef-05.png">
                 <h5>EASY SETUP:</h5>
                 <p class="text-muted c-w    "  style="font-weight: 200">Based on the users requirement the setup can be temporary or permanent.
 </p>
             </div>
 
-            <div class="col-md-4 col-sm-6 gf  col-8 offset-sm-0 offset-md-0 offset-2">
+            <div class="col-md-4 col-sm-6 gf  col-8 offset-sm-0 offset-md-0 offset-2 wow fadeInUp">
                 <img src="img/csr/essential-features/ef-06.png">
                 <h5 >AIR CONDITIONED:</h5>
                 <p class="text-muted c-w    " style="font-weight: 200">all aimtrex containerized ranges comes with temperature controlled environment to provide comfort while the training. 
 </p>
             </div>
-            <div class="col-md-4 col-sm-6 gf col-8 offset-sm-0 offset-md-0 offset-2">
+            <div class="col-md-4 col-sm-6 gf col-8 offset-sm-0 offset-md-0 offset-2 wow fadeInUp">
                 <img src="img/csr/essential-features/ef-07.png">
                 <h5 >CONTROL STATION: </h5>
                 <p class="text-muted c-w    " style="font-weight: 200">wireless controller, ventilation system, scenario based lighting, cctv surveillance, PA system, 2 way audio, scoring, indexing shooting performance.</p>
             </div>
-            <div class="col-md-4 col-sm-6 gf col-8 offset-sm-0 offset-md-0 offset-2">
+            <div class="col-md-4 col-sm-6 gf col-8 offset-sm-0 offset-md-0 offset-2 wow fadeInUp">
                 <img src="img/csr/essential-features/ef-08.png">
                 <h5>ACOUSTIC REDUCTION SYSTEM:</h5>
                 <p class="text-muted c-w    " style="font-weight: 200">high grade noise reduction materials to ensure a hassle free training environment and sound proofing/abatement to distort the travelling sound. 
@@ -407,6 +426,7 @@
 
 <!-- Custom scripts for this template -->
 <script src="../../js/agency.min.js"></script>
+
 
 
 </body>
