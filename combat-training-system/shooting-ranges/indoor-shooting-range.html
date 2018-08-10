@@ -113,14 +113,18 @@
     <!-- Header -->
 
     <!-- Header -->
-    <header class="masthead" style="position:relative;
-  overflow:hidden;">
-        <img src="img/isr/header.jpg"  style="position: absolute;max-height: 900px;min-width: 100%;z-index: 0;opacity: 0.5;left: 0px">
-        <div class="container text-left p-4" style="z-index: 10;position: relative">
+
+    <header class="masthead imgc" >
+
+
+
+        <div class="container text-left p-4 " style="z-index: 10;position: relative">
+
+
 
             <div class="row intro-text">
                 <div class="col-md-12 intro-heading ">Indoor <span class="c-p">Shooting</span> Ranges<br> equally valuable</div>
-                <div class="col-md-7 col-sm-8 col-12">
+                <div class="col-md-7 col-sm-8 col-12 ">
                     <p class="lead c-w " >Aimtrex specialises in Design, Development and manufacturing of all types of shooting ranges. Whether your organisation needs an
                         outdoor or an indoor range, Aimtrex customises a solution specific to your needs</p>
                     <a class="btn btn-primary btn-lg  js-scroll-trigger" href="#services">Tell Me More</a>
@@ -130,7 +134,19 @@
 
         </div>
     </header>
-
+    <style>
+         .masthead::before{
+             opacity: 0.4; left: 0;
+            top: 0;
+            position: absolute;
+             background: url(img/isr/header.jpg) center;
+             background-size: cover;
+             content: "";
+             width: 100%;
+             height: 100%;
+             display: inline-block;
+        }
+    </style>
     <!-- Services -->
     <section id="services">
         <div class="container">
@@ -176,7 +192,7 @@
             </div>
             <div class="row ">
                 <div class="col-md-4 col-sm-6 portfolio-item">
-                    <div class="portfolio-caption text-left">
+                    <div class="portfolio-caption text-center">
                         <div class="img-holder text-center ">
                             <img src="img/isr/key-features/kf1.png" class="img-fluid" style="position: relative;left:00%;top:-40%">
                         </div>
@@ -186,7 +202,7 @@
                 </div>
                 <div class="col-md-4 col-sm-6 portfolio-item">
 
-                    <div class="portfolio-caption text-left">
+                    <div class="portfolio-caption text-center">
                         <div class="img-holder text-center ">
                             <img src="img/isr/key-features/kf2.png" class="img-fluid" style="position: relative;left:5%;top:-40%">
                         </div>
@@ -196,7 +212,7 @@
                 </div>
                 <div class="col-md-4 col-sm-6 portfolio-item">
 
-                    <div class="portfolio-caption text-left">
+                    <div class="portfolio-caption text-center">
                         <div class="img-holder text-center ">
                             <img src="img/isr/key-features/kf3.png" class="img-fluid" style="position: relative;left:5%;top:-40%">
                         </div>
@@ -204,7 +220,7 @@
                         <p class="text-muted" style="font-size:14px">Lighting System to simulate day, dusk, and moonlight</p>
                     </div>
                 </div> <div class="col-md-4 col-sm-6 portfolio-item">
-                <div class="portfolio-caption text-left">
+                <div class="portfolio-caption text-center">
                     <div class="img-holder text-center ">
                         <img src="img/isr/key-features/kf4.png" class="img-fluid" style="position: relative;left:5%;top:-40%">
                     </div>
@@ -214,7 +230,7 @@
             </div>
                 <div class="col-md-4 col-sm-6 portfolio-item">
 
-                    <div class="portfolio-caption text-left">
+                    <div class="portfolio-caption text-center">
                         <div class="img-holder text-center ">
                             <img src="img/isr/key-features/kf5.png" class="img-fluid" style="position: relative;left:5%;top:-40%">
                         </div>
@@ -224,7 +240,7 @@
                 </div>
                 <div class="col-md-4 col-sm-6 portfolio-item">
 
-                    <div class="portfolio-caption text-left">
+                    <div class="portfolio-caption text-center">
                         <div class="img-holder text-center ">
                             <img src="img/isr/key-features/kf6.png" class="img-fluid" style="position: relative;left:5%;top:-40%">
                         </div>
@@ -284,6 +300,7 @@
                         <img    src="img/isr/carousel/1.jpg">
                         <img  src="img/isr/carousel/2.jpg">
                         <img   src="img/isr/carousel/3.jpg">
+                        <img   src="img/isr/carousel/5.jpg">
 
 
                     </div>

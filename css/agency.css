@@ -217,12 +217,20 @@ header.masthead {
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
-  height: 900px;
-  overflow: hidden;
+  position: relative;
+  height: 100% !important;
+  top: 70px !important;
+  overflow-y: hidden;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+}
+
+header.masthead img {
+  height: 100% !important;
+  top: 70px !important;
+  left: -50% !important;
 }
 
 header.masthead .intro-text {
@@ -256,6 +264,16 @@ header.masthead .intro-text .intro-heading {
 }
 
 @media (min-width: 768px) {
+  header.masthead {
+    height: 900px !important;
+    top: 0px !important;
+  }
+  header.masthead img {
+    max-height: 900px !important;
+    min-width: 100% !important;
+    top: 0 !important;
+    left: 0 !important;
+  }
   header.masthead .intro-text {
     padding-top: 300px;
     padding-bottom: 200px;
@@ -349,14 +367,21 @@ header.masthead .intro-text .intro-heading {
 
 #portfolio .portfolio-item .portfolio-caption h4 {
   margin: 0;
+  margin-top: 20px;
   text-transform: none;
+  text-align: center;
 }
 
 #portfolio .portfolio-item .portfolio-caption p {
+  text-align: center;
   font-size: 16px;
   margin: 0;
   line-height: 20px;
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+#portfolio .portfolio-item .portfolio-caption .img-holder {
+  display: inline-block;
 }
 
 #portfolio * {
