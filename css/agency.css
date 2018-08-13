@@ -751,7 +751,7 @@ section#contact :-ms-input-placeholder {
 
 footer {
   padding: 25px 0;
-  text-align: center;
+  text-align: center !important;
 }
 
 footer span.copyright {
@@ -802,7 +802,7 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 }
 
 .gf p {
-  text-align: left;
+  text-align: center;
 }
 
 .wow {

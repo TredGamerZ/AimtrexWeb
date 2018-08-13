@@ -13,7 +13,10 @@
     <script
             src="https://code.jquery.com/jquery-3.3.1.min.js"
             integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
-            crossorigin="anonymous"></script>
+            crossorigin="anonymous"></script><script src="https://cdn.jsdelivr.net/npm/queryloader2@3.2.3/queryloader2.min.js"></script>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/wow/1.1.2/wow.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.7.0/animate.css" />
     <script src="../../js/owl.carousel.min.js"></script>
     <!-- Bootstrap core CSS -->
     <link href="../../vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
@@ -39,107 +42,50 @@
 
 
     <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg navbar-dark fixed-top " id="mainNav" >
-        <div class="container">
-            <a class="navbar-brand js-scroll-trigger" href="/"><img src="../../img/logo/2.png" width="180px"></a>
-            <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-                <i class="fa fa-bars">
-                </i>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarResponsive">
-                <ul class="navbar-nav  ml-auto">
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="/combat-training-system/shooting-ranges/index.html" id="srdropdown" role="button" data-toggle="dropdown" >
-                            Shooting Ranges
-                        </a>
-                        <div class="dropdown-menu" aria-labelledby="srdropdown">
-                            <a class="dropdown-item" href="/combat-training-system/shooting-ranges/indoor-shooting-range.html">Indoor Shooting Range</a>
-                            <a class="dropdown-item" href="/combat-training-system/shooting-ranges/containerized-shooting-range.html">Containerized Shooting Range</a>
-                            <a class="dropdown-item" href="/combat-training-system/shooting-ranges/hybrid-shooting-range.html">Hybrid Shooting Range</a>
-                            <a class="dropdown-item" href="/combat-training-system/shooting-ranges/outdoor-shooting-range.html">Outdoor Shooting Range</a>
-                            <div class="dropdown-divider"></div>
-                            <a class="dropdown-item" href="/combat-training-system/shooting-ranges/shooting-range-services.html">Shooting Range Services</a>
-                        </div>
-                    </li>
-
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="/combat-training-system/target-systems/index.html" id="tsdropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            Target Systems
-                        </a>
-                        <div class="dropdown-menu" aria-labelledby="tsdropdown">
-                            <a class="dropdown-item" href="/combat-training-system/target-systems/multi-function.html">Multi Function</a>
-                            <a class="dropdown-item" href="/combat-training-system/target-systems/sara.html">SARA</a>
-                            <a class="dropdown-item" href="/combat-training-system/target-systems/steel-targets.html">Steel Targets</a>
-
-                        </div>
-                    </li>
-
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle"  href="/combat-training-system/virtual-training-system/index.html" id="vtsdropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            Virtual Training
-                        </a>
-                        <div class="dropdown-menu" aria-labelledby="vtsdropdown">
-                            <a class="dropdown-item" href="/combat-training-system/virtual-training-system/live-fire-simulator.html">Live Fire Simulator</a>
-                            <a class="dropdown-item" href="/combat-training-system/virtual-training-system/immersive-cqb-system.html">Immersive CQB System</a>
-                        </div>
-                    </li>
-
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle"  href="/combat-training-system/shoot-houses/index.html" id="shdropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            Shoot Houses
-                        </a>
-                        <div class="dropdown-menu" aria-labelledby="shdropdown">
-                            <a class="dropdown-item" href="/combat-training-system/shoot-houses/Modular-shoot-house.html">Modular Shoot Houses</a>
-                            <a class="dropdown-item" href="/combat-training-system/shoot-houses/fixed-shoot-house.html">Fixed Shoot Houses</a>
-                        </div>
-                    </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="/combat-training-system/safety-equipments/index.html" id="sedropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            Safety
-                        </a>
-                        <div class="dropdown-menu" aria-labelledby="sedropdown">
-                            <a class="dropdown-item" href="/combat-training-system/safety-equipments/cctv.html">CCTV</a>
-                            <a class="dropdown-item" href="/combat-training-system/safety-equipments/eyes-ear-protection.html">Eyes & Ear Protection</a>
-                            <a class="dropdown-item" href="/combat-training-system/safety-equipments/portable-clearing-tap.html">Portable Clearing Tap</a>
-                            <a class="dropdown-item" href="/combat-training-system/safety-equipments/fire-fighting-system.html">Fire Fighting System</a>
-                        </div>
-                    </li>
-
-                </ul>
-            </div>
-        </div>
-    </nav>
-
+  <nav class="navbar navbar-expand-lg navbar-dark fixed-top " id="mainNav" >         <div class="container">             <a class="navbar-brand js-scroll-trigger" href="/"><img src="../../img/logo/2.png" width="180px"></a>             <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">                 <i class="fa fa-bars">                 </i>             </button>             <div class="collapse navbar-collapse" id="navbarResponsive">                 <ul class="navbar-nav  ml-auto">                     <li class="nav-item dropdown">                         <a class="nav-link dropdown-toggle" href="/combat-training-system/shooting-ranges/index.html" id="srdropdown" role="button" data-toggle="dropdown" >                             Shooting Ranges                         </a>                         <div class="dropdown-menu" aria-labelledby="srdropdown">                             <a class="dropdown-item" href="/combat-training-system/shooting-ranges/indoor-shooting-range.html">Indoor Shooting Range</a>                             <a class="dropdown-item" href="/combat-training-system/shooting-ranges/containerized-shooting-range.html">Containerized Shooting Range</a>                             <a class="dropdown-item" href="/combat-training-system/shooting-ranges/hybrid-shooting-range.html">Hybrid Shooting Range</a>                             <a class="dropdown-item" href="/combat-training-system/shooting-ranges/outdoor-shooting-range.html">Outdoor Shooting Range</a>                             <div class="dropdown-divider"></div>                             <a class="dropdown-item" href="/combat-training-system/shooting-ranges/shooting-range-services.html">Shooting Range Services</a>                         </div>                     </li>                      <li class="nav-item dropdown">                         <a class="nav-link dropdown-toggle" href="/combat-training-system/target-systems/index.html" id="tsdropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">                             Target Systems                         </a>                         <div class="dropdown-menu" aria-labelledby="tsdropdown">                             <a class="dropdown-item" href="/combat-training-system/target-systems/multi-function.html">Multi Function</a>                             <a class="dropdown-item" href="/combat-training-system/target-systems/sara.html">SARA</a>                             <a class="dropdown-item" href="/combat-training-system/target-systems/steel-targets.html">Steel Targets</a>                          </div>                     </li>                      <li class="nav-item dropdown">                         <a class="nav-link dropdown-toggle"  href="/combat-training-system/virtual-training-system/index.html" id="vtsdropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">                             Virtual Training                         </a>                         <div class="dropdown-menu" aria-labelledby="vtsdropdown">                             <a class="dropdown-item" href="/combat-training-system/virtual-training-system/live-fire-simulator.html">Live Fire Simulator</a>                             <a class="dropdown-item" href="/combat-training-system/virtual-training-system/immersive-cqb-system.html">Immersive CQB System</a>                         </div>                     </li>                      <li class="nav-item dropdown">                         <a class="nav-link dropdown-toggle"  href="/combat-training-system/shoot-houses/index.html" id="shdropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">                             Shoot Houses                         </a>                         <div class="dropdown-menu" aria-labelledby="shdropdown">                             <a class="dropdown-item" href="/combat-training-system/shoot-houses/Modular-shoot-house.html">Modular Shoot Houses</a>                             <a class="dropdown-item" href="/combat-training-system/shoot-houses/fixed-shoot-house.html">Fixed Shoot Houses</a>                         </div>                     </li>                     <li class="nav-item dropdown">                         <a class="nav-link dropdown-toggle" href="/combat-training-system/safety-equipments/index.html" id="sedropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">                             Safety Supplies                         </a>                         <div class="dropdown-menu" aria-labelledby="sedropdown">                             <a class="dropdown-item" href="/combat-training-system/safety-equipments/cctv.html">CCTV</a>                             <a class="dropdown-item" href="/combat-training-system/safety-equipments/eyes-ear-protection.html">Eyes & Ear Protection</a>                             <a class="dropdown-item" href="/combat-training-system/safety-equipments/portable-clearing-tap.html">Portable Clearing Tap</a>                             <a class="dropdown-item" href="/combat-training-system/safety-equipments/fire-fighting-system.html">Fire Fighting System</a>                             <a class="dropdown-item" href="/combat-training-system/safety-equipments/training-ammunition.html">Training Ammunition</a>                         </div>                     </li>                  </ul>             </div>         </div>     </nav>
 <!-- Header -->
 <header class="masthead" style="position:relative;
   overflow:hidden;">
-    <img src="img/msh/header.jpg" style="position: absolute;height: 100%;min-width: 100%;z-index: 0;opacity: 0.5;left: 0px">
     <div class="container text-left" style="z-index: 10;position: relative">
-        <div class="intro-text">
-            <div class="intro-heading ">Modular <span class="c-p">Shoot</span> <br> Houses</div>
-            <p class="lead c-w w-75" >Aimtrex Shoot House or Kill House provides realistic and dynamic
-training environments that replicate the challenges and situations soldiers face in the
-real world. It is virtually indestructible and allows multiple live-fire teams to operate
-simultaneously and safely in various rooms. Structure assembled with ballistic bulletproof
-walls, doors, and windows.
- </p>
-            <a class="btn btn-primary btn-lg  js-scroll-trigger" href="#services">Tell Me More</a>
+        <div class="intro-text row">
+            <div class="intro-heading col-md-12 wow fadeInUp">Modular <span class="c-p">Shoot</span> <br> Houses</div>
+            <div class="col-md-10 col-lg-8 col-xl-7 wow fadeInUp">
+                <p class="lead c-w  " >Aimtrex Shoot House or Kill House provides realistic and dynamic
+                    training environments that replicate the challenges and situations soldiers face in the
+                    real world. It is virtually indestructible and allows multiple live-fire teams to operate
+                    simultaneously and safely in various rooms. Structure assembled with ballistic bulletproof
+                    walls, doors, and windows.
+                </p>
+                <a class="btn btn-primary btn-lg  js-scroll-trigger" href="#services">Tell Me More</a>
+            </div>
         </div>
     </div>
 </header>
-
+    <style>
+        .masthead::before{
+            opacity: 0.4; left: 0;
+            top: 0;
+            position: absolute;
+            background: url(img/msh/header.jpg) center;
+            background-size: cover;
+            content: "";
+            width: 100%;
+            height: 100%;
+            display: inline-block;
+        }
+    </style>
 <!-- Services -->
 <section id="services">
     <div class="container">
         <div class="row">
-            <div class="col-lg-12 text-left">
-                <h2 class="section-heading ">What is<br>
+            <div class="col-lg-12 text-left wow fadeInLeft">
+                <h2 class="section-heading ">What is a<br>
                     <span class="c-p">Modular</span> shooting range ?</h2>
                 <h3 class="section-subheading text-muted"></h3>
             </div>
         </div>
         <div class="row" >
-            <div class="col-lg-6 ">
+            <div class="col-lg-6 wow fadeInLeft ">
                 <p class="text-muted bg-white">Aimtrex Shoot House or Kill House provides realistic and dynamic
 training environments that replicate the challenges and situations soldiers face in the
 real world. It is virtually indestructible and allows multiple live-fire teams to operate
@@ -148,7 +94,7 @@ walls, doors, and windows.
 
 </p>
             </div>
-            <div class="col-lg-6" >
+            <div class="col-lg-6 wow fadeInRight" >
                 <img src="img/msh/body-1.jpg" class="img-fluid">
             </div>
         </div>
@@ -160,14 +106,14 @@ walls, doors, and windows.
 <section class="bg-light" id="portfolio">
     <div class="container">
         <div class="row">
-            <div class="col-lg-12 text-center">
+            <div class="col-lg-12 text-center wow fadeInUp">
                 <h2 class="section-heading ">Key <span class="c-p">Features</span></h2>
-                <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                <h3 class="section-subheading text-muted"> </h3>
             </div>
         </div>
         <div class="row ">
-            <div class="col-md-4 col-sm-6 portfolio-item">
-                <div class="portfolio-caption text-left">
+            <div class="col-md-4 col-sm-6  portfolio-item wow fadeInUp">
+                <div class="portfolio-caption text-center">
                     <div class="img-holder text-center ">
                         <img src="../shooting-ranges/img/msr/key-features/kf1.png" class="img-fluid" style="position: relative;left:00%;top:-40%">
                     </div>
@@ -175,9 +121,9 @@ walls, doors, and windows.
                     <p class="text-muted" style="font-size:14px">all windows, doors and panels come equipped with anti ballistic material.</p>
                 </div>
             </div>
-            <div class="col-md-4 col-sm-6 portfolio-item">
+            <div class="col-md-4 col-sm-6  portfolio-item wow fadeInUp">
 
-                <div class="portfolio-caption text-left">
+                <div class="portfolio-caption text-center">
                     <div class="img-holder text-center ">
                         <img src="../shooting-ranges/img/msr/key-features/kf2.png" class="img-fluid" style="position: relative;left:5%;top:-40%">
                     </div>
@@ -185,9 +131,9 @@ walls, doors, and windows.
                     <p class="text-muted" style="font-size:14px">The rugged construction insures that you can train repeatedly and continuously. </p>
                 </div>
             </div>
-            <div class="col-md-4 col-sm-6 portfolio-item">
+            <div class="col-md-4 col-sm-6  portfolio-item wow fadeInUp">
 
-                <div class="portfolio-caption text-left">
+                <div class="portfolio-caption text-center">
                     <div class="img-holder text-center ">
                         <img src="../shooting-ranges/img/msr/key-features/kf3.png" class="img-fluid" style="position: relative;left:5%;top:-40%">
                     </div>
@@ -196,9 +142,9 @@ walls, doors, and windows.
 </p>
                 </div>
             </div> 
-            <div class="col-md-4 col-sm-6 portfolio-item">
+            <div class="col-md-4 col-sm-6  portfolio-item wow fadeInUp">
 
-                <div class="portfolio-caption text-left">
+                <div class="portfolio-caption text-center">
                     <div class="img-holder text-center ">
                         <img src="../shooting-ranges/img/msr/key-features/kf4.png" class="img-fluid" style="position: relative;left:5%;top:-40%">
                     </div>
@@ -206,9 +152,9 @@ walls, doors, and windows.
                     <p class="text-muted" style="font-size:14px">Made to withstand rough uses and handling without fear of damage.</p>
                 </div>
             </div>
-            <div class="col-md-4 col-sm-6 portfolio-item">
+            <div class="col-md-4 col-sm-6  portfolio-item wow fadeInUp">
 
-                <div class="portfolio-caption text-left">
+                <div class="portfolio-caption text-center">
                     <div class="img-holder text-center ">
                         <img src="../shooting-ranges/img/msr/key-features/kf5.png" class="img-fluid" style="position: relative;left:5%;top:-40%">
                     </div>
@@ -216,9 +162,9 @@ walls, doors, and windows.
                     <p class="text-muted" style="font-size:14px">ALL PARTS INSIDE THE CONSTRUCTION ARE EASILY  REPLACEABLE.</p>
                 </div>
             </div>
-            <div class="col-md-4 col-sm-6 portfolio-item">
+            <div class="col-md-4 col-sm-6  portfolio-item wow fadeInUp">
 
-                <div class="portfolio-caption text-left">
+                <div class="portfolio-caption text-center">
                     <div class="img-holder text-center ">
                         <img src="../shooting-ranges/img/msr/key-features/kf6.png" class="img-fluid" style="position: relative;left:5%;top:-40%">
                     </div>
@@ -234,52 +180,52 @@ walls, doors, and windows.
 <section class="bg-s" style="height: 100%" >
     <div class="container">
         <div class="row my-4">
-            <div class="col-md-4 col-sm-6 col-8 offset-sm-0 offset-md-0 offset-2">
-                <h2 class="section-heading my-4" style="font-weight: 100">Other <br> <span class="c-p">Essential Features</span></h2>
+            <div class="col-md-12 text-center">
+                <h2 class="section-heading my-4" style="font-weight: 100">Other <span class="c-p">Essential Features</span></h2>
             </div>
 
-            <div class="col-md-4 col-sm-6 col-8 offset-sm-0 offset-md-0 offset-2">
+            <div class="col-md-4 col-sm-6 col-8 offset-sm-0 offset-md-0 offset-2 wow fadeInUp gf">
                 <img src="../shooting-ranges/img/msr/essential-features/ef-01.png">
                 <h5 >COST EFFECTIVE:</h5>
-                <p class="text-muted c-w w-75" style="font-weight: 200">Timely delivery, standard materials and ever available manpower ensures that the construction is economical. </p>
+                <p class="text-muted c-w  " style="font-weight: 200">Timely delivery, standard materials and ever available manpower ensures that the construction is economical. </p>
             </div>
-            <div class="col-md-4 col-sm-6 col-8 offset-sm-0 offset-md-0 offset-2">
+            <div class="col-md-4 col-sm-6 col-8 offset-sm-0 offset-md-0 offset-2 wow fadeInUp gf">
                 <img src="../shooting-ranges/img/msr/essential-features/ef-02.png">
                 <h5 >EASY MAINTENANCE:</h5>
-                <p class="text-muted c-w w-75" style="font-weight: 200">Designed to withstand thousands of bullet hits before maintenance is required. Heavily shot panels can be individually replaced.
+                <p class="text-muted c-w  " style="font-weight: 200">Designed to withstand thousands of bullet hits before maintenance is required. Heavily shot panels can be individually replaced.
  </p>
             </div>
-            <div class="col-md-4 col-sm-6 col-8 offset-sm-0 offset-md-0 offset-2">
+            <div class="col-md-4 col-sm-6 col-8 offset-sm-0 offset-md-0 offset-2 wow fadeInUp gf">
                 <img src="../shooting-ranges/img/msr/essential-features/ef-03.png">
                 <h5>SAFETY FIRST:</h5>
-                <p class="text-muted c-w w-75"  style="font-weight: 200">Impenetrable interlocking design of the walls, ceilings and roof make the construction extremely safe.
+                <p class="text-muted c-w  "  style="font-weight: 200">Impenetrable interlocking design of the walls, ceilings and roof make the construction extremely safe.
 </p>
             </div>
-            <div class="col-md-4 col-sm-6 col-8 offset-sm-0 offset-md-0 offset-2">
+            <div class="col-md-4 col-sm-6 col-8 offset-sm-0 offset-md-0 offset-2 wow fadeInUp gf">
                 <img src="../shooting-ranges/img/msr/essential-features/ef-04.png">
                 <h5 >REALISTIC TRAINING</h5>
-                <p class="text-muted c-w w-75" style="font-weight: 200">Replicates real-world challenges within a safe training environment. Lighting, acoustics, electronic target systems etc. enable creation of realistic training scenarios.</p>
+                <p class="text-muted c-w  " style="font-weight: 200">Replicates real-world challenges within a safe training environment. Lighting, acoustics, electronic target systems etc. enable creation of realistic training scenarios.</p>
             </div>
-            <div class="col-md-4 col-sm-6 col-8 offset-sm-0 offset-md-0 offset-2">
+            <div class="col-md-4 col-sm-6 col-8 offset-sm-0 offset-md-0 offset-2 wow fadeInUp gf">
                 <img src="../shooting-ranges/img/msr/essential-features/ef-05.png">
                 <h5>UNIQUE STEEL PLATING:</h5>
-                <p class="text-muted c-w w-75" style="font-weight: 200">the construction is embedded with rugged rugged steel exterior walls made to withstand extreme usage.
+                <p class="text-muted c-w  " style="font-weight: 200">the construction is embedded with rugged rugged steel exterior walls made to withstand extreme usage.
 </p>
             </div>
-            <div class="col-md-4 col-sm-6 col-8 offset-sm-0 offset-md-0 offset-2">
+            <div class="col-md-4 col-sm-6 col-8 offset-sm-0 offset-md-0 offset-2 wow fadeInUp gf">
                 <img src="../shooting-ranges/img/msr/essential-features/ef-06.png">
                 <h5 >PROPER VENTILATION:</h5>
-                <p class="text-muted c-w w-75" style="font-weight: 200">The high ceiling in all Aimtrex Shoot Houses insures a healthy environment and low lead fumes. </p>
+                <p class="text-muted c-w  " style="font-weight: 200">The high ceiling in all Aimtrex Shoot Houses insures a healthy environment and low lead fumes. </p>
             </div>
-            <div class="col-md-4 col-sm-6 col-8 offset-sm-0 offset-md-0 offset-2">
+            <div class="col-md-4 col-sm-6 col-8 offset-sm-0 offset-md-0 offset-2 wow fadeInUp gf">
                 <img src="../shooting-ranges/img/msr/essential-features/ef-07.png">
                 <h5 >MECHANICAL ENTRY:</h5>
-                <p class="text-muted c-w w-75" style="font-weight: 200">a breathable mechanical entry doorway is provided to prevent damage during training drills.</p>
+                <p class="text-muted c-w  " style="font-weight: 200">a breathable mechanical entry doorway is provided to prevent damage during training drills.</p>
             </div>
-            <div class="col-md-4 col-sm-6 col-8 offset-sm-0 offset-md-0 offset-2">
+            <div class="col-md-4 col-sm-6 col-8 offset-sm-0 offset-md-0 offset-2 wow fadeInUp gf">
                 <img src="../shooting-ranges/img/msr/essential-features/ef-08.png">
                 <h5 >RANGE COMMAND CENTER:</h5>
-                <p class="text-muted c-w w-75" style="font-weight: 200">Control room with wireless control, data server firing result, lighting control, and ventilation system operation.</p>
+                <p class="text-muted c-w  " style="font-weight: 200">Control room with wireless control, data server firing result, lighting control, and ventilation system operation.</p>
             </div>
         </div>
     </div>
@@ -291,7 +237,7 @@ walls, doors, and windows.
         <div class="row">
             <div class="col-lg-12 text-center">
                 <h2 class="section-heading ">Featured <span class="c-p">Gallery</span></h2>
-                <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
+                <h3 class="section-subheading text-muted"> </h3>
             </div>
         </div>
         <div class="row">
@@ -327,38 +273,33 @@ walls, doors, and windows.
 </script>
 
 
+    <!-- Team -->
+    <section class="bg-light py-2" id="team"  >
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <p class="lead section-heading text-uppercase">Supported By</p>
+                    <!--<h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>-->
+                </div>
+            </div>
+            <div class="row py-2">
+                <div class="col-sm-3 col-6 text-center">
+                    <img class="mx-auto img-fluid py-2" src="../../img/support/1.jpg" alt="">
+                </div>
+                <div class="col-sm-3 col-6 text-center">
+                    <img class="mx-auto img-fluid py-2 " src="../../img/support/2.jpg" alt="">
+                </div>
+                <div class="col-sm-3 col-6 text-center">
+                    <img class="mx-auto  img-fluid py-2 " src="../../img/support/3.jpg" alt="">
+                </div>
+                <div class="col-sm-3 col-6 text-center">
+                    <img class="mx-auto  img-fluid py-2" src="../../img/support/4.jpg" alt="">
+                </div>
 
-<!-- Team -->
-<section class="bg-light" id="team">
-    <div class="container">
-        <div class="row">
-            <div class="col-lg-12 text-center">
-                <h2 class="section-heading text-uppercase">Supported By</h2>
-                <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>
-            </div>
-        </div>
-        <div class="row">
-            <div class="col-sm-3 col-6">
-                <img class="mx-auto py-2" src="../../img/support/1.jpg" alt="">
-            </div>
-            <div class="col-sm-3 col-6">
-                <img class="mx-auto py-2 " src="../../img/support/2.jpg" alt="">
-            </div>
-            <div class="col-sm-3 col-6">
-                <img class="mx-auto py-2 " src="../../img/support/3.jpg" alt="">
-            </div>
-            <div class="col-sm-3 col-6">
-                <img class="mx-auto py-2" src="../../img/support/4.jpg" alt="">
             </div>
 
         </div>
-        <!--<div class="row">-->
-            <!--<div class="col-lg-8 mx-auto text-center">-->
-                <!--<p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>-->
-            <!--</div>-->
-        <!--</div>-->
-    </div>
-</section>
+    </section>
 
 
 
@@ -366,17 +307,17 @@ walls, doors, and windows.
     <footer class="bg-s">
         <div class="container ">
             <div class="row">
-                <div class="col-md-4 text-left my-5">
+                <div class="col-md-4 text-center my-5">
                     <img src="../../img/logo/1.png" class="img-fluid" width="250px" style="mix-blend-mode: luminosity" ><br>
                     <span class="copyright mt-4">© Aimtrex Technologies. All rights reserved.</span>
                 </div>
-                <div class="col-md-4 text-left my-5">
+                <div class="col-md-4 text-center my-5">
                     <span class="text-muted my-3"><i class="fa fa-phone"></i> +91 (011) 40450413</span><br>
                     <span class="text-muted "><i class="fa fa-phone-square"></i> +91 (011) 29534543</span><br>
                     <a class="text-muted " href="mailto:contact@aimtrex.com"><i class="fa fa-envelope-open"></i> contact@aimtrex.com</a>
 
                 </div>
-                <div class="col-md-4 text-left my-5">
+                <div class="col-md-4 text-center my-5">
                   <span class="text-muted "><i class="fa fa-map-marker"></i> &nbsp;AIMTREX Technologies (P) Ltd.
   5A, Lane 1, Westend Marg
   Saidulajab (Behind Saket Metro)

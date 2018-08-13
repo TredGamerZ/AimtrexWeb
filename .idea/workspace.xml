@@ -2,8 +2,112 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e43180e-2516-47e9-a4c9-2b8f1ba7927a" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/combat-training-system/target-systems/img/st/steeltarget3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/special-operation-system/img/as/body-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/special-operation-system/img/as/header.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/special-operation-system/img/carousel/1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/special-operation-system/img/carousel/2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/special-operation-system/img/carousel/3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/special-operation-system/img/cds/body-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/special-operation-system/img/cds/header.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/special-operation-system/img/hr/body-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/special-operation-system/img/hr/body-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/special-operation-system/img/hr/header.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/combat-training-system/safety-equipments/training-ammunition.html" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/ascender.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/counter-drone-system.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/hydraulic-ramps.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/as/body-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/as/header.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/cds/body-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/cds/header.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/hr/body-1.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/hr/header.jpg" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/combat-training-system/target-systems/img/mf/body-1.jpg" afterPath="$PROJECT_DIR$/combat-training-system/target-systems/img/mf/body-1.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/combat-training-system/target-systems/img/st/header.jpg" afterPath="$PROJECT_DIR$/combat-training-system/target-systems/img/st/header.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/combat-training-system/virtual-training-system/img/ics/header.jpg" afterPath="$PROJECT_DIR$/combat-training-system/virtual-training-system/img/ics/header.jpg" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/logo/1.png" afterPath="$PROJECT_DIR$/img/logo/1.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/combat-training-system/index.html" afterPath="$PROJECT_DIR$/combat-training-system/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/combat-training-system/safety-equipments/cctv.html" afterPath="$PROJECT_DIR$/combat-training-system/safety-equipments/cctv.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/combat-training-system/safety-equipments/eyes-ear-protection.html" afterPath="$PROJECT_DIR$/combat-training-system/safety-equipments/eyes-ear-protection.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/combat-training-system/safety-equipments/fire-fighting-system.html" afterPath="$PROJECT_DIR$/combat-training-system/safety-equipments/fire-fighting-system.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/combat-training-system/safety-equipments/index.html" afterPath="$PROJECT_DIR$/combat-training-system/safety-equipments/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/combat-training-system/safety-equipments/portable-clearing-tap.html" afterPath="$PROJECT_DIR$/combat-training-system/safety-equipments/portable-clearing-tap.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/combat-training-system/shoot-houses/Modular-shoot-house.html" afterPath="$PROJECT_DIR$/combat-training-system/shoot-houses/Modular-shoot-house.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/combat-training-system/shoot-houses/fixed-shoot-house.html" afterPath="$PROJECT_DIR$/combat-training-system/shoot-houses/fixed-shoot-house.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/combat-training-system/shoot-houses/index.html" afterPath="$PROJECT_DIR$/combat-training-system/shoot-houses/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/combat-training-system/shooting-ranges/containerized-shooting-range.html" afterPath="$PROJECT_DIR$/combat-training-system/shooting-ranges/containerized-shooting-range.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/combat-training-system/shooting-ranges/hybrid-shooting-range.html" afterPath="$PROJECT_DIR$/combat-training-system/shooting-ranges/hybrid-shooting-range.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/combat-training-system/shooting-ranges/index.html" afterPath="$PROJECT_DIR$/combat-training-system/shooting-ranges/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/combat-training-system/shooting-ranges/indoor-shooting-range.html" afterPath="$PROJECT_DIR$/combat-training-system/shooting-ranges/indoor-shooting-range.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/combat-training-system/shooting-ranges/outdoor-shooting-range.html" afterPath="$PROJECT_DIR$/combat-training-system/shooting-ranges/outdoor-shooting-range.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/combat-training-system/target-systems/index.html" afterPath="$PROJECT_DIR$/combat-training-system/target-systems/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/combat-training-system/target-systems/multi-function.html" afterPath="$PROJECT_DIR$/combat-training-system/target-systems/multi-function.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/combat-training-system/target-systems/sara.html" afterPath="$PROJECT_DIR$/combat-training-system/target-systems/sara.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/combat-training-system/target-systems/steel-targets.html" afterPath="$PROJECT_DIR$/combat-training-system/target-systems/steel-targets.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/combat-training-system/virtual-training-system/immersive-cqb-system.html" afterPath="$PROJECT_DIR$/combat-training-system/virtual-training-system/immersive-cqb-system.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/combat-training-system/virtual-training-system/index.html" afterPath="$PROJECT_DIR$/combat-training-system/virtual-training-system/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/combat-training-system/virtual-training-system/live-fire-simulator.html" afterPath="$PROJECT_DIR$/combat-training-system/virtual-training-system/live-fire-simulator.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/agency.css" afterPath="$PROJECT_DIR$/css/agency.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/agency.min.css" afterPath="$PROJECT_DIR$/css/agency.min.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/_footer.scss" afterPath="$PROJECT_DIR$/scss/_footer.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/scss/agency.scss" afterPath="$PROJECT_DIR$/scss/agency.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/special-operation-system/index.html" afterPath="$PROJECT_DIR$/special-operation-system/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/index.html" afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/index.html" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/as/carousel/1.jpg" afterPath="$PROJECT_DIR$/special-operation-system/img/as/carousel/1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/as/carousel/2.jpg" afterPath="$PROJECT_DIR$/special-operation-system/img/as/carousel/2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/as/carousel/3.jpg" afterPath="$PROJECT_DIR$/special-operation-system/img/as/carousel/3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/as/essential-features/ef-01.png" afterPath="$PROJECT_DIR$/special-operation-system/img/as/essential-features/ef-01.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/as/essential-features/ef-02.png" afterPath="$PROJECT_DIR$/special-operation-system/img/as/essential-features/ef-02.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/as/essential-features/ef-03.png" afterPath="$PROJECT_DIR$/special-operation-system/img/as/essential-features/ef-03.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/as/essential-features/ef-04.png" afterPath="$PROJECT_DIR$/special-operation-system/img/as/essential-features/ef-04.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/as/essential-features/ef-05.png" afterPath="$PROJECT_DIR$/special-operation-system/img/as/essential-features/ef-05.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/as/essential-features/ef-06.png" afterPath="$PROJECT_DIR$/special-operation-system/img/as/essential-features/ef-06.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/as/essential-features/ef-07.png" afterPath="$PROJECT_DIR$/special-operation-system/img/as/essential-features/ef-07.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/as/essential-features/ef-08.png" afterPath="$PROJECT_DIR$/special-operation-system/img/as/essential-features/ef-08.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/as/key-features/kf1.png" afterPath="$PROJECT_DIR$/special-operation-system/img/as/key-features/kf1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/as/key-features/kf2.png" afterPath="$PROJECT_DIR$/special-operation-system/img/as/key-features/kf2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/as/key-features/kf3.png" afterPath="$PROJECT_DIR$/special-operation-system/img/as/key-features/kf3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/as/key-features/kf4.png" afterPath="$PROJECT_DIR$/special-operation-system/img/as/key-features/kf4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/as/key-features/kf5.png" afterPath="$PROJECT_DIR$/special-operation-system/img/as/key-features/kf5.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/as/key-features/kf6.png" afterPath="$PROJECT_DIR$/special-operation-system/img/as/key-features/kf6.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/cds/carousel/1.jpg" afterPath="$PROJECT_DIR$/special-operation-system/img/cds/carousel/1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/cds/carousel/2.jpg" afterPath="$PROJECT_DIR$/special-operation-system/img/cds/carousel/2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/cds/carousel/3.jpg" afterPath="$PROJECT_DIR$/special-operation-system/img/cds/carousel/3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/cds/essential-features/ef-01.png" afterPath="$PROJECT_DIR$/special-operation-system/img/cds/essential-features/ef-01.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/cds/essential-features/ef-02.png" afterPath="$PROJECT_DIR$/special-operation-system/img/cds/essential-features/ef-02.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/cds/essential-features/ef-03.png" afterPath="$PROJECT_DIR$/special-operation-system/img/cds/essential-features/ef-03.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/cds/essential-features/ef-04.png" afterPath="$PROJECT_DIR$/special-operation-system/img/cds/essential-features/ef-04.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/cds/essential-features/ef-05.png" afterPath="$PROJECT_DIR$/special-operation-system/img/cds/essential-features/ef-05.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/cds/essential-features/ef-06.png" afterPath="$PROJECT_DIR$/special-operation-system/img/cds/essential-features/ef-06.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/cds/key-features/kf1.png" afterPath="$PROJECT_DIR$/special-operation-system/img/cds/key-features/kf1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/cds/key-features/kf2.png" afterPath="$PROJECT_DIR$/special-operation-system/img/cds/key-features/kf2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/cds/key-features/kf3.png" afterPath="$PROJECT_DIR$/special-operation-system/img/cds/key-features/kf3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/cds/key-features/kf4.png" afterPath="$PROJECT_DIR$/special-operation-system/img/cds/key-features/kf4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/cds/key-features/kf5.png" afterPath="$PROJECT_DIR$/special-operation-system/img/cds/key-features/kf5.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/cds/key-features/kf6.png" afterPath="$PROJECT_DIR$/special-operation-system/img/cds/key-features/kf6.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/hr/carousel/1.jpg" afterPath="$PROJECT_DIR$/special-operation-system/img/hr/carousel/1.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/hr/carousel/2.jpg" afterPath="$PROJECT_DIR$/special-operation-system/img/hr/carousel/2.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/hr/carousel/3.jpg" afterPath="$PROJECT_DIR$/special-operation-system/img/hr/carousel/3.jpg" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/hr/essential-features/ef-01.png" afterPath="$PROJECT_DIR$/special-operation-system/img/hr/essential-features/ef-01.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/hr/essential-features/ef-02.png" afterPath="$PROJECT_DIR$/special-operation-system/img/hr/essential-features/ef-02.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/hr/essential-features/ef-03.png" afterPath="$PROJECT_DIR$/special-operation-system/img/hr/essential-features/ef-03.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/hr/essential-features/ef-04.png" afterPath="$PROJECT_DIR$/special-operation-system/img/hr/essential-features/ef-04.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/hr/essential-features/ef-05.png" afterPath="$PROJECT_DIR$/special-operation-system/img/hr/essential-features/ef-05.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/hr/essential-features/ef-06.png" afterPath="$PROJECT_DIR$/special-operation-system/img/hr/essential-features/ef-06.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/hr/essential-features/ef-07.png" afterPath="$PROJECT_DIR$/special-operation-system/img/hr/essential-features/ef-07.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/hr/essential-features/ef-08.png" afterPath="$PROJECT_DIR$/special-operation-system/img/hr/essential-features/ef-08.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/hr/essential-features/ef-09.png" afterPath="$PROJECT_DIR$/special-operation-system/img/hr/essential-features/ef-09.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/hr/essential-features/ef-10.png" afterPath="$PROJECT_DIR$/special-operation-system/img/hr/essential-features/ef-10.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/hr/essential-features/ef-11.png" afterPath="$PROJECT_DIR$/special-operation-system/img/hr/essential-features/ef-11.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/hr/key-features/kf1.png" afterPath="$PROJECT_DIR$/special-operation-system/img/hr/key-features/kf1.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/hr/key-features/kf2.png" afterPath="$PROJECT_DIR$/special-operation-system/img/hr/key-features/kf2.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/hr/key-features/kf3.png" afterPath="$PROJECT_DIR$/special-operation-system/img/hr/key-features/kf3.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/hr/key-features/kf4.png" afterPath="$PROJECT_DIR$/special-operation-system/img/hr/key-features/kf4.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/hr/key-features/kf5.png" afterPath="$PROJECT_DIR$/special-operation-system/img/hr/key-features/kf5.png" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/hr/key-features/kf6.png" afterPath="$PROJECT_DIR$/special-operation-system/img/hr/key-features/kf6.png" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -24,8 +128,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/combat-training-system/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="27" column="7" lean-forward="false" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
+            <state relative-caret-position="248">
+              <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -43,116 +147,48 @@
                 <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1533438080374" expanded="false" signature="8984:9004" ph="..." />
+                <marker date="1534147883678" expanded="false" signature="9404:9424" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="indoor-shooting-range.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/combat-training-system/shooting-ranges/indoor-shooting-range.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/combat-training-system/shoot-houses/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="99">
-              <caret line="343" column="31" lean-forward="true" selection-start-line="343" selection-start-column="31" selection-end-line="343" selection-end-column="31" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#0;n#div#5;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#3;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="containerized-shooting-range.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/combat-training-system/shooting-ranges/containerized-shooting-range.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-5626">
-              <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="19" selection-end-column="105" />
-              <folding>
-                <element signature="n#style#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#0;n#div#2;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#3;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#0;n#div#3;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#4;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#0;n#div#4;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#5;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#0;n#div#5;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#3;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#4;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#5;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#6;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#7;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="outdoor-shooting-range.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/combat-training-system/shooting-ranges/outdoor-shooting-range.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="521">
-              <caret line="349" column="14" lean-forward="false" selection-start-line="349" selection-start-column="14" selection-end-line="349" selection-end-column="14" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#0;n#div#2;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#3;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#0;n#div#3;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#4;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#0;n#div#4;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="agency.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/agency.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="460">
-              <caret line="71" column="3" lean-forward="true" selection-start-line="71" selection-start-column="3" selection-end-line="71" selection-end-column="3" />
+            <state relative-caret-position="558">
+              <caret line="39" column="71" lean-forward="false" selection-start-line="39" selection-start-column="71" selection-end-line="39" selection-end-column="71" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="hybrid-shooting-range.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/combat-training-system/shooting-ranges/hybrid-shooting-range.html">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/combat-training-system/shooting-ranges/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="478">
-              <caret line="402" column="50" lean-forward="true" selection-start-line="402" selection-start-column="50" selection-end-line="402" selection-end-column="50" />
-              <folding>
-                <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#3;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#4;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#5;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#6;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#7;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#8;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#9;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#10;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="558">
+              <caret line="39" column="71" lean-forward="false" selection-start-line="39" selection-start-column="71" selection-end-line="39" selection-end-column="71" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/combat-training-system/target-systems/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="532">
+              <caret line="39" column="71" lean-forward="false" selection-start-line="39" selection-start-column="71" selection-end-line="39" selection-end-column="71" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/combat-training-system/virtual-training-system/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="711">
+              <caret line="48" column="27" lean-forward="true" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -177,22 +213,39 @@
       <find>data-toggle=&quot;modal&quot;</find>
       <find>csr</find>
       <find>/st</find>
-      <find>w-75</find>
       <find>gf</find>
       <find>offset-sm-0</find>
+      <find>gf offset-sm-0 offset-md-0 offset-2</find>
+      <find>\&lt;nav class\=\&quot;navbar navbar\-expand\-lg navbar\-dark fixed\-top \&quot; id\=\&quot;mainNav\&quot; \&gt;\n        \&lt;div class\=\&quot;container\&quot;\&gt;\n            \&lt;a class\=\&quot;navbar\-brand js\-scroll\-trigger\&quot; href\=\&quot;\/\&quot;\&gt;\&lt;img src\=\&quot;\.\.\/\.\.\/img\/logo\/2\.png\&quot; width\=\&quot;180px\&quot;\&gt;\&lt;\/a\&gt;\n            \&lt;button class\=\&quot;navbar\-toggler navbar\-toggler\-right\&quot; type\=\&quot;button\&quot; data\-toggle\=\&quot;collapse\&quot; data\-target\=\&quot;\#navbarResponsive\&quot; aria\-controls\=\&quot;navbarResponsive\&quot; aria\-expanded\=\&quot;false\&quot; aria\-label\=\&quot;Toggle navigation\&quot;\&gt;\n                \&lt;i class\=\&quot;fa fa\-bars\&quot;\&gt;\n                \&lt;\/i\&gt;\n            \&lt;\/button\&gt;\n            \&lt;div class\=\&quot;collapse navbar\-collapse\&quot; id\=\&quot;navbarResponsive\&quot;\&gt;\n                \&lt;ul class\=\&quot;navbar\-nav  ml\-auto\&quot;\&gt;\n                    \&lt;li class\=\&quot;nav\-item dropdown\&quot;\&gt;\n                        \&lt;a class\=\&quot;nav\-link dropdown\-toggle\&quot; href\=\&quot;\/combat\-training\-system\/shooting\-ranges\/index\.html\&quot; id\=\&quot;srdropdown\&quot; role\=\&quot;button\&quot; data\-toggle\=\&quot;dropdown\&quot; \&gt;\n                            Shooting Ranges\n                        \&lt;\/a\&gt;\n                        \&lt;div class\=\&quot;dropdown\-menu\&quot; aria\-labelledby\=\&quot;srdropdown\&quot;\&gt;\n                            \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/shooting\-ranges\/indoor\-shooting\-range\.html\&quot;\&gt;Indoor Shooting Range\&lt;\/a\&gt;\n                            \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/shooting\-ranges\/containerized\-shooting\-range\.html\&quot;\&gt;Containerized Shooting Range\&lt;\/a\&gt;\n                            \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/shooting\-ranges\/hybrid\-shooting\-range\.html\&quot;\&gt;Hybrid Shooting Range\&lt;\/a\&gt;\n                            \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/shooting\-ranges\/outdoor\-shooting\-range\.html\&quot;\&gt;Outdoor Shooting Range\&lt;\/a\&gt;\n                            \&lt;div class\=\&quot;dropdown\-divider\&quot;\&gt;\&lt;\/div\&gt;\n                            \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/shooting\-ranges\/shooting\-range\-services\.html\&quot;\&gt;Shooting Range Services\&lt;\/a\&gt;\n                        \&lt;\/div\&gt;\n                    \&lt;\/li\&gt;\n\n                    \&lt;li class\=\&quot;nav\-item dropdown\&quot;\&gt;\n                        \&lt;a class\=\&quot;nav\-link dropdown\-toggle\&quot; href\=\&quot;\/combat\-training\-system\/target\-systems\/index\.html\&quot; id\=\&quot;tsdropdown\&quot; role\=\&quot;button\&quot; data\-toggle\=\&quot;dropdown\&quot; aria\-haspopup\=\&quot;true\&quot; aria\-expanded\=\&quot;false\&quot;\&gt;\n                            Target Systems\n                        \&lt;\/a\&gt;\n                        \&lt;div class\=\&quot;dropdown\-menu\&quot; aria\-labelledby\=\&quot;tsdropdown\&quot;\&gt;\n                            \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/target\-systems\/multi\-function\.html\&quot;\&gt;Multi Function\&lt;\/a\&gt;\n                            \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/target\-systems\/sara\.html\&quot;\&gt;SARA\&lt;\/a\&gt;\n                            \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/target\-systems\/steel\-targets\.html\&quot;\&gt;Steel Targets\&lt;\/a\&gt;\n\n                        \&lt;\/div\&gt;\n                    \&lt;\/li\&gt;\n\n                    \&lt;li class\=\&quot;nav\-item dropdown\&quot;\&gt;\n                        \&lt;a class\=\&quot;nav\-link dropdown\-toggle\&quot;  href\=\&quot;\/combat\-training\-system\/virtual\-training\-system\/index\.html\&quot; id\=\&quot;vtsdropdown\&quot; role\=\&quot;button\&quot; data\-toggle\=\&quot;dropdown\&quot; aria\-haspopup\=\&quot;true\&quot; aria\-expanded\=\&quot;false\&quot;\&gt;\n                            Virtual Training\n                        \&lt;\/a\&gt;\n                        \&lt;div class\=\&quot;dropdown\-menu\&quot; aria\-labelledby\=\&quot;vtsdropdown\&quot;\&gt;\n                            \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/virtual\-training\-system\/live\-fire\-simulator\.html\&quot;\&gt;Live Fire Simulator\&lt;\/a\&gt;\n                            \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/virtual\-training\-system\/immersive\-cqb\-system\.html\&quot;\&gt;Immersive CQB System\&lt;\/a\&gt;\n                        \&lt;\/div\&gt;\n                    \&lt;\/li\&gt;\n\n                    \&lt;li class\=\&quot;nav\-item dropdown\&quot;\&gt;\n                        \&lt;a class\=\&quot;nav\-link dropdown\-toggle\&quot;  href\=\&quot;\/combat\-training\-system\/shoot\-houses\/index\.html\&quot; id\=\&quot;shdropdown\&quot; role\=\&quot;button\&quot; data\-toggle\=\&quot;dropdown\&quot; aria\-haspopup\=\&quot;true\&quot; aria\-expanded\=\&quot;false\&quot;\&gt;\n                            Shoot Houses\n                        \&lt;\/a\&gt;\n                        \&lt;div class\=\&quot;dropdown\-menu\&quot; aria\-labelledby\=\&quot;shdropdown\&quot;\&gt;\n                            \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/shoot\-houses\/Modular\-shoot\-house\.html\&quot;\&gt;Modular Shoot Houses\&lt;\/a\&gt;\n                            \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/shoot\-houses\/fixed\-shoot\-house\.html\&quot;\&gt;Fixed Shoot Houses\&lt;\/a\&gt;\n                        \&lt;\/div\&gt;\n                    \&lt;\/li\&gt;\n                    \&lt;li class\=\&quot;nav\-item dropdown\&quot;\&gt;\n                        \&lt;a class\=\&quot;nav\-link dropdown\-toggle\&quot; href\=\&quot;\/combat\-training\-system\/safety\-equipments\/index\.html\&quot; id\=\&quot;sedropdown\&quot; role\=\&quot;button\&quot; data\-toggle\=\&quot;dropdown\&quot; aria\-haspopup\=\&quot;true\&quot; aria\-expanded\=\&quot;false\&quot;\&gt;\n                            Safety\n                        \&lt;\/a\&gt;\n                        \&lt;div class\=\&quot;dropdown\-menu\&quot; aria\-labelledby\=\&quot;sedropdown\&quot;\&gt;\n                            \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/safety\-equipments\/cctv\.html\&quot;\&gt;CCTV\&lt;\/a\&gt;\n                            \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/safety\-equipments\/eyes\-ear\-protection\.html\&quot;\&gt;Eyes \&amp; Ear Protection\&lt;\/a\&gt;\n                            \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/safety\-equipments\/portable\-clearing\-tap\.html\&quot;\&gt;Portable Clearing Tap\&lt;\/a\&gt;\n                            \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/safety\-equipments\/fire\-fighting\-system\.html\&quot;\&gt;Fire Fighting System\&lt;\/a\&gt;\n                        \&lt;\/div\&gt;\n                    \&lt;\/li\&gt;\n\n                \&lt;\/ul\&gt;\n            \&lt;\/div\&gt;\n        \&lt;\/div\&gt;\n    \&lt;\/nav\&gt;</find>
+      <find>w-75</find>
+      <find>\&lt;nav class\=\&quot;navbar navbar\-expand\-lg navbar\-dark fixed\-top navbar\-shrink\&quot; id\=\&quot;mainNav\&quot; \&gt;\n    \&lt;div class\=\&quot;container\&quot;\&gt;\n        \&lt;a class\=\&quot;navbar\-brand js\-scroll\-trigger\&quot; href\=\&quot;\#page\-top\&quot;\&gt;\&lt;img src\=\&quot;\.\.\/\.\.\/img\/logo\/2\.png\&quot; width\=\&quot;180px\&quot;\&gt;\&lt;\/a\&gt;\n        \&lt;button class\=\&quot;navbar\-toggler navbar\-toggler\-right\&quot; type\=\&quot;button\&quot; data\-toggle\=\&quot;collapse\&quot; data\-target\=\&quot;\#navbarResponsive\&quot; aria\-controls\=\&quot;navbarResponsive\&quot; aria\-expanded\=\&quot;false\&quot; aria\-label\=\&quot;Toggle navigation\&quot;\&gt;\n            \&lt;i class\=\&quot;fa fa\-bars\&quot;\&gt;\n            \&lt;\/i\&gt;\n        \&lt;\/button\&gt;\n        \&lt;div class\=\&quot;collapse navbar\-collapse\&quot; id\=\&quot;navbarResponsive\&quot;\&gt;\n            \&lt;ul class\=\&quot;navbar\-nav  ml\-auto\&quot;\&gt;\n                \&lt;li class\=\&quot;nav\-item dropdown\&quot;\&gt;\n                    \&lt;a class\=\&quot;nav\-link dropdown\-toggle\&quot; href\=\&quot;\/combat\-training\-system\/shooting\-ranges\/index\.html\&quot; id\=\&quot;srdropdown\&quot; role\=\&quot;button\&quot; data\-toggle\=\&quot;dropdown\&quot; \&gt;\n                        Shooting Ranges\n                    \&lt;\/a\&gt;\n                    \&lt;div class\=\&quot;dropdown\-menu\&quot; aria\-labelledby\=\&quot;srdropdown\&quot;\&gt;\n                        \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/shooting\-ranges\/indoor\-shooting\-range\.html\&quot;\&gt;Indoor Shooting Range\&lt;\/a\&gt;\n                        \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/shooting\-ranges\/containerized\-shooting\-range\.html\&quot;\&gt;Containerized Shooting Range\&lt;\/a\&gt;\n                        \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/shooting\-ranges\/hybrid\-shooting\-range\.html\&quot;\&gt;Hybrid Shooting Range\&lt;\/a\&gt;\n                        \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/shooting\-ranges\/outdoor\-shooting\-range\.html\&quot;\&gt;Outdoor Shooting Range\&lt;\/a\&gt;\n                        \&lt;div class\=\&quot;dropdown\-divider\&quot;\&gt;\&lt;\/div\&gt;\n                        \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/shooting\-ranges\/shooting\-range\-services\.html\&quot;\&gt;Shooting Range Services\&lt;\/a\&gt;\n                    \&lt;\/div\&gt;\n                \&lt;\/li\&gt;\n\n                \&lt;li class\=\&quot;nav\-item dropdown\&quot;\&gt;\n                    \&lt;a class\=\&quot;nav\-link dropdown\-toggle\&quot; href\=\&quot;\/combat\-training\-system\/target\-systems\/index\.html\&quot; id\=\&quot;tsdropdown\&quot; role\=\&quot;button\&quot; data\-toggle\=\&quot;dropdown\&quot; aria\-haspopup\=\&quot;true\&quot; aria\-expanded\=\&quot;false\&quot;\&gt;\n                        Target Systems\n                    \&lt;\/a\&gt;\n                    \&lt;div class\=\&quot;dropdown\-menu\&quot; aria\-labelledby\=\&quot;tsdropdown\&quot;\&gt;\n                        \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/target\-systems\/multi\-function\.html\&quot;\&gt;Multi Function\&lt;\/a\&gt;\n                        \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/target\-systems\/sara\.html\&quot;\&gt;SARA\&lt;\/a\&gt;\n                        \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/target\-systems\/steel\-targets\.html\&quot;\&gt;Steel Targets\&lt;\/a\&gt;\n\n                    \&lt;\/div\&gt;\n                \&lt;\/li\&gt;\n\n                \&lt;li class\=\&quot;nav\-item dropdown\&quot;\&gt;\n                    \&lt;a class\=\&quot;nav\-link dropdown\-toggle\&quot;  href\=\&quot;\/combat\-training\-system\/virtual\-training\-system\/index\.html\&quot; id\=\&quot;vtsdropdown\&quot; role\=\&quot;button\&quot; data\-toggle\=\&quot;dropdown\&quot; aria\-haspopup\=\&quot;true\&quot; aria\-expanded\=\&quot;false\&quot;\&gt;\n                        Virtual Training\n                    \&lt;\/a\&gt;\n                    \&lt;div class\=\&quot;dropdown\-menu\&quot; aria\-labelledby\=\&quot;vtsdropdown\&quot;\&gt;\n                        \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/virtual\-training\-system\/live\-fire\-simulator\.html\&quot;\&gt;Live Fire Simulator\&lt;\/a\&gt;\n                        \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/virtual\-training\-system\/immersive\-cqb\-system\.html\&quot;\&gt;Immersive CQB System\&lt;\/a\&gt;\n                    \&lt;\/div\&gt;\n                \&lt;\/li\&gt;\n\n                \&lt;li class\=\&quot;nav\-item dropdown\&quot;\&gt;\n                    \&lt;a class\=\&quot;nav\-link dropdown\-toggle\&quot;  href\=\&quot;\/combat\-training\-system\/shoot\-houses\/index\.html\&quot; id\=\&quot;shdropdown\&quot; role\=\&quot;button\&quot; data\-toggle\=\&quot;dropdown\&quot; aria\-haspopup\=\&quot;true\&quot; aria\-expanded\=\&quot;false\&quot;\&gt;\n                        Shoot Houses\n                    \&lt;\/a\&gt;\n                    \&lt;div class\=\&quot;dropdown\-menu\&quot; aria\-labelledby\=\&quot;shdropdown\&quot;\&gt;\n                        \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/shoot\-houses\/Modular\-shoot\-house\.html\&quot;\&gt;Modular Shoot Houses\&lt;\/a\&gt;\n                        \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/shoot\-houses\/fixed\-shoot\-house\.html\&quot;\&gt;Fixed Shoot Houses\&lt;\/a\&gt;\n                    \&lt;\/div\&gt;\n                \&lt;\/li\&gt;\n                \&lt;li class\=\&quot;nav\-item dropdown\&quot;\&gt;\n                    \&lt;a class\=\&quot;nav\-link dropdown\-toggle\&quot; href\=\&quot;\/combat\-training\-system\/safety\-equipments\/index\.html\&quot; id\=\&quot;sedropdown\&quot; role\=\&quot;button\&quot; data\-toggle\=\&quot;dropdown\&quot; aria\-haspopup\=\&quot;true\&quot; aria\-expanded\=\&quot;false\&quot;\&gt;\n                        Safety\n                    \&lt;\/a\&gt;\n                    \&lt;div class\=\&quot;dropdown\-menu\&quot; aria\-labelledby\=\&quot;sedropdown\&quot;\&gt;\n                        \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/safety\-equipments\/cctv\.html\&quot;\&gt;CCTV\&lt;\/a\&gt;\n                        \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/safety\-equipments\/eyes\-ear\-protection\.html\&quot;\&gt;Eyes \&amp; Ear Protection\&lt;\/a\&gt;\n                        \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/safety\-equipments\/portable\-clearing\-tap\.html\&quot;\&gt;Portable Clearing Tap\&lt;\/a\&gt;\n                        \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/safety\-equipments\/fire\-fighting\-system\.html\&quot;\&gt;Fire Fighting System\&lt;\/a\&gt;\n                    \&lt;\/div\&gt;\n                \&lt;\/li\&gt;\n\n            \&lt;\/ul\&gt;\n        \&lt;\/div\&gt;\n    \&lt;\/div\&gt;\n\&lt;\/nav\&gt;</find>
+      <find>\&lt;nav class\=\&quot;navbar navbar\-expand\-lg navbar\-dark fixed\-top \&quot; id\=\&quot;mainNav\&quot; \&gt;\n    \&lt;div class\=\&quot;container\&quot;\&gt;\n        \&lt;a class\=\&quot;navbar\-brand js\-scroll\-trigger\&quot; href\=\&quot;\#page\-top\&quot;\&gt;\&lt;img src\=\&quot;\.\.\/\.\.\/img\/logo\/2\.png\&quot; width\=\&quot;180px\&quot;\&gt;\&lt;\/a\&gt;\n        \&lt;button class\=\&quot;navbar\-toggler navbar\-toggler\-right\&quot; type\=\&quot;button\&quot; data\-toggle\=\&quot;collapse\&quot; data\-target\=\&quot;\#navbarResponsive\&quot; aria\-controls\=\&quot;navbarResponsive\&quot; aria\-expanded\=\&quot;false\&quot; aria\-label\=\&quot;Toggle navigation\&quot;\&gt;\n            \&lt;i class\=\&quot;fa fa\-bars\&quot;\&gt;\n            \&lt;\/i\&gt;\n        \&lt;\/button\&gt;\n        \&lt;div class\=\&quot;collapse navbar\-collapse\&quot; id\=\&quot;navbarResponsive\&quot;\&gt;\n            \&lt;ul class\=\&quot;navbar\-nav  ml\-auto\&quot;\&gt;\n                \&lt;li class\=\&quot;nav\-item dropdown\&quot;\&gt;\n                    \&lt;a class\=\&quot;nav\-link dropdown\-toggle\&quot; href\=\&quot;\/combat\-training\-system\/shooting\-ranges\/index\.html\&quot; id\=\&quot;srdropdown\&quot; role\=\&quot;button\&quot; data\-toggle\=\&quot;dropdown\&quot; \&gt;\n                        Shooting Ranges\n                    \&lt;\/a\&gt;\n                    \&lt;div class\=\&quot;dropdown\-menu\&quot; aria\-labelledby\=\&quot;srdropdown\&quot;\&gt;\n                        \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/shooting\-ranges\/indoor\-shooting\-range\.html\&quot;\&gt;Indoor Shooting Range\&lt;\/a\&gt;\n                        \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/shooting\-ranges\/containerized\-shooting\-range\.html\&quot;\&gt;Containerized Shooting Range\&lt;\/a\&gt;\n                        \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/shooting\-ranges\/hybrid\-shooting\-range\.html\&quot;\&gt;Hybrid Shooting Range\&lt;\/a\&gt;\n                        \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/shooting\-ranges\/outdoor\-shooting\-range\.html\&quot;\&gt;Outdoor Shooting Range\&lt;\/a\&gt;\n                        \&lt;div class\=\&quot;dropdown\-divider\&quot;\&gt;\&lt;\/div\&gt;\n                        \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/shooting\-ranges\/shooting\-range\-services\.html\&quot;\&gt;Shooting Range Services\&lt;\/a\&gt;\n                    \&lt;\/div\&gt;\n                \&lt;\/li\&gt;\n\n                \&lt;li class\=\&quot;nav\-item dropdown\&quot;\&gt;\n                    \&lt;a class\=\&quot;nav\-link dropdown\-toggle\&quot; href\=\&quot;\/combat\-training\-system\/target\-systems\/index\.html\&quot; id\=\&quot;tsdropdown\&quot; role\=\&quot;button\&quot; data\-toggle\=\&quot;dropdown\&quot; aria\-haspopup\=\&quot;true\&quot; aria\-expanded\=\&quot;false\&quot;\&gt;\n                        Target Systems\n                    \&lt;\/a\&gt;\n                    \&lt;div class\=\&quot;dropdown\-menu\&quot; aria\-labelledby\=\&quot;tsdropdown\&quot;\&gt;\n                        \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/target\-systems\/multi\-function\.html\&quot;\&gt;Multi Function\&lt;\/a\&gt;\n                        \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/target\-systems\/sara\.html\&quot;\&gt;SARA\&lt;\/a\&gt;\n                        \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/target\-systems\/steel\-targets\.html\&quot;\&gt;Steel Targets\&lt;\/a\&gt;\n\n                    \&lt;\/div\&gt;\n                \&lt;\/li\&gt;\n\n                \&lt;li class\=\&quot;nav\-item dropdown\&quot;\&gt;\n                    \&lt;a class\=\&quot;nav\-link dropdown\-toggle\&quot;  href\=\&quot;\/combat\-training\-system\/virtual\-training\-system\/index\.html\&quot; id\=\&quot;vtsdropdown\&quot; role\=\&quot;button\&quot; data\-toggle\=\&quot;dropdown\&quot; aria\-haspopup\=\&quot;true\&quot; aria\-expanded\=\&quot;false\&quot;\&gt;\n                        Virtual Training\n                    \&lt;\/a\&gt;\n                    \&lt;div class\=\&quot;dropdown\-menu\&quot; aria\-labelledby\=\&quot;vtsdropdown\&quot;\&gt;\n                        \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/virtual\-training\-system\/live\-fire\-simulator\.html\&quot;\&gt;Live Fire Simulator\&lt;\/a\&gt;\n                        \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/virtual\-training\-system\/immersive\-cqb\-system\.html\&quot;\&gt;Immersive CQB System\&lt;\/a\&gt;\n                    \&lt;\/div\&gt;\n                \&lt;\/li\&gt;\n\n                \&lt;li class\=\&quot;nav\-item dropdown\&quot;\&gt;\n                    \&lt;a class\=\&quot;nav\-link dropdown\-toggle\&quot;  href\=\&quot;\/combat\-training\-system\/shoot\-houses\/index\.html\&quot; id\=\&quot;shdropdown\&quot; role\=\&quot;button\&quot; data\-toggle\=\&quot;dropdown\&quot; aria\-haspopup\=\&quot;true\&quot; aria\-expanded\=\&quot;false\&quot;\&gt;\n                        Shoot Houses\n                    \&lt;\/a\&gt;\n                    \&lt;div class\=\&quot;dropdown\-menu\&quot; aria\-labelledby\=\&quot;shdropdown\&quot;\&gt;\n                        \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/shoot\-houses\/Modular\-shoot\-house\.html\&quot;\&gt;Modular Shoot Houses\&lt;\/a\&gt;\n                        \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/shoot\-houses\/fixed\-shoot\-house\.html\&quot;\&gt;Fixed Shoot Houses\&lt;\/a\&gt;\n                    \&lt;\/div\&gt;\n                \&lt;\/li\&gt;\n                \&lt;li class\=\&quot;nav\-item dropdown\&quot;\&gt;\n                    \&lt;a class\=\&quot;nav\-link dropdown\-toggle\&quot; href\=\&quot;\/combat\-training\-system\/safety\-equipments\/index\.html\&quot; id\=\&quot;sedropdown\&quot; role\=\&quot;button\&quot; data\-toggle\=\&quot;dropdown\&quot; aria\-haspopup\=\&quot;true\&quot; aria\-expanded\=\&quot;false\&quot;\&gt;\n                        Safety\n                    \&lt;\/a\&gt;\n                    \&lt;div class\=\&quot;dropdown\-menu\&quot; aria\-labelledby\=\&quot;sedropdown\&quot;\&gt;\n                        \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/safety\-equipments\/cctv\.html\&quot;\&gt;CCTV\&lt;\/a\&gt;\n                        \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/safety\-equipments\/eyes\-ear\-protection\.html\&quot;\&gt;Eyes \&amp; Ear Protection\&lt;\/a\&gt;\n                        \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/safety\-equipments\/portable\-clearing\-tap\.html\&quot;\&gt;Portable Clearing Tap\&lt;\/a\&gt;\n                        \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/safety\-equipments\/fire\-fighting\-system\.html\&quot;\&gt;Fire Fighting System\&lt;\/a\&gt;\n                    \&lt;\/div\&gt;\n                \&lt;\/li\&gt;\n\n            \&lt;\/ul\&gt;\n        \&lt;\/div\&gt;\n    \&lt;\/div\&gt;\n\&lt;\/nav\&gt;</find>
+      <find>\&lt;section class\=\&quot;bg\-light\&quot; id\=\&quot;team\&quot;\&gt;\n        \&lt;div class\=\&quot;container\&quot;\&gt;\n            \&lt;div class\=\&quot;row\&quot;\&gt;\n                \&lt;div class\=\&quot;col\-lg\-12 text\-center\&quot;\&gt;\n                    \&lt;h2 class\=\&quot;section\-heading text\-uppercase\&quot;\&gt;Supported By\&lt;\/h2\&gt;\n                    \&lt;\!\-\-\&lt;h3 class\=\&quot;section\-subheading text\-muted\&quot;\&gt;Lorem ipsum dolor sit amet consectetur\.\&lt;\/h3\&gt;\-\-\&gt;\n                \&lt;\/div\&gt;\n            \&lt;\/div\&gt;\n            \&lt;div class\=\&quot;row\&quot;\&gt;\n                \&lt;div class\=\&quot;col\-sm\-3 col\-6\&quot;\&gt;\n                    \&lt;img class\=\&quot;mx\-auto py\-2\&quot; src\=\&quot;\.\.\/img\/support\/1\.jpg\&quot; alt\=\&quot;\&quot;\&gt;\n                \&lt;\/div\&gt;\n                \&lt;div class\=\&quot;col\-sm\-3 col\-6\&quot;\&gt;\n                    \&lt;img class\=\&quot;mx\-auto py\-2 \&quot; src\=\&quot;\.\.\/img\/support\/2\.jpg\&quot; alt\=\&quot;\&quot;\&gt;\n                \&lt;\/div\&gt;\n                \&lt;div class\=\&quot;col\-sm\-3 col\-6\&quot;\&gt;\n                    \&lt;img class\=\&quot;mx\-auto py\-2 \&quot; src\=\&quot;\.\.\/img\/support\/3\.jpg\&quot; alt\=\&quot;\&quot;\&gt;\n                \&lt;\/div\&gt;\n                \&lt;div class\=\&quot;col\-sm\-3 col\-6\&quot;\&gt;\n                    \&lt;img class\=\&quot;mx\-auto py\-2\&quot; src\=\&quot;\.\.\/img\/support\/4\.jpg\&quot; alt\=\&quot;\&quot;\&gt;\n                \&lt;\/div\&gt;\n\n            \&lt;\/div\&gt;\n\n        \&lt;\/div\&gt;\n    \&lt;\/section\&gt;</find>
+      <find>offset-sm-0 offset-md-0 offset-2</find>
+      <find>\&lt;nav class\=\&quot;navbar navbar\-expand\-lg navbar\-dark fixed\-top navbar\-shrink\&quot; id\=\&quot;mainNav\&quot;\&gt;\n        \&lt;div class\=\&quot;container\&quot;\&gt;\n            \&lt;a class\=\&quot;navbar\-brand js\-scroll\-trigger\&quot; href\=\&quot;\/\&quot;\&gt;\&lt;img src\=\&quot;\.\.\/\.\.\/img\/logo\/1\.png\&quot; width\=\&quot;225px\&quot;\&gt;\&lt;\/a\&gt;\n            \&lt;button class\=\&quot;navbar\-toggler navbar\-toggler\-right\&quot; type\=\&quot;button\&quot; data\-toggle\=\&quot;collapse\&quot; data\-target\=\&quot;\#navbarResponsive\&quot; aria\-controls\=\&quot;navbarResponsive\&quot; aria\-expanded\=\&quot;false\&quot; aria\-label\=\&quot;Toggle navigation\&quot;\&gt;\n                \&lt;i class\=\&quot;fa fa\-bars\&quot;\&gt;\n                \&lt;\/i\&gt;\n            \&lt;\/button\&gt;\n            \&lt;div class\=\&quot;collapse navbar\-collapse\&quot; id\=\&quot;navbarResponsive\&quot;\&gt;\n                \&lt;ul class\=\&quot;navbar\-nav  ml\-auto\&quot;\&gt;\n                    \&lt;li class\=\&quot;nav\-item dropdown\&quot;\&gt;\n                        \&lt;a class\=\&quot;nav\-link dropdown\-toggle\&quot; href\=\&quot;\#\&quot; id\=\&quot;srdropdown\&quot; role\=\&quot;button\&quot; data\-toggle\=\&quot;dropdown\&quot; aria\-haspopup\=\&quot;true\&quot; aria\-expanded\=\&quot;false\&quot;\&gt;\n                            Shooting Ranges\n                        \&lt;\/a\&gt;\n                        \&lt;div class\=\&quot;dropdown\-menu\&quot; aria\-labelledby\=\&quot;srdropdown\&quot;\&gt;\n                            \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/shooting\-ranges\/indoor\-shooting\-range\.html\&quot;\&gt;Indoor Shooting Range\&lt;\/a\&gt;\n                            \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/shooting\-ranges\/containerized\-shooting\-range\.html\&quot;\&gt;Containerized Shooting Range\&lt;\/a\&gt;\n                            \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/shooting\-ranges\/hybrid\-shooting\-range\.html\&quot;\&gt;Hybrid Shooting Range\&lt;\/a\&gt;\n                            \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/shooting\-ranges\/outdoor\-shooting\-range\.html\&quot;\&gt;Outdoor Shooting Range\&lt;\/a\&gt;\n                            \&lt;div class\=\&quot;dropdown\-divider\&quot;\&gt;\&lt;\/div\&gt;\n                            \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/shooting\-ranges\/shooting\-range\-services\.html\&quot;\&gt;Shooting Range Services\&lt;\/a\&gt;\n                        \&lt;\/div\&gt;\n                    \&lt;\/li\&gt;\n\n                    \&lt;li class\=\&quot;nav\-item dropdown\&quot;\&gt;\n                        \&lt;a class\=\&quot;nav\-link dropdown\-toggle\&quot; href\=\&quot;\#\&quot; id\=\&quot;tsdropdown\&quot; role\=\&quot;button\&quot; data\-toggle\=\&quot;dropdown\&quot; aria\-haspopup\=\&quot;true\&quot; aria\-expanded\=\&quot;false\&quot;\&gt;\n                            Target Systems\n                        \&lt;\/a\&gt;\n                        \&lt;div class\=\&quot;dropdown\-menu\&quot; aria\-labelledby\=\&quot;tsdropdown\&quot;\&gt;\n                            \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/target\-systems\/multi\-function\.html\&quot;\&gt;Multi Function\&lt;\/a\&gt;\n                            \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/target\-systems\/sara\.html\&quot;\&gt;SARA\&lt;\/a\&gt;\n                            \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/target\-systems\/steel\-targets\.html\&quot;\&gt;Steel Targets\&lt;\/a\&gt;\n\n                        \&lt;\/div\&gt;\n                    \&lt;\/li\&gt;\n\n                    \&lt;li class\=\&quot;nav\-item dropdown\&quot;\&gt;\n                        \&lt;a class\=\&quot;nav\-link dropdown\-toggle\&quot; href\=\&quot;\#\&quot; id\=\&quot;vtsdropdown\&quot; role\=\&quot;button\&quot; data\-toggle\=\&quot;dropdown\&quot; aria\-haspopup\=\&quot;true\&quot; aria\-expanded\=\&quot;false\&quot;\&gt;\n                            Virtual Training Systems\n                        \&lt;\/a\&gt;\n                        \&lt;div class\=\&quot;dropdown\-menu\&quot; aria\-labelledby\=\&quot;vtsdropdown\&quot;\&gt;\n                            \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/virtual\-training\-system\/live\-fire\-simulator\.html\&quot;\&gt;Live Fire Simulator\&lt;\/a\&gt;\n                            \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/virtual\-training\-system\/immersive\-cqb\-system\.html\&quot;\&gt;Immersive CQB System\&lt;\/a\&gt;\n                        \&lt;\/div\&gt;\n                    \&lt;\/li\&gt;\n\n                    \&lt;li class\=\&quot;nav\-item dropdown\&quot;\&gt;\n                        \&lt;a class\=\&quot;nav\-link dropdown\-toggle\&quot;  href\=\&quot;\/combat\-training\-system\/shoot\-houses\/index\.html\&quot; id\=\&quot;shdropdown\&quot; role\=\&quot;button\&quot; data\-toggle\=\&quot;dropdown\&quot; aria\-haspopup\=\&quot;true\&quot; aria\-expanded\=\&quot;false\&quot;\&gt;\n                            Shoot Houses\n                        \&lt;\/a\&gt;\n                        \&lt;div class\=\&quot;dropdown\-menu\&quot; aria\-labelledby\=\&quot;shdropdown\&quot;\&gt;\n                            \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/shoot\-houses\/Modular\-shoot\-house\.html\&quot;\&gt;Modular Shoot Houses\&lt;\/a\&gt;\n                            \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/shoot\-houses\/fixed\-shoot\-house\.html\&quot;\&gt;Fixed Shoot Houses\&lt;\/a\&gt;\n                        \&lt;\/div\&gt;\n                    \&lt;\/li\&gt;\n                    \&lt;li class\=\&quot;nav\-item dropdown\&quot;\&gt;\n                        \&lt;a class\=\&quot;nav\-link dropdown\-toggle\&quot; href\=\&quot;\#\&quot; id\=\&quot;sedropdown\&quot; role\=\&quot;button\&quot; data\-toggle\=\&quot;dropdown\&quot; aria\-haspopup\=\&quot;true\&quot; aria\-expanded\=\&quot;false\&quot;\&gt;\n                            Safety Equipments\n                        \&lt;\/a\&gt;\n                        \&lt;div class\=\&quot;dropdown\-menu\&quot; aria\-labelledby\=\&quot;sedropdown\&quot;\&gt;\n                            \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/safety\-equipments\/cctv\.html\&quot;\&gt;CCTV\&lt;\/a\&gt;\n                            \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/safety\-equipments\/eyes\-ear\-protection\.html\&quot;\&gt;Eyes \&amp; Ear Protection\&lt;\/a\&gt;\n                            \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/safety\-equipments\/portable\-clearing\-tap\.html\&quot;\&gt;Portable Clearing Tap\&lt;\/a\&gt;\n                            \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/safety\-equipments\/fire\-fighting\-system\.html\&quot;\&gt;Fire Fighting System\&lt;\/a\&gt;\n                        \&lt;\/div\&gt;\n                    \&lt;\/li\&gt;\n\n                \&lt;\/ul\&gt;\n            \&lt;\/div\&gt;\n        \&lt;\/div\&gt;\n    \&lt;\/nav\&gt;</find>
+      <find>portfolio-item</find>
       <find>text-left</find>
+      <find>\&lt;nav class\=\&quot;navbar navbar\-expand\-lg navbar\-dark fixed\-top \&quot; id\=\&quot;mainNav\&quot; \&gt;         \&lt;div class\=\&quot;container\&quot;\&gt;             \&lt;a class\=\&quot;navbar\-brand js\-scroll\-trigger\&quot; href\=\&quot;\/\&quot;\&gt;\&lt;img src\=\&quot;\.\.\/\.\.\/img\/logo\/2\.png\&quot; width\=\&quot;180px\&quot;\&gt;\&lt;\/a\&gt;             \&lt;button class\=\&quot;navbar\-toggler navbar\-toggler\-right\&quot; type\=\&quot;button\&quot; data\-toggle\=\&quot;collapse\&quot; data\-target\=\&quot;\#navbarResponsive\&quot; aria\-controls\=\&quot;navbarResponsive\&quot; aria\-expanded\=\&quot;false\&quot; aria\-label\=\&quot;Toggle navigation\&quot;\&gt;                 \&lt;i class\=\&quot;fa fa\-bars\&quot;\&gt;                 \&lt;\/i\&gt;             \&lt;\/button\&gt;             \&lt;div class\=\&quot;collapse navbar\-collapse\&quot; id\=\&quot;navbarResponsive\&quot;\&gt;                 \&lt;ul class\=\&quot;navbar\-nav  ml\-auto\&quot;\&gt;                     \&lt;li class\=\&quot;nav\-item dropdown\&quot;\&gt;                         \&lt;a class\=\&quot;nav\-link dropdown\-toggle\&quot; href\=\&quot;\/combat\-training\-system\/shooting\-ranges\/index\.html\&quot; id\=\&quot;srdropdown\&quot; role\=\&quot;button\&quot; data\-toggle\=\&quot;dropdown\&quot; \&gt;                             Shooting Ranges                         \&lt;\/a\&gt;                         \&lt;div class\=\&quot;dropdown\-menu\&quot; aria\-labelledby\=\&quot;srdropdown\&quot;\&gt;                             \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/shooting\-ranges\/indoor\-shooting\-range\.html\&quot;\&gt;Indoor Shooting Range\&lt;\/a\&gt;                             \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/shooting\-ranges\/containerized\-shooting\-range\.html\&quot;\&gt;Containerized Shooting Range\&lt;\/a\&gt;                             \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/shooting\-ranges\/hybrid\-shooting\-range\.html\&quot;\&gt;Hybrid Shooting Range\&lt;\/a\&gt;                             \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/shooting\-ranges\/outdoor\-shooting\-range\.html\&quot;\&gt;Outdoor Shooting Range\&lt;\/a\&gt;                             \&lt;div class\=\&quot;dropdown\-divider\&quot;\&gt;\&lt;\/div\&gt;                             \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/shooting\-ranges\/shooting\-range\-services\.html\&quot;\&gt;Shooting Range Services\&lt;\/a\&gt;                         \&lt;\/div\&gt;                     \&lt;\/li\&gt;                      \&lt;li class\=\&quot;nav\-item dropdown\&quot;\&gt;                         \&lt;a class\=\&quot;nav\-link dropdown\-toggle\&quot; href\=\&quot;\/combat\-training\-system\/target\-systems\/index\.html\&quot; id\=\&quot;tsdropdown\&quot; role\=\&quot;button\&quot; data\-toggle\=\&quot;dropdown\&quot; aria\-haspopup\=\&quot;true\&quot; aria\-expanded\=\&quot;false\&quot;\&gt;                             Target Systems                         \&lt;\/a\&gt;                         \&lt;div class\=\&quot;dropdown\-menu\&quot; aria\-labelledby\=\&quot;tsdropdown\&quot;\&gt;                             \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/target\-systems\/multi\-function\.html\&quot;\&gt;Multi Function\&lt;\/a\&gt;                             \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/target\-systems\/sara\.html\&quot;\&gt;SARA\&lt;\/a\&gt;                             \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/target\-systems\/steel\-targets\.html\&quot;\&gt;Steel Targets\&lt;\/a\&gt;                          \&lt;\/div\&gt;                     \&lt;\/li\&gt;                      \&lt;li class\=\&quot;nav\-item dropdown\&quot;\&gt;                         \&lt;a class\=\&quot;nav\-link dropdown\-toggle\&quot;  href\=\&quot;\/combat\-training\-system\/virtual\-training\-system\/index\.html\&quot; id\=\&quot;vtsdropdown\&quot; role\=\&quot;button\&quot; data\-toggle\=\&quot;dropdown\&quot; aria\-haspopup\=\&quot;true\&quot; aria\-expanded\=\&quot;false\&quot;\&gt;                             Virtual Training                         \&lt;\/a\&gt;                         \&lt;div class\=\&quot;dropdown\-menu\&quot; aria\-labelledby\=\&quot;vtsdropdown\&quot;\&gt;                             \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/virtual\-training\-system\/live\-fire\-simulator\.html\&quot;\&gt;Live Fire Simulator\&lt;\/a\&gt;                             \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/virtual\-training\-system\/immersive\-cqb\-system\.html\&quot;\&gt;Immersive CQB System\&lt;\/a\&gt;                         \&lt;\/div\&gt;                     \&lt;\/li\&gt;                      \&lt;li class\=\&quot;nav\-item dropdown\&quot;\&gt;                         \&lt;a class\=\&quot;nav\-link dropdown\-toggle\&quot;  href\=\&quot;\/combat\-training\-system\/shoot\-houses\/index\.html\&quot; id\=\&quot;shdropdown\&quot; role\=\&quot;button\&quot; data\-toggle\=\&quot;dropdown\&quot; aria\-haspopup\=\&quot;true\&quot; aria\-expanded\=\&quot;false\&quot;\&gt;                             Shoot Houses                         \&lt;\/a\&gt;                         \&lt;div class\=\&quot;dropdown\-menu\&quot; aria\-labelledby\=\&quot;shdropdown\&quot;\&gt;                             \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/shoot\-houses\/Modular\-shoot\-house\.html\&quot;\&gt;Modular Shoot Houses\&lt;\/a\&gt;                             \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/shoot\-houses\/fixed\-shoot\-house\.html\&quot;\&gt;Fixed Shoot Houses\&lt;\/a\&gt;                         \&lt;\/div\&gt;                     \&lt;\/li\&gt;                     \&lt;li class\=\&quot;nav\-item dropdown\&quot;\&gt;                         \&lt;a class\=\&quot;nav\-link dropdown\-toggle\&quot; href\=\&quot;\/combat\-training\-system\/safety\-equipments\/index\.html\&quot; id\=\&quot;sedropdown\&quot; role\=\&quot;button\&quot; data\-toggle\=\&quot;dropdown\&quot; aria\-haspopup\=\&quot;true\&quot; aria\-expanded\=\&quot;false\&quot;\&gt;                             Safety Supplies                         \&lt;\/a\&gt;                         \&lt;div class\=\&quot;dropdown\-menu\&quot; aria\-labelledby\=\&quot;sedropdown\&quot;\&gt;                             \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/safety\-equipments\/cctv\.html\&quot;\&gt;CCTV\&lt;\/a\&gt;                             \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/safety\-equipments\/eyes\-ear\-protection\.html\&quot;\&gt;Eyes \&amp; Ear Protection\&lt;\/a\&gt;                             \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/safety\-equipments\/portable\-clearing\-tap\.html\&quot;\&gt;Portable Clearing Tap\&lt;\/a\&gt;                             \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/safety\-equipments\/fire\-fighting\-system\.html\&quot;\&gt;Fire Fighting System\&lt;\/a\&gt;                         \&lt;\/div\&gt;                     \&lt;\/li\&gt;                  \&lt;\/ul\&gt;             \&lt;\/div\&gt;         \&lt;\/div\&gt;     \&lt;\/nav\&gt;\n</find>
     </findStrings>
     <replaceStrings>
       <replace>st</replace>
       <replace>/sa</replace>
       <replace />
-      <replace />
       <replace>gf</replace>
       <replace>gf wow fadeInUp</replace>
-      <replace>portfolio-item wow fadeInUp</replace>
-      <replace>gf wow fadeInUp</replace>
       <replace>offset-sm-0 gf wow fadeInUp</replace>
+      <replace>gf offset-sm-0 offset-md-0 offset-2</replace>
+      <replace>gf wow fadeInUp offset-sm-0 offset-md-0 offset-2</replace>
+      <replace />
+      <replace>portfolio-item wow fadeInUp</replace>
+      <replace>&lt;nav class=&quot;navbar navbar-expand-lg navbar-dark fixed-top &quot; id=&quot;mainNav&quot; &gt;         &lt;div class=&quot;container&quot;&gt;             &lt;a class=&quot;navbar-brand js-scroll-trigger&quot; href=&quot;/&quot;&gt;&lt;img src=&quot;../../img/logo/2.png&quot; width=&quot;180px&quot;&gt;&lt;/a&gt;             &lt;button class=&quot;navbar-toggler navbar-toggler-right&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#navbarResponsive&quot; aria-controls=&quot;navbarResponsive&quot; aria-expanded=&quot;false&quot; aria-label=&quot;Toggle navigation&quot;&gt;                 &lt;i class=&quot;fa fa-bars&quot;&gt;                 &lt;/i&gt;             &lt;/button&gt;             &lt;div class=&quot;collapse navbar-collapse&quot; id=&quot;navbarResponsive&quot;&gt;                 &lt;ul class=&quot;navbar-nav  ml-auto&quot;&gt;                     &lt;li class=&quot;nav-item dropdown&quot;&gt;                         &lt;a class=&quot;nav-link dropdown-toggle&quot; href=&quot;/combat-training-system/shooting-ranges/index.html&quot; id=&quot;srdropdown&quot; role=&quot;button&quot; data-toggle=&quot;dropdown&quot; &gt;                             Shooting Ranges                         &lt;/a&gt;                         &lt;div class=&quot;dropdown-menu&quot; aria-labelledby=&quot;srdropdown&quot;&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/shooting-ranges/indoor-shooting-range.html&quot;&gt;Indoor Shooting Range&lt;/a&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/shooting-ranges/containerized-shooting-range.html&quot;&gt;Containerized Shooting Range&lt;/a&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/shooting-ranges/hybrid-shooting-range.html&quot;&gt;Hybrid Shooting Range&lt;/a&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/shooting-ranges/outdoor-shooting-range.html&quot;&gt;Outdoor Shooting Range&lt;/a&gt;                             &lt;div class=&quot;dropdown-divider&quot;&gt;&lt;/div&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/shooting-ranges/shooting-range-services.html&quot;&gt;Shooting Range Services&lt;/a&gt;                         &lt;/div&gt;                     &lt;/li&gt;                      &lt;li class=&quot;nav-item dropdown&quot;&gt;                         &lt;a class=&quot;nav-link dropdown-toggle&quot; href=&quot;/combat-training-system/target-systems/index.html&quot; id=&quot;tsdropdown&quot; role=&quot;button&quot; data-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;                             Target Systems                         &lt;/a&gt;                         &lt;div class=&quot;dropdown-menu&quot; aria-labelledby=&quot;tsdropdown&quot;&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/target-systems/multi-function.html&quot;&gt;Multi Function&lt;/a&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/target-systems/sara.html&quot;&gt;SARA&lt;/a&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/target-systems/steel-targets.html&quot;&gt;Steel Targets&lt;/a&gt;                          &lt;/div&gt;                     &lt;/li&gt;                      &lt;li class=&quot;nav-item dropdown&quot;&gt;                         &lt;a class=&quot;nav-link dropdown-toggle&quot;  href=&quot;/combat-training-system/virtual-training-system/index.html&quot; id=&quot;vtsdropdown&quot; role=&quot;button&quot; data-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;                             Virtual Training                         &lt;/a&gt;                         &lt;div class=&quot;dropdown-menu&quot; aria-labelledby=&quot;vtsdropdown&quot;&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/virtual-training-system/live-fire-simulator.html&quot;&gt;Live Fire Simulator&lt;/a&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/virtual-training-system/immersive-cqb-system.html&quot;&gt;Immersive CQB System&lt;/a&gt;                         &lt;/div&gt;                     &lt;/li&gt;                      &lt;li class=&quot;nav-item dropdown&quot;&gt;                         &lt;a class=&quot;nav-link dropdown-toggle&quot;  href=&quot;/combat-training-system/shoot-houses/index.html&quot; id=&quot;shdropdown&quot; role=&quot;button&quot; data-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;                             Shoot Houses                         &lt;/a&gt;                         &lt;div class=&quot;dropdown-menu&quot; aria-labelledby=&quot;shdropdown&quot;&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/shoot-houses/Modular-shoot-house.html&quot;&gt;Modular Shoot Houses&lt;/a&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/shoot-houses/fixed-shoot-house.html&quot;&gt;Fixed Shoot Houses&lt;/a&gt;                         &lt;/div&gt;                     &lt;/li&gt;                     &lt;li class=&quot;nav-item dropdown&quot;&gt;                         &lt;a class=&quot;nav-link dropdown-toggle&quot; href=&quot;/combat-training-system/safety-equipments/index.html&quot; id=&quot;sedropdown&quot; role=&quot;button&quot; data-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;                             Safety Supplies                         &lt;/a&gt;                         &lt;div class=&quot;dropdown-menu&quot; aria-labelledby=&quot;sedropdown&quot;&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/safety-equipments/cctv.html&quot;&gt;CCTV&lt;/a&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/safety-equipments/eyes-ear-protection.html&quot;&gt;Eyes &amp; Ear Protection&lt;/a&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/safety-equipments/portable-clearing-tap.html&quot;&gt;Portable Clearing Tap&lt;/a&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/safety-equipments/fire-fighting-system.html&quot;&gt;Fire Fighting System&lt;/a&gt;                         &lt;/div&gt;                     &lt;/li&gt;                  &lt;/ul&gt;             &lt;/div&gt;         &lt;/div&gt;     &lt;/nav&gt;</replace>
+      <replace>&lt;section class=&quot;bg-light py-2&quot; id=&quot;team&quot;  &gt;         &lt;div class=&quot;container&quot;&gt;             &lt;div class=&quot;row&quot;&gt;                 &lt;div class=&quot;col-lg-12 text-center&quot;&gt;                     &lt;p class=&quot;lead section-heading text-uppercase&quot;&gt;Supported By&lt;/p&gt;                     &lt;!--&lt;h3 class=&quot;section-subheading text-muted&quot;&gt;Lorem ipsum dolor sit amet consectetur.&lt;/h3&gt;--&gt;                 &lt;/div&gt;             &lt;/div&gt;             &lt;div class=&quot;row py-2&quot;&gt;                 &lt;div class=&quot;col-sm-3 col-6 text-center&quot;&gt;                     &lt;img class=&quot;mx-auto img-fluid py-2&quot; src=&quot;../../img/support/1.jpg&quot; alt=&quot;&quot;&gt;                 &lt;/div&gt;                 &lt;div class=&quot;col-sm-3 col-6 text-center&quot;&gt;                     &lt;img class=&quot;mx-auto img-fluid py-2 &quot; src=&quot;../../img/support/2.jpg&quot; alt=&quot;&quot;&gt;                 &lt;/div&gt;                 &lt;div class=&quot;col-sm-3 col-6 text-center&quot;&gt;                     &lt;img class=&quot;mx-auto  img-fluid py-2 &quot; src=&quot;../../img/support/3.jpg&quot; alt=&quot;&quot;&gt;                 &lt;/div&gt;                 &lt;div class=&quot;col-sm-3 col-6 text-center&quot;&gt;                     &lt;img class=&quot;mx-auto  img-fluid py-2&quot; src=&quot;../../img/support/4.jpg&quot; alt=&quot;&quot;&gt;                 &lt;/div&gt;              &lt;/div&gt;          &lt;/div&gt;     &lt;/section&gt;</replace>
+      <replace>offset-sm-0 offset-md-0 offset-2 wow fadeInUp gf</replace>
       <replace>text-center</replace>
+      <replace>&lt;nav class=&quot;navbar navbar-expand-lg navbar-dark fixed-top &quot; id=&quot;mainNav&quot; &gt;         &lt;div class=&quot;container&quot;&gt;             &lt;a class=&quot;navbar-brand js-scroll-trigger&quot; href=&quot;/&quot;&gt;&lt;img src=&quot;../../img/logo/2.png&quot; width=&quot;180px&quot;&gt;&lt;/a&gt;             &lt;button class=&quot;navbar-toggler navbar-toggler-right&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#navbarResponsive&quot; aria-controls=&quot;navbarResponsive&quot; aria-expanded=&quot;false&quot; aria-label=&quot;Toggle navigation&quot;&gt;                 &lt;i class=&quot;fa fa-bars&quot;&gt;                 &lt;/i&gt;             &lt;/button&gt;             &lt;div class=&quot;collapse navbar-collapse&quot; id=&quot;navbarResponsive&quot;&gt;                 &lt;ul class=&quot;navbar-nav  ml-auto&quot;&gt;                     &lt;li class=&quot;nav-item dropdown&quot;&gt;                         &lt;a class=&quot;nav-link dropdown-toggle&quot; href=&quot;/combat-training-system/shooting-ranges/index.html&quot; id=&quot;srdropdown&quot; role=&quot;button&quot; data-toggle=&quot;dropdown&quot; &gt;                             Shooting Ranges                         &lt;/a&gt;                         &lt;div class=&quot;dropdown-menu&quot; aria-labelledby=&quot;srdropdown&quot;&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/shooting-ranges/indoor-shooting-range.html&quot;&gt;Indoor Shooting Range&lt;/a&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/shooting-ranges/containerized-shooting-range.html&quot;&gt;Containerized Shooting Range&lt;/a&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/shooting-ranges/hybrid-shooting-range.html&quot;&gt;Hybrid Shooting Range&lt;/a&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/shooting-ranges/outdoor-shooting-range.html&quot;&gt;Outdoor Shooting Range&lt;/a&gt;                             &lt;div class=&quot;dropdown-divider&quot;&gt;&lt;/div&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/shooting-ranges/shooting-range-services.html&quot;&gt;Shooting Range Services&lt;/a&gt;                         &lt;/div&gt;                     &lt;/li&gt;                      &lt;li class=&quot;nav-item dropdown&quot;&gt;                         &lt;a class=&quot;nav-link dropdown-toggle&quot; href=&quot;/combat-training-system/target-systems/index.html&quot; id=&quot;tsdropdown&quot; role=&quot;button&quot; data-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;                             Target Systems                         &lt;/a&gt;                         &lt;div class=&quot;dropdown-menu&quot; aria-labelledby=&quot;tsdropdown&quot;&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/target-systems/multi-function.html&quot;&gt;Multi Function&lt;/a&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/target-systems/sara.html&quot;&gt;SARA&lt;/a&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/target-systems/steel-targets.html&quot;&gt;Steel Targets&lt;/a&gt;                          &lt;/div&gt;                     &lt;/li&gt;                      &lt;li class=&quot;nav-item dropdown&quot;&gt;                         &lt;a class=&quot;nav-link dropdown-toggle&quot;  href=&quot;/combat-training-system/virtual-training-system/index.html&quot; id=&quot;vtsdropdown&quot; role=&quot;button&quot; data-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;                             Virtual Training                         &lt;/a&gt;                         &lt;div class=&quot;dropdown-menu&quot; aria-labelledby=&quot;vtsdropdown&quot;&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/virtual-training-system/live-fire-simulator.html&quot;&gt;Live Fire Simulator&lt;/a&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/virtual-training-system/immersive-cqb-system.html&quot;&gt;Immersive CQB System&lt;/a&gt;                         &lt;/div&gt;                     &lt;/li&gt;                      &lt;li class=&quot;nav-item dropdown&quot;&gt;                         &lt;a class=&quot;nav-link dropdown-toggle&quot;  href=&quot;/combat-training-system/shoot-houses/index.html&quot; id=&quot;shdropdown&quot; role=&quot;button&quot; data-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;                             Shoot Houses                         &lt;/a&gt;                         &lt;div class=&quot;dropdown-menu&quot; aria-labelledby=&quot;shdropdown&quot;&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/shoot-houses/Modular-shoot-house.html&quot;&gt;Modular Shoot Houses&lt;/a&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/shoot-houses/fixed-shoot-house.html&quot;&gt;Fixed Shoot Houses&lt;/a&gt;                         &lt;/div&gt;                     &lt;/li&gt;                     &lt;li class=&quot;nav-item dropdown&quot;&gt;                         &lt;a class=&quot;nav-link dropdown-toggle&quot; href=&quot;/combat-training-system/safety-equipments/index.html&quot; id=&quot;sedropdown&quot; role=&quot;button&quot; data-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;                             Safety Supplies                         &lt;/a&gt;                         &lt;div class=&quot;dropdown-menu&quot; aria-labelledby=&quot;sedropdown&quot;&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/safety-equipments/cctv.html&quot;&gt;CCTV&lt;/a&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/safety-equipments/eyes-ear-protection.html&quot;&gt;Eyes &amp; Ear Protection&lt;/a&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/safety-equipments/portable-clearing-tap.html&quot;&gt;Portable Clearing Tap&lt;/a&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/safety-equipments/fire-fighting-system.html&quot;&gt;Fire Fighting System&lt;/a&gt;                         &lt;/div&gt;                     &lt;/li&gt;                  &lt;/ul&gt;             &lt;/div&gt;         &lt;/div&gt;     &lt;/nav&gt;</replace>
+      <replace>portfolio-item wow fadeInUp</replace>
+      <replace>text-center</replace>
+      <replace>&lt;nav class=&quot;navbar navbar-expand-lg navbar-dark fixed-top &quot; id=&quot;mainNav&quot; &gt;         &lt;div class=&quot;container&quot;&gt;             &lt;a class=&quot;navbar-brand js-scroll-trigger&quot; href=&quot;/&quot;&gt;&lt;img src=&quot;../../img/logo/2.png&quot; width=&quot;180px&quot;&gt;&lt;/a&gt;             &lt;button class=&quot;navbar-toggler navbar-toggler-right&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#navbarResponsive&quot; aria-controls=&quot;navbarResponsive&quot; aria-expanded=&quot;false&quot; aria-label=&quot;Toggle navigation&quot;&gt;                 &lt;i class=&quot;fa fa-bars&quot;&gt;                 &lt;/i&gt;             &lt;/button&gt;             &lt;div class=&quot;collapse navbar-collapse&quot; id=&quot;navbarResponsive&quot;&gt;                 &lt;ul class=&quot;navbar-nav  ml-auto&quot;&gt;                     &lt;li class=&quot;nav-item dropdown&quot;&gt;                         &lt;a class=&quot;nav-link dropdown-toggle&quot; href=&quot;/combat-training-system/shooting-ranges/index.html&quot; id=&quot;srdropdown&quot; role=&quot;button&quot; data-toggle=&quot;dropdown&quot; &gt;                             Shooting Ranges                         &lt;/a&gt;                         &lt;div class=&quot;dropdown-menu&quot; aria-labelledby=&quot;srdropdown&quot;&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/shooting-ranges/indoor-shooting-range.html&quot;&gt;Indoor Shooting Range&lt;/a&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/shooting-ranges/containerized-shooting-range.html&quot;&gt;Containerized Shooting Range&lt;/a&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/shooting-ranges/hybrid-shooting-range.html&quot;&gt;Hybrid Shooting Range&lt;/a&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/shooting-ranges/outdoor-shooting-range.html&quot;&gt;Outdoor Shooting Range&lt;/a&gt;                             &lt;div class=&quot;dropdown-divider&quot;&gt;&lt;/div&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/shooting-ranges/shooting-range-services.html&quot;&gt;Shooting Range Services&lt;/a&gt;                         &lt;/div&gt;                     &lt;/li&gt;                      &lt;li class=&quot;nav-item dropdown&quot;&gt;                         &lt;a class=&quot;nav-link dropdown-toggle&quot; href=&quot;/combat-training-system/target-systems/index.html&quot; id=&quot;tsdropdown&quot; role=&quot;button&quot; data-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;                             Target Systems                         &lt;/a&gt;                         &lt;div class=&quot;dropdown-menu&quot; aria-labelledby=&quot;tsdropdown&quot;&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/target-systems/multi-function.html&quot;&gt;Multi Function&lt;/a&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/target-systems/sara.html&quot;&gt;SARA&lt;/a&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/target-systems/steel-targets.html&quot;&gt;Steel Targets&lt;/a&gt;                          &lt;/div&gt;                     &lt;/li&gt;                      &lt;li class=&quot;nav-item dropdown&quot;&gt;                         &lt;a class=&quot;nav-link dropdown-toggle&quot;  href=&quot;/combat-training-system/virtual-training-system/index.html&quot; id=&quot;vtsdropdown&quot; role=&quot;button&quot; data-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;                             Virtual Training                         &lt;/a&gt;                         &lt;div class=&quot;dropdown-menu&quot; aria-labelledby=&quot;vtsdropdown&quot;&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/virtual-training-system/live-fire-simulator.html&quot;&gt;Live Fire Simulator&lt;/a&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/virtual-training-system/immersive-cqb-system.html&quot;&gt;Immersive CQB System&lt;/a&gt;                         &lt;/div&gt;                     &lt;/li&gt;                      &lt;li class=&quot;nav-item dropdown&quot;&gt;                         &lt;a class=&quot;nav-link dropdown-toggle&quot;  href=&quot;/combat-training-system/shoot-houses/index.html&quot; id=&quot;shdropdown&quot; role=&quot;button&quot; data-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;                             Shoot Houses                         &lt;/a&gt;                         &lt;div class=&quot;dropdown-menu&quot; aria-labelledby=&quot;shdropdown&quot;&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/shoot-houses/Modular-shoot-house.html&quot;&gt;Modular Shoot Houses&lt;/a&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/shoot-houses/fixed-shoot-house.html&quot;&gt;Fixed Shoot Houses&lt;/a&gt;                         &lt;/div&gt;                     &lt;/li&gt;                     &lt;li class=&quot;nav-item dropdown&quot;&gt;                         &lt;a class=&quot;nav-link dropdown-toggle&quot; href=&quot;/combat-training-system/safety-equipments/index.html&quot; id=&quot;sedropdown&quot; role=&quot;button&quot; data-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;                             Safety Supplies                         &lt;/a&gt;                         &lt;div class=&quot;dropdown-menu&quot; aria-labelledby=&quot;sedropdown&quot;&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/safety-equipments/cctv.html&quot;&gt;CCTV&lt;/a&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/safety-equipments/eyes-ear-protection.html&quot;&gt;Eyes &amp; Ear Protection&lt;/a&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/safety-equipments/portable-clearing-tap.html&quot;&gt;Portable Clearing Tap&lt;/a&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/safety-equipments/fire-fighting-system.html&quot;&gt;Fire Fighting System&lt;/a&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/safety-equipments/training-ammunition.html&quot;&gt;Training Ammunition&lt;/a&gt;                         &lt;/div&gt;                     &lt;/li&gt;                  &lt;/ul&gt;             &lt;/div&gt;         &lt;/div&gt;     &lt;/nav&gt;</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -202,45 +255,51 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/css/agency.css" />
         <option value="$PROJECT_DIR$/combat-training-system/shooting-ranges/shooting-range-services.html" />
-        <option value="$PROJECT_DIR$/combat-training-system/safety-equipments/cctv.html" />
-        <option value="$PROJECT_DIR$/combat-training-system/safety-equipments/eyes-ear-protection.html" />
-        <option value="$PROJECT_DIR$/combat-training-system/safety-equipments/portable-clearing-tap.html" />
-        <option value="$PROJECT_DIR$/combat-training-system/safety-equipments/fire-fighting-system.html" />
         <option value="$USER_HOME$/AppData/Local/Temp/Next.url" />
         <option value="$PROJECT_DIR$/combat-training-system/index.htmlo.html" />
-        <option value="$PROJECT_DIR$/special-operation-system/index.html" />
         <option value="$PROJECT_DIR$/combat-training-system/shoot-houses/modular.html" />
         <option value="$PROJECT_DIR$/combat-training-system/shoot-houses/fixed.html" />
         <option value="$PROJECT_DIR$/combat-training-system/shoot-houses/Modular-shooting-range.html" />
         <option value="$PROJECT_DIR$/scss/_global.scss" />
         <option value="$PROJECT_DIR$/scss/_mixins.scss" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/combat-training-system/target-systems/index.html" />
-        <option value="$PROJECT_DIR$/combat-training-system/virtual-training-system/index.html" />
-        <option value="$PROJECT_DIR$/combat-training-system/shoot-houses/index.html" />
-        <option value="$PROJECT_DIR$/combat-training-system/safety-equipments/index.html" />
-        <option value="$PROJECT_DIR$/combat-training-system/target-systems/multi-function.html" />
-        <option value="$PROJECT_DIR$/combat-training-system/target-systems/steel-targets.html" />
-        <option value="$PROJECT_DIR$/combat-training-system/shoot-houses/fixed-shoot-house.html" />
-        <option value="$PROJECT_DIR$/combat-training-system/shoot-houses/Modular-shoot-house.html" />
-        <option value="$PROJECT_DIR$/combat-training-system/target-systems/sara.html" />
-        <option value="$PROJECT_DIR$/combat-training-system/shooting-ranges/index.html" />
-        <option value="$PROJECT_DIR$/combat-training-system/index.html" />
-        <option value="$PROJECT_DIR$/combat-training-system/virtual-training-system/live-fire-simulator.html" />
-        <option value="$PROJECT_DIR$/combat-training-system/virtual-training-system/immersive-cqb-system.html" />
         <option value="$PROJECT_DIR$/scss/_variables.scss" />
         <option value="$PROJECT_DIR$/scss/_navbar.scss" />
         <option value="$PROJECT_DIR$/scss/_masthead.scss" />
         <option value="$PROJECT_DIR$/scss/_portfolio.scss" />
         <option value="$PROJECT_DIR$/js/preloader.js" />
-        <option value="$PROJECT_DIR$/scss/agency.scss" />
         <option value="$PROJECT_DIR$/js/agency.js" />
-        <option value="$PROJECT_DIR$/combat-training-system/shooting-ranges/containerized-shooting-range.html" />
+        <option value="$PROJECT_DIR$/css/agency.css" />
+        <option value="$PROJECT_DIR$/scss/agency.scss" />
+        <option value="$PROJECT_DIR$/scss/_footer.scss" />
+        <option value="$PROJECT_DIR$/combat-training-system/shoot-houses/fixed-shoot-house.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/special-operation-system/index.html" />
+        <option value="$PROJECT_DIR$/special-operation-system/ascender.html" />
+        <option value="$PROJECT_DIR$/special-operation-system/counter-drone-system.html" />
+        <option value="$PROJECT_DIR$/special-operation-system/hydraulic-ramps.html" />
+        <option value="$PROJECT_DIR$/combat-training-system/safety-equipments/training-ammunition.html" />
         <option value="$PROJECT_DIR$/combat-training-system/shooting-ranges/indoor-shooting-range.html" />
-        <option value="$PROJECT_DIR$/combat-training-system/shooting-ranges/outdoor-shooting-range.html" />
+        <option value="$PROJECT_DIR$/combat-training-system/safety-equipments/cctv.html" />
+        <option value="$PROJECT_DIR$/combat-training-system/safety-equipments/eyes-ear-protection.html" />
+        <option value="$PROJECT_DIR$/combat-training-system/safety-equipments/fire-fighting-system.html" />
+        <option value="$PROJECT_DIR$/combat-training-system/safety-equipments/portable-clearing-tap.html" />
+        <option value="$PROJECT_DIR$/combat-training-system/shoot-houses/Modular-shoot-house.html" />
+        <option value="$PROJECT_DIR$/combat-training-system/shooting-ranges/containerized-shooting-range.html" />
         <option value="$PROJECT_DIR$/combat-training-system/shooting-ranges/hybrid-shooting-range.html" />
+        <option value="$PROJECT_DIR$/combat-training-system/shooting-ranges/outdoor-shooting-range.html" />
+        <option value="$PROJECT_DIR$/combat-training-system/target-systems/multi-function.html" />
+        <option value="$PROJECT_DIR$/combat-training-system/target-systems/sara.html" />
+        <option value="$PROJECT_DIR$/combat-training-system/target-systems/steel-targets.html" />
+        <option value="$PROJECT_DIR$/combat-training-system/virtual-training-system/immersive-cqb-system.html" />
+        <option value="$PROJECT_DIR$/combat-training-system/virtual-training-system/live-fire-simulator.html" />
+        <option value="$PROJECT_DIR$/special-operation-system/tactical-access-system/index.html" />
+        <option value="$PROJECT_DIR$/combat-training-system/index.html" />
+        <option value="$PROJECT_DIR$/combat-training-system/safety-equipments/index.html" />
+        <option value="$PROJECT_DIR$/combat-training-system/shoot-houses/index.html" />
+        <option value="$PROJECT_DIR$/combat-training-system/shooting-ranges/index.html" />
+        <option value="$PROJECT_DIR$/combat-training-system/target-systems/index.html" />
+        <option value="$PROJECT_DIR$/combat-training-system/virtual-training-system/index.html" />
       </list>
     </option>
   </component>
@@ -303,7 +362,91 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="scss" />
+              <option name="myItemId" value="special-operation-system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AimTrex Website" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AimTrex Website" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="special-operation-system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hr" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AimTrex Website" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AimTrex Website" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="special-operation-system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="cds" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AimTrex Website" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AimTrex Website" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="special-operation-system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="carousel" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AimTrex Website" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AimTrex Website" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="special-operation-system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -349,7 +492,25 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="shooting-ranges" />
+              <option name="myItemId" value="virtual-training-system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AimTrex Website" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AimTrex Website" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="combat-training-system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="target-systems" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -370,8 +531,22 @@
               <option name="myItemId" value="shooting-ranges" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
+              <option name="myItemId" value="AimTrex Website" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AimTrex Website" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="combat-training-system" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="shoot-houses" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -389,15 +564,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="shooting-ranges" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="img" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="isr" />
+              <option name="myItemId" value="safety-equipments" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -416,19 +583,19 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\AimTrex Website\special-operation-system\img\hr" />
+      <recent name="E:\AimTrex Website\special-operation-system\img\cds" />
+      <recent name="E:\AimTrex Website\special-operation-system\img\as" />
+      <recent name="E:\AimTrex Website\special-operation-system\img\carousel" />
+      <recent name="E:\AimTrex Website\combat-training-system\virtual-training-system\img\ics" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\AimTrex Website\special-operation-system" />
+      <recent name="E:\AimTrex Website\special-operation-system\img" />
       <recent name="E:\AimTrex Website\combat-training-system\shooting-ranges\img\isr\carousel" />
       <recent name="E:\AimTrex Website\combat-training-system\virtual-training-system\img\ics" />
       <recent name="E:\AimTrex Website\combat-training-system\virtual-training-system\img\lfs" />
-      <recent name="E:\AimTrex Website\combat-training-system\shooting-ranges\img\isr\key-features" />
-      <recent name="E:\AimTrex Website\combat-training-system\shoot-houses\img\msh" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\AimTrex Website\combat-training-system\shooting-ranges\img\isr\key-features" />
-      <recent name="E:\AimTrex Website\combat-training-system\shoot-houses\img\fsh" />
-      <recent name="E:\AimTrex Website\combat-training-system\target-systems\img\st" />
-      <recent name="E:\AimTrex Website\combat-training-system\shooting-ranges\img\osr" />
-      <recent name="E:\AimTrex Website\combat-training-system\shooting-ranges\img\csr" />
     </key>
   </component>
   <component name="RunManager">
@@ -558,12 +725,17 @@
       <workItem from="1533624487555" duration="794000" />
       <workItem from="1533883956926" duration="9243000" />
       <workItem from="1533915305482" duration="6563000" />
-      <workItem from="1533929690057" duration="3322000" />
+      <workItem from="1533929690057" duration="3350000" />
+      <workItem from="1533937974721" duration="9000" />
+      <workItem from="1533986719584" duration="1239000" />
+      <workItem from="1534042816483" duration="1829000" />
+      <workItem from="1534092871216" duration="771000" />
+      <workItem from="1534140056387" duration="7903000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="72408000" />
+    <option name="totallyTimeSpent" value="84187000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -575,17 +747,18 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.113804005" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18967333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907802" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827735" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26058325" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34019503" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34019503" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -593,7 +766,6 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907802" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
@@ -605,12 +777,12 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32907802" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34019503" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18534179" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18967333" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32907802" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32827735" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26058325" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -627,82 +799,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/img/support/2.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/img/logo/1.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/combat-training-system/safety-equipments/cctv.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/combat-training-system/safety-equipments/eyes-ear-protection.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/combat-training-system/safety-equipments/portable-clearing-tap.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/combat-training-system/safety-equipments/fire-fighting-system.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/agency.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
-          <caret line="4" column="1407" lean-forward="false" selection-start-line="4" selection-start-column="1407" selection-end-line="4" selection-end-column="1407" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gulpfile.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mail/contact_me.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="9" lean-forward="false" selection-start-line="20" selection-start-column="9" selection-end-line="20" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Temp/Next.url" />
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="12" selection-end-line="0" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/special-operation-system/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="599">
-          <caret line="61" column="0" lean-forward="true" selection-start-line="61" selection-start-column="0" selection-end-line="61" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/combat-training-system/shoot-houses/modular.html" />
-    <entry file="file://$PROJECT_DIR$/combat-training-system/shoot-houses/fixed.html" />
     <entry file="file://$PROJECT_DIR$/scss/_timeline.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -724,41 +820,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="169" column="72" lean-forward="true" selection-start-line="168" selection-start-column="9" selection-end-line="169" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/combat-training-system/target-systems/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2567">
-          <caret line="151" column="26" lean-forward="false" selection-start-line="151" selection-start-column="26" selection-end-line="151" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/combat-training-system/safety-equipments/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2210">
-          <caret line="130" column="100" lean-forward="false" selection-start-line="130" selection-start-column="100" selection-end-line="130" selection-end-column="100" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/combat-training-system/shoot-houses/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2516">
-          <caret line="148" column="46" lean-forward="false" selection-start-line="148" selection-start-column="46" selection-end-line="148" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/combat-training-system/virtual-training-system/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2261">
-          <caret line="172" column="30" lean-forward="true" selection-start-line="172" selection-start-column="30" selection-end-line="172" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/combat-training-system/shooting-ranges/img/hsr/body-1.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -767,41 +828,6 @@
     <entry file="file://$PROJECT_DIR$/combat-training-system/shooting-ranges/img/osr/header.jpg">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/combat-training-system/target-systems/steel-targets.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="122" column="18" lean-forward="true" selection-start-line="122" selection-start-column="18" selection-end-line="122" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/combat-training-system/shoot-houses/fixed-shoot-house.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="232">
-          <caret line="145" column="10" lean-forward="false" selection-start-line="145" selection-start-column="10" selection-end-line="145" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/combat-training-system/target-systems/multi-function.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/combat-training-system/shoot-houses/Modular-shoot-house.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="521">
-          <caret line="111" column="0" lean-forward="false" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/combat-training-system/target-systems/sara.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="521">
-          <caret line="111" column="0" lean-forward="false" selection-start-line="111" selection-start-column="0" selection-end-line="111" selection-end-column="0" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/combat-training-system/shooting-ranges/img/isr/key-features/kf1.png">
@@ -828,32 +854,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/combat-training-system/virtual-training-system/live-fire-simulator.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="38" column="0" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="110" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/combat-training-system/shooting-ranges/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1031">
-          <caret line="308" column="41" lean-forward="true" selection-start-line="308" selection-start-column="41" selection-end-line="308" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/combat-training-system/virtual-training-system/immersive-cqb-system.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1598">
-          <caret line="94" column="45" lean-forward="false" selection-start-line="94" selection-start-column="45" selection-end-line="94" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/scss/_variables.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="13" column="28" lean-forward="false" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -861,7 +865,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="510">
           <caret line="30" column="28" lean-forward="false" selection-start-line="30" selection-start-column="28" selection-end-line="30" selection-end-column="28" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -881,41 +884,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="46" column="24" lean-forward="false" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/combat-training-system/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="27" column="7" lean-forward="false" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h2#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h4#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#h4#0;n#div#1;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1533438080374" expanded="false" signature="8984:9004" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scss/agency.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="30" column="1" lean-forward="false" selection-start-line="30" selection-start-column="1" selection-end-line="30" selection-end-column="1" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -923,14 +891,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
           <caret line="3" column="109" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="597" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/agency.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="460">
-          <caret line="71" column="3" lean-forward="true" selection-start-line="71" selection-start-column="3" selection-end-line="71" selection-end-column="3" />
+        <state relative-caret-position="1207">
+          <caret line="71" column="3" lean-forward="false" selection-start-line="71" selection-start-column="3" selection-end-line="71" selection-end-column="3" />
           <folding />
         </state>
       </provider>
@@ -939,16 +906,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="193">
           <caret line="5" column="9007" lean-forward="false" selection-start-line="5" selection-start-column="9007" selection-end-line="5" selection-end-column="9007" />
-          <folding>
-            <element signature="e#58784#58984#2" expanded="true" />
-            <element signature="e#59192#59341#2" expanded="true" />
-            <element signature="e#59843#59989#2" expanded="true" />
-            <element signature="e#60290#60456#1" expanded="true" />
-            <element signature="e#71108#71351#2" expanded="true" />
-            <element signature="e#72218#72467#2" expanded="true" />
-            <element signature="e#99230#99420#2" expanded="true" />
-            <element signature="e#99466#99656#2" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -956,34 +913,206 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/agency.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="804" column="19" lean-forward="true" selection-start-line="804" selection-start-column="19" selection-end-line="804" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/combat-training-system/shooting-ranges/indoor-shooting-range.html">
+    <entry file="file://$PROJECT_DIR$/scss/agency.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="343" column="31" lean-forward="true" selection-start-line="343" selection-start-column="31" selection-end-line="343" selection-end-column="31" />
+        <state relative-caret-position="368">
+          <caret line="24" column="22" lean-forward="false" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/logo/2.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/img/logo/1.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/scss/_footer.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="19" lean-forward="true" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/combat-training-system/shoot-houses/fixed-shoot-house.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="41" column="41" lean-forward="false" selection-start-line="41" selection-start-column="41" selection-end-line="41" selection-end-column="41" />
           <folding>
-            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#5;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#2;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#3;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#3;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#4;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#4;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#3;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#4;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#5;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/combat-training-system/shooting-ranges/containerized-shooting-range.html">
+    <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-5626">
-          <caret line="16" column="0" lean-forward="false" selection-start-line="16" selection-start-column="0" selection-end-line="19" selection-end-column="105" />
+        <state relative-caret-position="266">
+          <caret line="125" column="48" lean-forward="false" selection-start-line="125" selection-start-column="48" selection-end-line="125" selection-end-column="48" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/special-operation-system/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-49">
+          <caret line="40" column="34" lean-forward="true" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#1;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/special-operation-system/hydraulic-ramps.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="644">
+          <caret line="142" column="78" lean-forward="true" selection-start-line="142" selection-start-column="78" selection-end-line="142" selection-end-column="78" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#3;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#4;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#5;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/special-operation-system/counter-drone-system.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="94" column="3" lean-forward="true" selection-start-line="94" selection-start-column="3" selection-end-line="106" selection-end-column="12" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#3;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#4;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/combat-training-system/shooting-ranges/indoor-shooting-range.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="45" column="0" lean-forward="true" selection-start-line="45" selection-start-column="0" selection-end-line="45" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#4;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/combat-training-system/safety-equipments/training-ammunition.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="16" lean-forward="false" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/special-operation-system/ascender.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="43" column="1" lean-forward="false" selection-start-line="43" selection-start-column="1" selection-end-line="77" selection-end-column="10" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#2;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#3;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#3;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#4;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#4;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#5;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#5;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#2;n#div#1;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#3;n#div#1;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1534146615853" expanded="true" signature="17292:17305" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/combat-training-system/safety-equipments/cctv.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/combat-training-system/safety-equipments/eyes-ear-protection.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/combat-training-system/safety-equipments/fire-fighting-system.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="197">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/combat-training-system/shoot-houses/Modular-shoot-house.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="129">
+          <caret line="44" column="2" lean-forward="false" selection-start-line="44" selection-start-column="2" selection-end-line="44" selection-end-column="2" />
           <folding>
             <element signature="n#style#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1008,33 +1137,23 @@
             <element signature="n#style#0;n#p#0;n#div#5;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#6;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#7;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#8;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/combat-training-system/shooting-ranges/outdoor-shooting-range.html">
+    <entry file="file://$PROJECT_DIR$/combat-training-system/shooting-ranges/containerized-shooting-range.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="521">
-          <caret line="349" column="14" lean-forward="false" selection-start-line="349" selection-start-column="14" selection-end-line="349" selection-end-column="14" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#2;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#3;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#3;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#4;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#p#0;n#div#0;n#div#4;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="17">
+          <caret line="48" column="2" lean-forward="false" selection-start-line="48" selection-start-column="2" selection-end-line="48" selection-end-column="2" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/combat-training-system/shooting-ranges/hybrid-shooting-range.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="478">
-          <caret line="402" column="50" lean-forward="true" selection-start-line="402" selection-start-column="50" selection-end-line="402" selection-end-column="50" />
+        <state relative-caret-position="532">
+          <caret line="44" column="2" lean-forward="false" selection-start-line="44" selection-start-column="2" selection-end-line="44" selection-end-column="2" />
           <folding>
             <element signature="n#style#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1046,7 +1165,159 @@
             <element signature="n#style#0;n#p#0;n#div#8;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#9;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#10;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/combat-training-system/shooting-ranges/outdoor-shooting-range.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="43" column="2" lean-forward="false" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/combat-training-system/target-systems/sara.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="44" column="2" lean-forward="false" selection-start-line="44" selection-start-column="2" selection-end-line="44" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/combat-training-system/virtual-training-system/immersive-cqb-system.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="42" column="2" lean-forward="false" selection-start-line="42" selection-start-column="2" selection-end-line="42" selection-end-column="2" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#2;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#3;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#3;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#4;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#4;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#5;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#5;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/combat-training-system/virtual-training-system/live-fire-simulator.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="42" column="2" lean-forward="false" selection-start-line="42" selection-start-column="2" selection-end-line="42" selection-end-column="2" />
+          <folding>
+            <element signature="n#style#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#3;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#4;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/special-operation-system/tactical-access-system/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="333">
+          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/combat-training-system/target-systems/steel-targets.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="43" column="2" lean-forward="false" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/combat-training-system/target-systems/multi-function.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="169">
+          <caret line="46" column="2" lean-forward="false" selection-start-line="46" selection-start-column="2" selection-end-line="46" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/combat-training-system/safety-equipments/portable-clearing-tap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="40" column="0" lean-forward="false" selection-start-line="40" selection-start-column="0" selection-end-line="40" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/combat-training-system/safety-equipments/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="42" column="0" lean-forward="true" selection-start-line="42" selection-start-column="0" selection-end-line="42" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/combat-training-system/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="39" column="0" lean-forward="true" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#1;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#2;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h4#0;n#div#1;n#div#3;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#4;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <marker date="1534147883678" expanded="false" signature="9404:9424" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/combat-training-system/shoot-houses/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="39" column="71" lean-forward="false" selection-start-line="39" selection-start-column="71" selection-end-line="39" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/combat-training-system/shooting-ranges/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="558">
+          <caret line="39" column="71" lean-forward="false" selection-start-line="39" selection-start-column="71" selection-end-line="39" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/combat-training-system/target-systems/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="39" column="71" lean-forward="false" selection-start-line="39" selection-start-column="71" selection-end-line="39" selection-end-column="71" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/combat-training-system/virtual-training-system/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="711">
+          <caret line="48" column="27" lean-forward="true" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
+          <folding />
         </state>
       </provider>
     </entry>
