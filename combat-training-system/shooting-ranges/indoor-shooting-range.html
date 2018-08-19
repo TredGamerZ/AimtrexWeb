@@ -10,10 +10,8 @@
 
     <title>Indoor Shooting Ranges | AimTrex </title>
 
-    <script
-            src="https://code.jquery.com/jquery-3.3.1.min.js"
-            integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
-            crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8="
+        crossorigin="anonymous"></script>
 
     <script src="https://cdn.jsdelivr.net/npm/queryloader2@3.2.3/queryloader2.min.js"></script>
 
@@ -38,364 +36,388 @@
 
 </head>
 <style>
-
 </style>
 
 <body id="page-top">
-<div class="container-fluid p-0 m-0 w-100 h-100" style="overflow-x: hidden">
+    <div class="container-fluid p-0 m-0 w-100 h-100" style="overflow-x: hidden">
 
-    <!-- Navigation -->
-    <nav class="navbar navbar-expand-lg navbar-dark fixed-top " id="mainNav" >
-        <div class="container">
-            <a class="navbar-brand js-scroll-trigger" href="/"><img src="../../img/logo/2.png" width="180px"></a>
-            <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
-                <i class="fa fa-bars">
-                </i>
-            </button>
-            <div class="collapse navbar-collapse" id="navbarResponsive">
-                <ul class="navbar-nav  ml-auto">
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="/combat-training-system/shooting-ranges/index.html" id="srdropdown" role="button" data-toggle="dropdown" >
-                            Shooting Ranges
-                        </a>
-                        <div class="dropdown-menu" aria-labelledby="srdropdown">
-                            <a class="dropdown-item" href="/combat-training-system/shooting-ranges/indoor-shooting-range.html">Indoor Shooting Range</a>
-                            <a class="dropdown-item" href="/combat-training-system/shooting-ranges/containerized-shooting-range.html">Containerized Shooting Range</a>
-                            <a class="dropdown-item" href="/combat-training-system/shooting-ranges/hybrid-shooting-range.html">Hybrid Shooting Range</a>
-                            <a class="dropdown-item" href="/combat-training-system/shooting-ranges/outdoor-shooting-range.html">Outdoor Shooting Range</a>
-                            <div class="dropdown-divider"></div>
-                            <a class="dropdown-item" href="/combat-training-system/shooting-ranges/shooting-range-services.html">Shooting Range Services</a>
-                        </div>
-                    </li>
+        <!-- Navigation -->
+        <nav class="navbar navbar-expand-lg navbar-dark fixed-top " id="mainNav">
+            <div class="container">
+                <a class="navbar-brand js-scroll-trigger" href="/">
+                    <img src="../../img/logo/2.png" width="180px">
+                </a>
+                <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarResponsive"
+                    aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                    <i class="fa fa-bars">
+                    </i>
+                </button>
+                <div class="collapse navbar-collapse" id="navbarResponsive">
+                    <ul class="navbar-nav  ml-auto">
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="/combat-training-system/shooting-ranges/index.html" id="srdropdown" role="button"
+                                data-toggle="dropdown">
+                                Shooting Ranges
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="srdropdown">
+                                <a class="dropdown-item" href="/combat-training-system/shooting-ranges/indoor-shooting-range.html">Indoor Shooting Range</a>
+                                <a class="dropdown-item" href="/combat-training-system/shooting-ranges/containerized-shooting-range.html">Containerized Shooting Range</a>
+                                <a class="dropdown-item" href="/combat-training-system/shooting-ranges/hybrid-shooting-range.html">Hybrid Shooting Range</a>
+                                <a class="dropdown-item" href="/combat-training-system/shooting-ranges/outdoor-shooting-range.html">Outdoor Shooting Range</a>
+                                <div class="dropdown-divider"></div>
+                                <a class="dropdown-item" href="/combat-training-system/shooting-ranges/shooting-range-services.html">Shooting Range Services</a>
+                            </div>
+                        </li>
 
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="/combat-training-system/target-systems/index.html" id="tsdropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            Target Systems
-                        </a>
-                        <div class="dropdown-menu" aria-labelledby="tsdropdown">
-                            <a class="dropdown-item" href="/combat-training-system/target-systems/multi-function.html">Multi Function</a>
-                            <a class="dropdown-item" href="/combat-training-system/target-systems/sara.html">SARA</a>
-                            <a class="dropdown-item" href="/combat-training-system/target-systems/steel-targets.html">Steel Targets</a>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="/combat-training-system/target-systems/index.html" id="tsdropdown" role="button"
+                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Target Systems
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="tsdropdown">
+                                <a class="dropdown-item" href="/combat-training-system/target-systems/multi-function.html">Multi Function</a>
+                                <a class="dropdown-item" href="/combat-training-system/target-systems/sara.html">SARA</a>
+                                <a class="dropdown-item" href="/combat-training-system/target-systems/steel-targets.html">Steel Targets</a>
 
-                        </div>
-                    </li>
+                            </div>
+                        </li>
 
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle"  href="/combat-training-system/virtual-training-system/index.html" id="vtsdropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            Virtual Training
-                        </a>
-                        <div class="dropdown-menu" aria-labelledby="vtsdropdown">
-                            <a class="dropdown-item" href="/combat-training-system/virtual-training-system/live-fire-simulator.html">Live Fire Simulator</a>
-                            <a class="dropdown-item" href="/combat-training-system/virtual-training-system/immersive-cqb-system.html">Immersive CQB System</a>
-                        </div>
-                    </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="/combat-training-system/virtual-training-system/index.html" id="vtsdropdown" role="button"
+                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Virtual Training
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="vtsdropdown">
+                                <a class="dropdown-item" href="/combat-training-system/virtual-training-system/live-fire-simulator.html">Live Fire Simulator</a>
+                                <a class="dropdown-item" href="/combat-training-system/virtual-training-system/immersive-cqb-system.html">Immersive CQB System</a>
+                            </div>
+                        </li>
 
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle"  href="/combat-training-system/shoot-houses/index.html" id="shdropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            Shoot Houses
-                        </a>
-                        <div class="dropdown-menu" aria-labelledby="shdropdown">
-                            <a class="dropdown-item" href="/combat-training-system/shoot-houses/Modular-shoot-house.html">Modular Shoot Houses</a>
-                            <a class="dropdown-item" href="/combat-training-system/shoot-houses/fixed-shoot-house.html">Fixed Shoot Houses</a>
-                        </div>
-                    </li>
-                    <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="/combat-training-system/safety-equipments/index.html" id="sedropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            Safety Supplies
-                        </a>
-                        <div class="dropdown-menu" aria-labelledby="sedropdown">
-                            <a class="dropdown-item" href="/combat-training-system/safety-equipments/cctv.html">CCTV</a>
-                            <a class="dropdown-item" href="/combat-training-system/safety-equipments/eyes-ear-protection.html">Eyes & Ear Protection</a>
-                            <a class="dropdown-item" href="/combat-training-system/safety-equipments/portable-clearing-tap.html">Portable Clearing Tap</a>
-                            <a class="dropdown-item" href="/combat-training-system/safety-equipments/fire-fighting-system.html">Fire Fighting System</a>
-                            <a class="dropdown-item" href="/combat-training-system/safety-equipments/training-ammunition.html">Training Ammunition</a>
-                        </div>
-                    </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="/combat-training-system/shoot-houses/index.html" id="shdropdown" role="button"
+                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Shoot Houses
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="shdropdown">
+                                <a class="dropdown-item" href="/combat-training-system/shoot-houses/Modular-shoot-house.html">Modular Shoot Houses</a>
+                                <a class="dropdown-item" href="/combat-training-system/shoot-houses/fixed-shoot-house.html">Fixed Shoot Houses</a>
+                            </div>
+                        </li>
+                        <li class="nav-item dropdown">
+                            <a class="nav-link dropdown-toggle" href="/combat-training-system/safety-equipments/index.html" id="sedropdown" role="button"
+                                data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                Safety Supplies
+                            </a>
+                            <div class="dropdown-menu" aria-labelledby="sedropdown">
+                                <a class="dropdown-item" href="/combat-training-system/safety-equipments/cctv.html">CCTV</a>
+                                <a class="dropdown-item" href="/combat-training-system/safety-equipments/eyes-ear-protection.html">Eyes & Ear Protection</a>
+                                <a class="dropdown-item" href="/combat-training-system/safety-equipments/portable-clearing-tap.html">Portable Clearing Tap</a>
+                                <a class="dropdown-item" href="/combat-training-system/safety-equipments/fire-fighting-system.html">Fire Fighting System</a>
+                                <a class="dropdown-item" href="/combat-training-system/safety-equipments/training-ammunition.html">Training Ammunition</a>
+                            </div>
+                        </li>
 
-                </ul>
-            </div>
-        </div>
-    </nav>
-
-
-
-    <!-- Header -->
-
-    <!-- Header -->
-
-    <header class="masthead imgc" >
-
-
-
-        <div class="container text-left p-4 " style="z-index: 10;position: relative">
-
-
-
-            <div class="row intro-text">
-                <div class="col-md-12 intro-heading wow fadeInUp">Indoor <span class="c-p">Shooting</span> Ranges<br> </div>
-                <div class="col-md-7 col-sm-8 col-12 wow fadeInUp">
-                    <p class="lead c-w " >Aimtrex specialises in Design, Development and manufacturing of all types of shooting ranges. Whether your organisation needs an
-                        outdoor or an indoor range, Aimtrex customises a solution specific to your needs.</p>
-                    <a class="btn btn-primary btn-lg  js-scroll-trigger" href="#services">Tell Me More</a>
-
-                </div>
-                </div>
-
-        </div>
-    </header>
-    <style>
-         .masthead::before{
-             opacity: 0.4; left: 0;
-            top: 0;
-            position: absolute;
-             background: url(img/isr/header.jpg) center;
-             background-size: cover;
-             content: "";
-             width: 100%;
-             height: 100%;
-             display: inline-block;
-        }
-    </style>
-    <!-- Services -->
-    <section id="services">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-left ">
-                    <h2 class="section-heading wow fadeInLeft">What's an<br>
-                        <span class="c-p">Indoor</span> shooting range ?</h2>
-                    <h3 class="section-subheading text-muted"></h3>
+                    </ul>
                 </div>
             </div>
-            <div class="row " >
-                <div class="col-lg-6 wow fadeInLeft">
+        </nav>
 
-                    <p class="text-muted bg-white">
-                        A lot goes in delivering the right shooting range to
-                        your particular need. From Range survey, to performing a Geo-technical survey to coming up with an actual range design. Our
-                        domain experts taken an idea from from a ‘plan on the table' to a physical reality. From conception to execution.
-                        <br>
-                        <br>
-                        As specialist shooting range manufacturers, AIMTREX engineers and designers work closely with end users to understand their needs. This analysis is used to develop the final concept to construct a new facility or to modernize existing shooting ranges.
-                    <br>
-                    <br>
-                        Our team of experts specialize in integrating cutting edge technology to give you a state-of-the-art shooting range that maximizes the training experience while increasing instructor efficiency to its maximum.
 
-                   </p>
-                </div>
-                <div class="col-lg-6 wow fadeInRight" >
-                    <img src="img/isr/body-1.jpg" class="img-fluid">
-                </div>
-            </div>
 
-        </div>
-    </section>
+        <!-- Header -->
 
-    <!-- Key Feature Grid -->
-    <section class="bg-light" id="portfolio">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center mb-5">
-                    <h2 class="section-heading ">Key <span class="c-p">Features</span></h2>
-                    <!--<h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>-->
-                </div>
-            </div>
-            <div class="row ">
-                <div class="col-md-4 col-sm-6 portfolio-item wow fadeInUp" >
+        <!-- Header -->
 
-                    <div class="portfolio-caption text-center ">
-                        <div class="img-holder text-center ">
-                            <img src="img/isr/key-features/kf1.png" class="img-fluid" style="position: relative;left:00%;top:-40%">
-                        </div>
-                        <h4>ADVANCED TARGETS</h4>
-                        <p class="text-muted" style="font-size:14px">multiple targets can be controlled by single handheld controller from a range of 1 km.</p>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-6 portfolio-item wow fadeInUp">
+        <header class="masthead imgc">
 
-                    <div class="portfolio-caption text-center">
-                        <div class="img-holder text-center ">
-                            <img src="img/isr/key-features/kf2.png" class="img-fluid" style="position: relative;left:5%;top:-40%">
-                        </div>
-                        <h4>BALLISTIC SHIELD</h4>
-                        <p class="text-muted" style="font-size:14px">all windows, doors and panels come equipped with anti ballistic material.</p>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-6 portfolio-item wow fadeInUp">
 
-                    <div class="portfolio-caption text-center ">
-                        <div class="img-holder text-center ">
-                            <img src="img/isr/key-features/kf3.png" class="img-fluid" style="position: relative;left:5%;top:-40%">
-                        </div>
-                        <h4>LIGHTING SYSTEM</h4>
-                        <p class="text-muted" style="font-size:14px">Lighting System to simulate day, dusk, and moonlight</p>
-                    </div>
-                </div>
 
-                <div class="col-md-4 col-sm-6 portfolio-item wow fadeInUp">
-                <div class="portfolio-caption text-center">
-                    <div class="img-holder text-center ">
-                        <img src="img/isr/key-features/kf4.png" class="img-fluid" style="position: relative;left:5%;top:-40%">
-                    </div>
-                    <h4>BULLET TRAPS</h4>
-                    <p class="text-muted" style="font-size:14px">Aimtrex's patented and customized bullet trap ensures 100000 bullet hits.</p>
-                </div>
-            </div>
-                <div class="col-md-4 col-sm-6 portfolio-item wow fadeInUp">
+            <div class="container text-left p-4 " style="z-index: 10;position: relative">
 
-                    <div class="portfolio-caption text-center">
-                        <div class="img-holder text-center ">
-                            <img src="img/isr/key-features/kf5.png" class="img-fluid" style="position: relative;left:5%;top:-40%">
-                        </div>
-                        <h4>VENTILATION</h4>
-                        <p class="text-muted" style="font-size:14px">Ventilation System to control lead pollution</p>
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-6 portfolio-item wow fadeInUp">
 
-                    <div class="portfolio-caption text-center">
-                        <div class="img-holder text-center ">
-                            <img src="img/isr/key-features/kf6.png" class="img-fluid" style="position: relative;left:5%;top:-40%">
-                        </div>
-                        <h4>ACOUSTIC MANAGEMENT</h4>
-                        <p class="text-muted" style="font-size:14px">high grade noise reduction materials to ensure a hassle free training environment and sound proofing/abatement to distort the travelling sound.</p>
+
+                <div class="row intro-text">
+                    <div class="col-md-12 intro-heading wow fadeInUp">Indoor
+                        <span class="c-p">Shooting</span> Ranges
+                        <br> </div>
+                    <div class="col-md-7 col-sm-8 col-12 wow fadeInUp">
+                        <p class="lead c-w ">Aimtrex specialises in Design, Development and manufacturing of all types of shooting ranges. Whether
+                            your organisation needs an outdoor or an indoor range, Aimtrex customises a solution specific
+                            to your needs.</p>
+                        <a class="btn btn-primary btn-lg  js-scroll-trigger" href="#services">Tell Me More</a>
+
                     </div>
                 </div>
 
             </div>
-        </div>
-    </section>
-    <!-- Essential Features-->
-    <section class="bg-s" style="height: 100%" >
-        <div class="container">
-            <div class="row my-4">
-                <div class="col-md-12  text-center col-sm-12 col-12  wow fadeInUp ">
-                    <h2 class="section-heading my-4" style="font-weight: 100">Other  <span class="c-p">Great Features</span></h2>
+        </header>
+        <style>
+            .masthead::before {
+                opacity: 0.4;
+                left: 0;
+                top: 0;
+                position: absolute;
+                background: url(img/isr/header.jpg) center;
+                background-size: cover;
+                content: "";
+                width: 100%;
+                height: 100%;
+                display: inline-block;
+            }
+        </style>
+        <!-- Services -->
+        <section id="services">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12 text-left ">
+                        <h2 class="section-heading wow fadeInLeft">What's an
+                            <br>
+                            <span class="c-p">Indoor</span> shooting range ?</h2>
+                        <h3 class="section-subheading text-muted"></h3>
+                    </div>
+                </div>
+                <div class="row ">
+                    <div class="col-lg-6 wow fadeInLeft">
+
+                        <p class="text-muted bg-white">
+                            A lot goes in delivering the right shooting range to your particular need. From Range survey, to performing a Geo-technical
+                            survey to coming up with an actual range design. Our domain experts taken an idea from from a
+                            ‘plan on the table' to a physical reality. From conception to execution.
+                            <br>
+                            <br> As specialist shooting range manufacturers, AIMTREX engineers and designers work closely with
+                            end users to understand their needs. This analysis is used to develop the final concept to construct
+                            a new facility or to modernize existing shooting ranges.
+                            <br>
+                            <br> Our team of experts specialize in integrating cutting edge technology to give you a state-of-the-art
+                            shooting range that maximizes the training experience while increasing instructor efficiency
+                            to its maximum.
+
+                        </p>
+                    </div>
+                    <div class="col-lg-6 wow fadeInRight">
+                        <img src="img/isr/body-1.jpg" class="img-fluid">
+                    </div>
                 </div>
 
-                <div class="col-md-4 gf col-sm-6 col-8 offset-sm-0 offset-md-0 offset-2  wow fadeInUp">
-                    <img src="img/isr/essential-features/ef-01.png">
-                    <h5 >Remotely Operate</h5>
-                    <p class="text-muted c-w   " style="font-weight: 200">Instructor’s computer with facility to remotely operate all lanes and manage scoring data</p>
-                </div>
-                <div class="col-md-4 gf col-sm-6 col-8 offset-sm-0 offset-md-0 offset-2  wow fadeInUp">
-                    <img src="img/isr/essential-features/ef-02.png">
-                    <h5>CCTV monitoring</h5>
-                    <p class="text-muted c-w   " style="font-weight: 200">Our CCTV system surveillance system comes equipped with the latest technology available in the market.</p>
-                </div>
+            </div>
+        </section>
 
-                <div class="col-md-4  gf col-sm-6 col-8 offset-sm-0 offset-md-0 offset-2  wow fadeInUp">
-                    <img src="img/isr/essential-features/ef-03.png">
-                    <h5 >Access Control</h5>
-                    <p class="text-muted c-w   " style="font-weight: 200">All systems are fully portable and require no permanent constructions for setup.</p>
+        <!-- Key Feature Grid -->
+        <section class="bg-light" id="portfolio">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12 text-center mb-5">
+                        <h2 class="section-heading ">Key
+                            <span class="c-p">Features</span>
+                        </h2>
+                        <!--<h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>-->
+                    </div>
                 </div>
-                <div class="col-md-4  gf  col-sm-6 col-8 offset-sm-0 offset-md-0 offset-2  wow fadeInUp">
-                    <img src="img/isr/essential-features/ef-04.png">
-                    <h5 >PA-Intercom</h5>
-                    <p class="text-muted c-w   " style="font-weight: 200">the range requires no outside setup or electricity which ensures independent and hassle free usages. </p>
+                <div class="row ">
+                    <div class="col-md-4 col-sm-6 portfolio-item wow fadeInUp">
+
+                        <div class="portfolio-caption text-center ">
+                            <div class="img-holder text-center ">
+                                <img src="img/isr/key-features/kf1.png" class="img-fluid" style="position: relative;left:00%;top:-40%">
+                            </div>
+                            <h4>ADVANCED TARGETS</h4>
+                            <p class="text-muted" style="font-size:14px">Multiple Targets can be controlled by single handheld controller from a range of 1 km.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 portfolio-item wow fadeInUp">
+
+                        <div class="portfolio-caption text-center">
+                            <div class="img-holder text-center ">
+                                <img src="img/isr/key-features/kf2.png" class="img-fluid" style="position: relative;left:5%;top:-40%">
+                            </div>
+                            <h4>BALLISTIC SHIELD</h4>
+                            <p class="text-muted" style="font-size:14px">All windows, doors and panels come equipped with anti ballistic material.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 portfolio-item wow fadeInUp">
+
+                        <div class="portfolio-caption text-center ">
+                            <div class="img-holder text-center ">
+                                <img src="img/isr/key-features/kf3.png" class="img-fluid" style="position: relative;left:5%;top:-40%">
+                            </div>
+                            <h4>LIGHTING SYSTEM</h4>
+                            <p class="text-muted" style="font-size:14px">Lighting System to simulate day, dusk, and moonlight.</p>
+                        </div>
+                    </div>
+
+                    <div class="col-md-4 col-sm-6 portfolio-item wow fadeInUp">
+                        <div class="portfolio-caption text-center">
+                            <div class="img-holder text-center ">
+                                <img src="img/isr/key-features/kf4.png" class="img-fluid" style="position: relative;left:5%;top:-40%">
+                            </div>
+                            <h4>BULLET TRAPS</h4>
+                            <p class="text-muted" style="font-size:14px">Aimtrex's patented and customized bullet trap ensures 100000 bullet hits.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 portfolio-item wow fadeInUp">
+
+                        <div class="portfolio-caption text-center">
+                            <div class="img-holder text-center ">
+                                <img src="img/isr/key-features/kf5.png" class="img-fluid" style="position: relative;left:5%;top:-40%">
+                            </div>
+                            <h4>VENTILATION</h4>
+                            <p class="text-muted" style="font-size:14px">Ventilation System to control lead pollution and create a negative air pressure inside the range.</p>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 portfolio-item wow fadeInUp">
+
+                        <div class="portfolio-caption text-center">
+                            <div class="img-holder text-center ">
+                                <img src="img/isr/key-features/kf6.png" class="img-fluid" style="position: relative;left:5%;top:-40%">
+                            </div>
+                            <h4>ACOUSTIC MANAGEMENT</h4>
+                            <p class="text-muted" style="font-size:14px">High grade noise reduction materials to ensure a hassle free training environment and sound proofing/abatement
+                                to distort the travelling sound.</p>
+                        </div>
+                    </div>
+
                 </div>
             </div>
-        </div>
-    </section>
+        </section>
+        <!-- Essential Features-->
+        <section class="bg-s" style="height: 100%">
+            <div class="container">
+                <div class="row my-4">
+                    <div class="col-md-12  text-center col-sm-12 col-12  wow fadeInUp ">
+                        <h2 class="section-heading my-4" style="font-weight: 100">Other
+                            <span class="c-p">Great Features</span>
+                        </h2>
+                    </div>
 
-    <!--Featured Gallery-->
-    <section id="gallery">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2 class="section-heading ">Featured <span class="c-p">Gallery</span></h2>
-                    <!--<h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>-->
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-12 ">
-                    <div class="owl-carousel owl-theme " id="owl1">
-                        <img    src="img/isr/carousel/1.jpg">
-                        <img  src="img/isr/carousel/2.jpg">
-                        <img   src="img/isr/carousel/3.jpg">
-                        <img   src="img/isr/carousel/5.jpg">
+                    <div class="col-md-4 gf col-sm-6 col-8 offset-sm-0 offset-md-0 offset-2  wow fadeInUp">
+                        <img src="img/isr/essential-features/ef-01.png">
+                        <h5>Remote Operations</h5>
+                        <p class="text-muted c-w   " style="font-weight: 200">Instructor’s computer with facility to remotely operate all lanes and manage scoring data.</p>
+                    </div>
+                    <div class="col-md-4 gf col-sm-6 col-8 offset-sm-0 offset-md-0 offset-2  wow fadeInUp">
+                        <img src="img/isr/essential-features/ef-02.png">
+                        <h5>CCTV monitoring</h5>
+                        <p class="text-muted c-w   " style="font-weight: 200">Our CCTV surveillance system comes equipped with the latest technology available in the market.</p>
+                    </div>
 
-
+                    <div class="col-md-4  gf col-sm-6 col-8 offset-sm-0 offset-md-0 offset-2  wow fadeInUp">
+                        <img src="img/isr/essential-features/ef-03.png">
+                        <h5>Access Control</h5>
+                        <p class="text-muted c-w   " style="font-weight: 200">All systems are fully portable and require no permanent constructions or setup.</p>
+                    </div>
+                    <div class="col-md-4  gf  col-sm-6 col-8 offset-sm-0 offset-md-0 offset-2  wow fadeInUp">
+                        <img src="img/isr/essential-features/ef-04.png">
+                        <h5>PA-Intercom</h5>
+                        <p class="text-muted c-w   " style="font-weight: 200">The range requires no outside setup or electricity which ensures independent and hassle free usages.
+                        </p>
                     </div>
                 </div>
             </div>
-        </div>
-    </section>
-    <!-- Types of ranges Grid -->
-    <section class="bg-light" id="portfolio">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center mb-5">
-                    <h2 class="section-heading ">Types of <span class="c-p">Indoor Shooting Ranges</span></h2>
-                    <!--<h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>-->
+        </section>
+
+        <!--Featured Gallery-->
+        <section id="gallery">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12 text-center">
+                        <h2 class="section-heading ">Featured
+                            <span class="c-p">Gallery</span>
+                        </h2>
+                        <!--<h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>-->
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-lg-12 ">
+                        <div class="owl-carousel owl-theme " id="owl1">
+                            <img src="img/isr/carousel/1.jpg">
+                            <img src="img/isr/carousel/2.jpg">
+                            <img src="img/isr/carousel/3.jpg">
+                            <img src="img/isr/carousel/5.jpg">
+
+
+                        </div>
+                    </div>
                 </div>
             </div>
-            <div class="row ">
-                <div class="col-md-4 col-sm-6 portfolio-item wow fadeInUp" >
+        </section>
+        <!-- Types of ranges Grid -->
+        <section class="bg-light" id="portfolio">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12 text-center mb-5">
+                        <h2 class="section-heading ">Types of
+                            <span class="c-p">Indoor Shooting Ranges</span>
+                        </h2>
+                        <!--<h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>-->
+                    </div>
+                </div>
+                <div class="row ">
+                    <div class="col-md-4 col-sm-6 portfolio-item wow fadeInUp">
 
-                    <div class="portfolio-caption text-center ">
-                        <div class="text-center ">
-                            <img src="img/isr/types-ranges/icon-01.png" class="img-fluid" style="position: relative;left:00%;top:-40%">
-                        </div>
-                        <h4>Composite Indoor range</h4>
-                        <!--
+                        <div class="portfolio-caption text-center ">
+                            <div class="text-center ">
+                                <img src="img/isr/types-ranges/icon-01.png" class="img-fluid" style="position: relative;left:00%;top:-40%">
+                            </div>
+                            <h4>Composite Indoor range</h4>
+                            <!--
                         <p class="text-muted" style="font-size:14px">all windows, doors and panels come equipped with anti ballistic material.</p> -->
-                    </div>
-                </div>
-                <div class="col-md-4 col-sm-6 portfolio-item wow fadeInUp">
-
-                    <div class="portfolio-caption text-center">
-                        <div class="text-center ">
-                            <img src="img/isr/types-ranges/icon-02.png" class="img-fluid" style="position: relative;left:5%;top:-40%">
                         </div>
-                        <h4>CQB range</h4>
-                        <!--
-                        <p class="text-muted" style="font-size:14px">all windows, doors and panels come equipped with anti ballistic material.</p> -->
                     </div>
-                </div>
-                <div class="col-md-4 col-sm-6 portfolio-item wow fadeInUp">
+                    <div class="col-md-4 col-sm-6 portfolio-item wow fadeInUp">
 
-                    <div class="portfolio-caption text-center ">
-                        <div class="text-center ">
-                            <img src="img/isr/types-ranges/icon-03.png" class="img-fluid" style="position: relative;left:5%;top:-40%">
+                        <div class="portfolio-caption text-center">
+                            <div class="text-center ">
+                                <img src="img/isr/types-ranges/icon-02.png" class="img-fluid" style="position: relative;left:5%;top:-40%">
+                            </div>
+                            <h4>CQB range</h4>
+                            <!--
+                        <p class="text-muted" style="font-size:14px">all windows, doors and panels come equipped with anti ballistic material.</p> -->
                         </div>
-                        <h4>Indoor Reflex Shooting range</h4>
-                        <!--
-                        <p class="text-muted" style="font-size:14px">all windows, doors and panels come equipped with anti ballistic material.</p> -->
                     </div>
-                </div>
+                    <div class="col-md-4 col-sm-6 portfolio-item wow fadeInUp">
 
-                <div class="col-md-4 col-sm-6 portfolio-item wow fadeInUp">
-                <div class="portfolio-caption text-center">
-                    <div class="text-center ">
-                        <img src="img/isr/types-ranges/icon-04.png" class="img-fluid" style="position: relative;left:5%;top:-40%">
-                    </div>
-                    <h4>Dummy range - house, embassy, hotel</h4>
-                    <!--
+                        <div class="portfolio-caption text-center ">
+                            <div class="text-center ">
+                                <img src="img/isr/types-ranges/icon-03.png" class="img-fluid" style="position: relative;left:5%;top:-40%">
+                            </div>
+                            <h4>Indoor Reflex Shooting range</h4>
+                            <!--
                         <p class="text-muted" style="font-size:14px">all windows, doors and panels come equipped with anti ballistic material.</p> -->
+                        </div>
+                    </div>
+
+                    <div class="col-md-4 col-sm-6 portfolio-item wow fadeInUp">
+                        <div class="portfolio-caption text-center">
+                            <div class="text-center ">
+                                <img src="img/isr/types-ranges/icon-04.png" class="img-fluid" style="position: relative;left:5%;top:-40%">
+                            </div>
+                            <h4>Dummy range - house, embassy, hotel</h4>
+                            <!--
+                        <p class="text-muted" style="font-size:14px">all windows, doors and panels come equipped with anti ballistic material.</p> -->
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6 portfolio-item wow fadeInUp">
+
+                        <div class="portfolio-caption text-center">
+                            <div class="text-center ">
+                                <img src="img/isr/types-ranges/icon-06.png" class="img-fluid" style="position: relative;left:5%;top:-40%">
+                            </div>
+                            <h4>Modular Kill Hut</h4>
+                            <!--
+                        <p class="text-muted" style="font-size:14px">all windows, doors and panels come equipped with anti ballistic material.</p> -->
+                        </div>
+                    </div>
+
                 </div>
             </div>
-                <div class="col-md-4 col-sm-6 portfolio-item wow fadeInUp">
+        </section>
+        <script>
+            $(document).ready(function () {
+                $("#owl1").owlCarousel({
+                    items: 1,
 
-                    <div class="portfolio-caption text-center">
-                        <div class="text-center ">
-                            <img src="img/isr/types-ranges/icon-06.png" class="img-fluid" style="position: relative;left:5%;top:-40%">
-                        </div>
-                        <h4>Modular Kill Hut</h4>
-                        <!--
-                        <p class="text-muted" style="font-size:14px">all windows, doors and panels come equipped with anti ballistic material.</p> -->
-                    </div>
-                </div>
-
-            </div>
-        </div>
-    </section>
-    <script>
-        $(document).ready(function(){
-            $("#owl1").owlCarousel({
-                    items:1,
-
-                    loop:true,
-                nav:true,
+                    loop: true,
+                    nav: true,
 
                     autoplay: true,
                     autoPlaySpeed: 1000,
@@ -403,89 +425,94 @@
 
 
                 }
-            );
-        });
-    </script>
+                );
+            });
+        </script>
 
 
 
-    <!-- Team -->
-    <section class="bg-light py-2" id="team"  >
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <p class="lead section-heading text-uppercase">Supported By</p>
-                    <!--<h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>-->
+        <!-- Team -->
+        <section class="bg-light py-2" id="team">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-12 text-center">
+                        <p class="lead section-heading text-uppercase">Supported By</p>
+                        <!--<h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3>-->
+                    </div>
+                </div>
+                <div class="row py-2">
+                    <div class="col-sm-3 col-6 text-center">
+                        <img class="mx-auto img-fluid py-2" src="../../img/support/1.jpg" alt="">
+                    </div>
+                    <div class="col-sm-3 col-6 text-center">
+                        <img class="mx-auto img-fluid py-2 " src="../../img/support/2.jpg" alt="">
+                    </div>
+                    <div class="col-sm-3 col-6 text-center">
+                        <img class="mx-auto  img-fluid py-2 " src="../../img/support/3.jpg" alt="">
+                    </div>
+                    <div class="col-sm-3 col-6 text-center">
+                        <img class="mx-auto  img-fluid py-2" src="../../img/support/4.jpg" alt="">
+                    </div>
+
+                </div>
+
+            </div>
+        </section>
+
+
+
+        <!-- Footer -->
+        <footer class="bg-s">
+            <div class="container ">
+                <div class="row">
+                    <div class="col-md-4 text-center my-5">
+                        <img src="../../img/logo/1.png" class="img-fluid" width="250px" style="mix-blend-mode: luminosity">
+                        <br>
+                        <span class="copyright mt-4">© Aimtrex Technologies. All rights reserved.</span>
+                    </div>
+                    <div class="col-md-4 text-center my-5">
+                        <span class="text-muted my-3">
+                            <i class="fa fa-phone"></i> +91 (011) 40450413</span>
+                        <br>
+                        <span class="text-muted ">
+                            <i class="fa fa-phone-square"></i> +91 (011) 29534543</span>
+                        <br>
+                        <a class="text-muted " href="mailto:contact@aimtrex.com">
+                            <i class="fa fa-envelope-open"></i> contact@aimtrex.com</a>
+
+                    </div>
+                    <div class="col-md-4 text-center my-5">
+                        <span class="text-muted ">
+                            <i class="fa fa-map-marker"></i> &nbsp;AIMTREX Technologies (P) Ltd. 5A, Lane 1, Westend Marg Saidulajab (Behind Saket Metro)
+                            New Delhi 110030 India</span>
+                        <ul class="list-inline quicklinks">
+                            <li class="list-inline-item">
+                                <a href="#">Privacy Policy</a>
+                            </li>
+                            <li class="list-inline-item">
+                                <a href="#">Terms of Use</a>
+                            </li>
+                        </ul>
+                    </div>
                 </div>
             </div>
-            <div class="row py-2">
-                <div class="col-sm-3 col-6 text-center">
-                    <img class="mx-auto img-fluid py-2" src="../../img/support/1.jpg" alt="">
-                </div>
-                <div class="col-sm-3 col-6 text-center">
-                    <img class="mx-auto img-fluid py-2 " src="../../img/support/2.jpg" alt="">
-                </div>
-                <div class="col-sm-3 col-6 text-center">
-                    <img class="mx-auto  img-fluid py-2 " src="../../img/support/3.jpg" alt="">
-                </div>
-                <div class="col-sm-3 col-6 text-center">
-                    <img class="mx-auto  img-fluid py-2" src="../../img/support/4.jpg" alt="">
-                </div>
-
-            </div>
-
-        </div>
-    </section>
+        </footer>
+    </div>
 
 
+    <!-- Bootstrap core JavaScript -->
 
-    <!-- Footer -->
-    <footer class="bg-s">
-        <div class="container ">
-            <div class="row">
-                <div class="col-md-4 text-center my-5">
-                    <img src="../../img/logo/1.png" class="img-fluid" width="250px" style="mix-blend-mode: luminosity" ><br>
-                    <span class="copyright mt-4">© Aimtrex Technologies. All rights reserved.</span>
-                </div>
-                <div class="col-md-4 text-center my-5">
-                    <span class="text-muted my-3"><i class="fa fa-phone"></i> +91 (011) 40450413</span><br>
-                    <span class="text-muted "><i class="fa fa-phone-square"></i> +91 (011) 29534543</span><br>
-                    <a class="text-muted " href="mailto:contact@aimtrex.com"><i class="fa fa-envelope-open"></i> contact@aimtrex.com</a>
+    <script src="../../vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
 
-                </div>
-                <div class="col-md-4 text-center my-5">
-                  <span class="text-muted "><i class="fa fa-map-marker"></i> &nbsp;AIMTREX Technologies (P) Ltd.
-  5A, Lane 1, Westend Marg
-  Saidulajab (Behind Saket Metro)
-  New Delhi 110030 India</span>
-                    <ul class="list-inline quicklinks">
-                        <li class="list-inline-item">
-                            <a href="#">Privacy Policy</a>
-                        </li>
-                        <li class="list-inline-item">
-                            <a href="#">Terms of Use</a>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </footer>
-</div>
+    <!-- Plugin JavaScript -->
+    <script src="../../vendor/jquery-easing/jquery.easing.min.js"></script>
 
+    <!-- Contact form JavaScript -->
+    <script src="../../js/jqBootstrapValidation.js"></script>
+    <script src="../../js/contact_me.js"></script>
 
-<!-- Bootstrap core JavaScript -->
-
-<script src="../../vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
-
-<!-- Plugin JavaScript -->
-<script src="../../vendor/jquery-easing/jquery.easing.min.js"></script>
-
-<!-- Contact form JavaScript -->
-<script src="../../js/jqBootstrapValidation.js"></script>
-<script src="../../js/contact_me.js"></script>
-
-<!-- Custom scripts for this template -->
-<script src="../../js/agency.min.js"></script>
+    <!-- Custom scripts for this template -->
+    <script src="../../js/agency.min.js"></script>
 
 
 </body>
