@@ -312,6 +312,10 @@ header.masthead .intro-text .intro-heading {
   margin: 0 0 15px;
 }
 
+#portfolio .portfolio-item h4 {
+  text-transform: uppercase !important;
+}
+
 #portfolio .portfolio-item .portfolio-link {
   position: relative;
   display: block;
@@ -803,6 +807,10 @@ ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons l
 
 .gf p {
   text-align: center;
+}
+
+.gf h5 {
+  text-transform: uppercase !important;
 }
 
 .wow {
