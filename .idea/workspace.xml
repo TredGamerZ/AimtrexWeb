@@ -3,6 +3,23 @@
   <component name="ChangeListManager">
     <list default="true" id="2e43180e-2516-47e9-a4c9-2b8f1ba7927a" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/combat-training-system/shooting-ranges/outdoor-shooting-range.html" beforeDir="false" afterPath="$PROJECT_DIR$/combat-training-system/shooting-ranges/outdoor-shooting-range.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/combat-training-system/target-systems/img/mf/carousel/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/combat-training-system/target-systems/img/mf/carousel/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/combat-training-system/target-systems/img/mf/carousel/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/combat-training-system/target-systems/img/mf/carousel/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/combat-training-system/target-systems/img/mf/carousel/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/combat-training-system/target-systems/img/mf/carousel/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/combat-training-system/target-systems/img/sa/carousel/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/combat-training-system/target-systems/img/sa/carousel/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/combat-training-system/target-systems/img/sa/carousel/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/combat-training-system/target-systems/img/sa/carousel/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/combat-training-system/target-systems/img/sa/carousel/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/combat-training-system/target-systems/img/sa/carousel/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/combat-training-system/target-systems/img/sa/header.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/combat-training-system/target-systems/img/sa/header.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/combat-training-system/target-systems/img/st/carousel/1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/combat-training-system/target-systems/img/st/carousel/1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/combat-training-system/target-systems/img/st/carousel/2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/combat-training-system/target-systems/img/st/carousel/2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/combat-training-system/target-systems/img/st/carousel/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/combat-training-system/target-systems/img/st/carousel/3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/combat-training-system/target-systems/img/st/header.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/combat-training-system/target-systems/img/st/header.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/combat-training-system/target-systems/multi-function.html" beforeDir="false" afterPath="$PROJECT_DIR$/combat-training-system/target-systems/multi-function.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/combat-training-system/target-systems/sara.html" beforeDir="false" afterPath="$PROJECT_DIR$/combat-training-system/target-systems/sara.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/combat-training-system/target-systems/steel-targets.html" beforeDir="false" afterPath="$PROJECT_DIR$/combat-training-system/target-systems/steel-targets.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/agency.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/agency.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/agency.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/agency.min.css" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -20,10 +37,31 @@
     <session id="1835520835">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
-          <entry key="project.open.time.6" value="2" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.6" value="3" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.opened" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="html" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="HTML" value="5" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="html" value="61" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="HTML" value="61" />
         </counts>
       </usages-collector>
     </session>
@@ -34,50 +72,55 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/combat-training-system/index.html">
+        <entry file="file://$PROJECT_DIR$/combat-training-system/virtual-training-system/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3289">
-              <caret line="143" column="18" selection-start-line="143" selection-start-column="18" selection-end-line="143" selection-end-column="18" />
+            <state relative-caret-position="612">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/combat-training-system/shoot-houses/index.html">
+        <entry file="file://$PROJECT_DIR$/combat-training-system/target-systems/multi-function.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="897">
-              <caret line="39" column="71" selection-start-line="39" selection-start-column="71" selection-end-line="39" selection-end-column="71" />
+            <state relative-caret-position="261">
+              <caret line="347" column="61" selection-start-line="347" selection-start-column="61" selection-end-line="347" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/combat-training-system/target-systems/sara.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="397">
+              <caret line="351" column="61" selection-start-line="351" selection-start-column="61" selection-end-line="351" selection-end-column="61" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/combat-training-system/shooting-ranges/hybrid-shooting-range.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="164">
+              <caret line="44" column="2" selection-start-line="44" selection-start-column="2" selection-end-line="44" selection-end-column="2" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/combat-training-system/shooting-ranges/index.html">
+        <entry file="file://$PROJECT_DIR$/combat-training-system/shooting-ranges/outdoor-shooting-range.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1380">
-              <caret line="120" selection-start-line="120" selection-end-line="120" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#14867#14873#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="358">
+              <caret line="329" column="30" lean-forward="true" selection-start-line="329" selection-start-column="30" selection-end-line="329" selection-end-column="30" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/combat-training-system/target-systems/index.html">
+        <entry file="file://$PROJECT_DIR$/combat-training-system/target-systems/steel-targets.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="897">
-              <caret line="39" column="71" selection-start-line="39" selection-start-column="71" selection-end-line="39" selection-end-column="71" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/combat-training-system/virtual-training-system/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="851">
-              <caret line="37" selection-start-line="37" selection-end-line="37" />
+            <state relative-caret-position="164">
+              <caret line="143" column="53" selection-start-line="143" selection-start-column="53" selection-end-line="143" selection-end-column="53" />
             </state>
           </provider>
         </entry>
@@ -176,10 +219,6 @@
         <option value="$PROJECT_DIR$/combat-training-system/shoot-houses/Modular-shoot-house.html" />
         <option value="$PROJECT_DIR$/combat-training-system/shooting-ranges/containerized-shooting-range.html" />
         <option value="$PROJECT_DIR$/combat-training-system/shooting-ranges/hybrid-shooting-range.html" />
-        <option value="$PROJECT_DIR$/combat-training-system/shooting-ranges/outdoor-shooting-range.html" />
-        <option value="$PROJECT_DIR$/combat-training-system/target-systems/multi-function.html" />
-        <option value="$PROJECT_DIR$/combat-training-system/target-systems/sara.html" />
-        <option value="$PROJECT_DIR$/combat-training-system/target-systems/steel-targets.html" />
         <option value="$PROJECT_DIR$/combat-training-system/virtual-training-system/immersive-cqb-system.html" />
         <option value="$PROJECT_DIR$/combat-training-system/virtual-training-system/live-fire-simulator.html" />
         <option value="$PROJECT_DIR$/special-operation-system/tactical-access-system/index.html" />
@@ -189,6 +228,10 @@
         <option value="$PROJECT_DIR$/combat-training-system/shooting-ranges/index.html" />
         <option value="$PROJECT_DIR$/combat-training-system/target-systems/index.html" />
         <option value="$PROJECT_DIR$/combat-training-system/virtual-training-system/index.html" />
+        <option value="$PROJECT_DIR$/combat-training-system/target-systems/steel-targets.html" />
+        <option value="$PROJECT_DIR$/combat-training-system/target-systems/multi-function.html" />
+        <option value="$PROJECT_DIR$/combat-training-system/target-systems/sara.html" />
+        <option value="$PROJECT_DIR$/combat-training-system/shooting-ranges/outdoor-shooting-range.html" />
       </list>
     </option>
   </component>
@@ -221,8 +264,35 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AimTrex Website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AimTrex Website" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AimTrex Website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AimTrex Website" type="462c0819:PsiDirectoryNode" />
+              <item name="combat-training-system" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AimTrex Website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AimTrex Website" type="462c0819:PsiDirectoryNode" />
+              <item name="combat-training-system" type="462c0819:PsiDirectoryNode" />
+              <item name="shooting-ranges" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AimTrex Website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AimTrex Website" type="462c0819:PsiDirectoryNode" />
+              <item name="combat-training-system" type="462c0819:PsiDirectoryNode" />
+              <item name="target-systems" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -314,11 +384,13 @@
       <workItem from="1534773767395" duration="97000" />
       <workItem from="1534773916006" duration="1280000" />
       <workItem from="1534860965006" duration="1438000" />
+      <workItem from="1534911327316" duration="1390000" />
+      <workItem from="1534926304146" duration="3418000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="90521000" />
+    <option name="totallyTimeSpent" value="95329000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -331,7 +403,28 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13744076" />
+      <window_info id="Structure" order="1" weight="0.26058325" />
+      <window_info id="Gulp" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32827735" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32827735" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.20636663" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+    <layout-to-restore>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13744076" />
       <window_info id="Structure" order="1" weight="0.26058325" />
       <window_info id="Gulp" order="2" side_tool="true" />
@@ -347,25 +440,6 @@
       <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.20636663" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-    <layout-to-restore>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18967333" />
-      <window_info id="Structure" order="1" weight="0.26058325" />
-      <window_info id="Gulp" order="2" side_tool="true" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32827735" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32907802" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.34019503" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -594,27 +668,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/combat-training-system/shooting-ranges/hybrid-shooting-range.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="44" column="2" selection-start-line="44" selection-start-column="2" selection-end-line="44" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/combat-training-system/shooting-ranges/outdoor-shooting-range.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="82">
-          <caret line="43" column="2" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/combat-training-system/target-systems/sara.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="44" column="2" selection-start-line="44" selection-start-column="2" selection-end-line="44" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/combat-training-system/virtual-training-system/immersive-cqb-system.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
@@ -636,20 +689,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/combat-training-system/target-systems/steel-targets.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="43" column="2" selection-start-line="43" selection-start-column="2" selection-end-line="43" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/combat-training-system/target-systems/multi-function.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
-          <caret line="46" column="2" selection-start-line="46" selection-start-column="2" selection-end-line="46" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/combat-training-system/safety-equipments/portable-clearing-tap.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="503">
@@ -664,20 +703,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/combat-training-system/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3289">
-          <caret line="143" column="18" selection-start-line="143" selection-start-column="18" selection-end-line="143" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/combat-training-system/shoot-houses/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="897">
-          <caret line="39" column="71" selection-start-line="39" selection-start-column="71" selection-end-line="39" selection-end-column="71" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/combat-training-system/target-systems/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="897">
@@ -685,21 +710,70 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/combat-training-system/virtual-training-system/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="851">
-          <caret line="37" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/combat-training-system/shooting-ranges/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1380">
-          <caret line="120" selection-start-line="120" selection-end-line="120" />
+        <state relative-caret-position="966">
+          <caret line="157" lean-forward="true" selection-start-line="157" selection-end-line="157" />
           <folding>
             <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="e#14867#14873#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/combat-training-system/shoot-houses/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="39" column="71" selection-start-line="39" selection-start-column="71" selection-end-line="39" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/combat-training-system/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="143" column="18" selection-start-line="143" selection-start-column="18" selection-end-line="143" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/combat-training-system/virtual-training-system/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/combat-training-system/target-systems/steel-targets.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="143" column="53" selection-start-line="143" selection-start-column="53" selection-end-line="143" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/combat-training-system/target-systems/multi-function.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="347" column="61" selection-start-line="347" selection-start-column="61" selection-end-line="347" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/combat-training-system/target-systems/sara.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="397">
+          <caret line="351" column="61" selection-start-line="351" selection-start-column="61" selection-end-line="351" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/combat-training-system/shooting-ranges/hybrid-shooting-range.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="44" column="2" selection-start-line="44" selection-start-column="2" selection-end-line="44" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/combat-training-system/shooting-ranges/outdoor-shooting-range.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="329" column="30" lean-forward="true" selection-start-line="329" selection-start-column="30" selection-end-line="329" selection-end-column="30" />
         </state>
       </provider>
     </entry>
