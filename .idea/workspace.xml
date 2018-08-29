@@ -2,9 +2,77 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e43180e-2516-47e9-a4c9-2b8f1ba7927a" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/as/body-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/as/carousel/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/as/carousel/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/as/carousel/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/as/essential-features/ef-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/as/essential-features/ef-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/as/essential-features/ef-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/as/essential-features/ef-04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/as/essential-features/ef-05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/as/essential-features/ef-06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/as/essential-features/ef-07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/as/essential-features/ef-08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/as/header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/as/key-features/kf1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/as/key-features/kf2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/as/key-features/kf3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/as/key-features/kf4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/as/key-features/kf5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/as/key-features/kf6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/carousel/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/carousel/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/carousel/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/cds/body-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/cds/carousel/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/cds/carousel/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/cds/carousel/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/cds/essential-features/ef-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/cds/essential-features/ef-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/cds/essential-features/ef-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/cds/essential-features/ef-04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/cds/essential-features/ef-05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/cds/essential-features/ef-06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/cds/header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/cds/key-features/kf1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/cds/key-features/kf2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/cds/key-features/kf3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/cds/key-features/kf4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/cds/key-features/kf5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/cds/key-features/kf6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/hr/body-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/hr/body-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/hr/carousel/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/hr/carousel/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/hr/carousel/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/hr/essential-features/ef-01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/hr/essential-features/ef-02.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/hr/essential-features/ef-03.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/hr/essential-features/ef-04.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/hr/essential-features/ef-05.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/hr/essential-features/ef-06.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/hr/essential-features/ef-07.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/hr/essential-features/ef-08.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/hr/essential-features/ef-09.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/hr/essential-features/ef-10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/hr/essential-features/ef-11.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/hr/header.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/hr/key-features/kf1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/hr/key-features/kf2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/hr/key-features/kf3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/hr/key-features/kf4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/hr/key-features/kf5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/img/hr/key-features/kf6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/rope-canon.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/rope-launcher.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/rope-rider.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/combat-training-system/shoot-houses/Modular-shoot-house.html" beforeDir="false" afterPath="$PROJECT_DIR$/combat-training-system/shoot-houses/Modular-shoot-house.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/combat-training-system/shoot-houses/fixed-shoot-house.html" beforeDir="false" afterPath="$PROJECT_DIR$/combat-training-system/shoot-houses/fixed-shoot-house.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/special-operation-system/ascender.html" beforeDir="false" afterPath="$PROJECT_DIR$/special-operation-system/ascender.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/special-operation-system/counter-drone-system.html" beforeDir="false" afterPath="$PROJECT_DIR$/special-operation-system/counter-drone-system.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/special-operation-system/hydraulic-ramps.html" beforeDir="false" afterPath="$PROJECT_DIR$/special-operation-system/hydraulic-ramps.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/special-operation-system/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/special-operation-system/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/special-operation-system/tactical-access-system/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/special-operation-system/tactical-access-system/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -34,24 +102,24 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="html" value="13" />
-          <entry key="png" value="1" />
+          <entry key="html" value="25" />
+          <entry key="png" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="13" />
-          <entry key="Image" value="1" />
+          <entry key="HTML" value="25" />
+          <entry key="Image" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="html" value="446" />
+          <entry key="html" value="637" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="446" />
+          <entry key="HTML" value="637" />
         </counts>
       </usages-collector>
     </session>
@@ -73,38 +141,36 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/combat-training-system/target-systems/sara.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8050">
+            <state relative-caret-position="694">
               <caret line="351" column="61" selection-start-line="351" selection-start-column="61" selection-end-line="351" selection-end-column="61" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/combat-training-system/shooting-ranges/hybrid-shooting-range.html">
+        <entry file="file://$PROJECT_DIR$/combat-training-system/virtual-training-system/live-fire-simulator.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1012">
-              <caret line="44" column="2" selection-start-line="44" selection-start-column="2" selection-end-line="44" selection-end-column="2" />
+            <state relative-caret-position="200">
+              <caret line="70" column="19" selection-start-line="70" selection-start-column="19" selection-end-line="80" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/combat-training-system/shooting-ranges/outdoor-shooting-range.html">
+        <entry file="file://$PROJECT_DIR$/special-operation-system/tactical-access-system/rope-rider.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="8119">
-              <caret line="354" column="39" selection-start-line="354" selection-start-column="39" selection-end-line="354" selection-end-column="39" />
+            <state relative-caret-position="522">
+              <caret line="66" column="25" selection-start-line="66" selection-start-column="25" selection-end-line="66" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/combat-training-system/virtual-training-system/immersive-cqb-system.html">
+        <entry file="file://$PROJECT_DIR$/special-operation-system/tactical-access-system/rope-canon.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="203" column="32" selection-start-line="203" selection-start-column="32" selection-end-line="203" selection-end-column="32" />
+            <state relative-caret-position="601">
+              <caret line="66" column="25" selection-start-line="66" selection-start-column="25" selection-end-line="66" selection-end-column="25" />
               <folding>
-                <element signature="n#style#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#0;n#header#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -119,56 +185,76 @@
                 <element signature="n#style#0;n#p#0;n#div#0;n#div#5;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#1;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#2;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#3;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#4;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#5;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#6;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#7;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#8;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#9;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#10;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#11;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#12;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#p#0;n#div#13;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#2;n#div#1;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#3;n#div#1;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/combat-training-system/shoot-houses/Modular-shoot-house.html">
+        <entry file="file://$PROJECT_DIR$/special-operation-system/tactical-access-system/rope-launcher.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2857">
-              <caret line="228" column="42" selection-start-line="228" selection-start-column="42" selection-end-line="228" selection-end-column="42" />
+            <state relative-caret-position="115">
+              <caret line="43" column="23" lean-forward="true" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
+              <folding>
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#2;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#3;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#3;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#4;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#4;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#5;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#5;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#2;n#div#1;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#0;n#div#3;n#div#1;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/special-operation-system/tactical-access-system/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="326">
+              <caret line="154" column="10" lean-forward="true" selection-start-line="154" selection-start-column="10" selection-end-line="154" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/special-operation-system/counter-drone-system.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="507">
+              <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/special-operation-system/hydraulic-ramps.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="354">
+              <caret line="66" column="25" selection-start-line="66" selection-start-column="25" selection-end-line="66" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/combat-training-system/shoot-houses/fixed-shoot-house.html">
+        <entry file="file://$PROJECT_DIR$/special-operation-system/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="693">
-              <caret line="214" column="69" selection-start-line="214" selection-start-column="69" selection-end-line="214" selection-end-column="69" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/combat-training-system/virtual-training-system/live-fire-simulator.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="205" column="119" selection-start-line="205" selection-start-column="119" selection-end-line="205" selection-end-column="119" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/combat-training-system/target-systems/steel-targets.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3266">
-              <caret line="143" column="53" selection-start-line="143" selection-start-column="53" selection-end-line="143" selection-end-column="53" />
+            <state relative-caret-position="253">
+              <caret line="110" column="102" lean-forward="true" selection-start-line="110" selection-start-column="102" selection-end-line="110" selection-end-column="102" />
             </state>
           </provider>
         </entry>
@@ -207,6 +293,7 @@
       <find>text-left</find>
       <find>\&lt;nav class\=\&quot;navbar navbar\-expand\-lg navbar\-dark fixed\-top \&quot; id\=\&quot;mainNav\&quot; \&gt;         \&lt;div class\=\&quot;container\&quot;\&gt;             \&lt;a class\=\&quot;navbar\-brand js\-scroll\-trigger\&quot; href\=\&quot;\/\&quot;\&gt;\&lt;img src\=\&quot;\.\.\/\.\.\/img\/logo\/2\.png\&quot; width\=\&quot;180px\&quot;\&gt;\&lt;\/a\&gt;             \&lt;button class\=\&quot;navbar\-toggler navbar\-toggler\-right\&quot; type\=\&quot;button\&quot; data\-toggle\=\&quot;collapse\&quot; data\-target\=\&quot;\#navbarResponsive\&quot; aria\-controls\=\&quot;navbarResponsive\&quot; aria\-expanded\=\&quot;false\&quot; aria\-label\=\&quot;Toggle navigation\&quot;\&gt;                 \&lt;i class\=\&quot;fa fa\-bars\&quot;\&gt;                 \&lt;\/i\&gt;             \&lt;\/button\&gt;             \&lt;div class\=\&quot;collapse navbar\-collapse\&quot; id\=\&quot;navbarResponsive\&quot;\&gt;                 \&lt;ul class\=\&quot;navbar\-nav  ml\-auto\&quot;\&gt;                     \&lt;li class\=\&quot;nav\-item dropdown\&quot;\&gt;                         \&lt;a class\=\&quot;nav\-link dropdown\-toggle\&quot; href\=\&quot;\/combat\-training\-system\/shooting\-ranges\/index\.html\&quot; id\=\&quot;srdropdown\&quot; role\=\&quot;button\&quot; data\-toggle\=\&quot;dropdown\&quot; \&gt;                             Shooting Ranges                         \&lt;\/a\&gt;                         \&lt;div class\=\&quot;dropdown\-menu\&quot; aria\-labelledby\=\&quot;srdropdown\&quot;\&gt;                             \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/shooting\-ranges\/indoor\-shooting\-range\.html\&quot;\&gt;Indoor Shooting Range\&lt;\/a\&gt;                             \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/shooting\-ranges\/containerized\-shooting\-range\.html\&quot;\&gt;Containerized Shooting Range\&lt;\/a\&gt;                             \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/shooting\-ranges\/hybrid\-shooting\-range\.html\&quot;\&gt;Hybrid Shooting Range\&lt;\/a\&gt;                             \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/shooting\-ranges\/outdoor\-shooting\-range\.html\&quot;\&gt;Outdoor Shooting Range\&lt;\/a\&gt;                             \&lt;div class\=\&quot;dropdown\-divider\&quot;\&gt;\&lt;\/div\&gt;                             \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/shooting\-ranges\/shooting\-range\-services\.html\&quot;\&gt;Shooting Range Services\&lt;\/a\&gt;                         \&lt;\/div\&gt;                     \&lt;\/li\&gt;                      \&lt;li class\=\&quot;nav\-item dropdown\&quot;\&gt;                         \&lt;a class\=\&quot;nav\-link dropdown\-toggle\&quot; href\=\&quot;\/combat\-training\-system\/target\-systems\/index\.html\&quot; id\=\&quot;tsdropdown\&quot; role\=\&quot;button\&quot; data\-toggle\=\&quot;dropdown\&quot; aria\-haspopup\=\&quot;true\&quot; aria\-expanded\=\&quot;false\&quot;\&gt;                             Target Systems                         \&lt;\/a\&gt;                         \&lt;div class\=\&quot;dropdown\-menu\&quot; aria\-labelledby\=\&quot;tsdropdown\&quot;\&gt;                             \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/target\-systems\/multi\-function\.html\&quot;\&gt;Multi Function\&lt;\/a\&gt;                             \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/target\-systems\/sara\.html\&quot;\&gt;SARA\&lt;\/a\&gt;                             \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/target\-systems\/steel\-targets\.html\&quot;\&gt;Steel Targets\&lt;\/a\&gt;                          \&lt;\/div\&gt;                     \&lt;\/li\&gt;                      \&lt;li class\=\&quot;nav\-item dropdown\&quot;\&gt;                         \&lt;a class\=\&quot;nav\-link dropdown\-toggle\&quot;  href\=\&quot;\/combat\-training\-system\/virtual\-training\-system\/index\.html\&quot; id\=\&quot;vtsdropdown\&quot; role\=\&quot;button\&quot; data\-toggle\=\&quot;dropdown\&quot; aria\-haspopup\=\&quot;true\&quot; aria\-expanded\=\&quot;false\&quot;\&gt;                             Virtual Training                         \&lt;\/a\&gt;                         \&lt;div class\=\&quot;dropdown\-menu\&quot; aria\-labelledby\=\&quot;vtsdropdown\&quot;\&gt;                             \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/virtual\-training\-system\/live\-fire\-simulator\.html\&quot;\&gt;Live Fire Simulator\&lt;\/a\&gt;                             \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/virtual\-training\-system\/immersive\-cqb\-system\.html\&quot;\&gt;Immersive CQB System\&lt;\/a\&gt;                         \&lt;\/div\&gt;                     \&lt;\/li\&gt;                      \&lt;li class\=\&quot;nav\-item dropdown\&quot;\&gt;                         \&lt;a class\=\&quot;nav\-link dropdown\-toggle\&quot;  href\=\&quot;\/combat\-training\-system\/shoot\-houses\/index\.html\&quot; id\=\&quot;shdropdown\&quot; role\=\&quot;button\&quot; data\-toggle\=\&quot;dropdown\&quot; aria\-haspopup\=\&quot;true\&quot; aria\-expanded\=\&quot;false\&quot;\&gt;                             Shoot Houses                         \&lt;\/a\&gt;                         \&lt;div class\=\&quot;dropdown\-menu\&quot; aria\-labelledby\=\&quot;shdropdown\&quot;\&gt;                             \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/shoot\-houses\/Modular\-shoot\-house\.html\&quot;\&gt;Modular Shoot Houses\&lt;\/a\&gt;                             \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/shoot\-houses\/fixed\-shoot\-house\.html\&quot;\&gt;Fixed Shoot Houses\&lt;\/a\&gt;                         \&lt;\/div\&gt;                     \&lt;\/li\&gt;                     \&lt;li class\=\&quot;nav\-item dropdown\&quot;\&gt;                         \&lt;a class\=\&quot;nav\-link dropdown\-toggle\&quot; href\=\&quot;\/combat\-training\-system\/safety\-equipments\/index\.html\&quot; id\=\&quot;sedropdown\&quot; role\=\&quot;button\&quot; data\-toggle\=\&quot;dropdown\&quot; aria\-haspopup\=\&quot;true\&quot; aria\-expanded\=\&quot;false\&quot;\&gt;                             Safety Supplies                         \&lt;\/a\&gt;                         \&lt;div class\=\&quot;dropdown\-menu\&quot; aria\-labelledby\=\&quot;sedropdown\&quot;\&gt;                             \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/safety\-equipments\/cctv\.html\&quot;\&gt;CCTV\&lt;\/a\&gt;                             \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/safety\-equipments\/eyes\-ear\-protection\.html\&quot;\&gt;Eyes \&amp; Ear Protection\&lt;\/a\&gt;                             \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/safety\-equipments\/portable\-clearing\-tap\.html\&quot;\&gt;Portable Clearing Tap\&lt;\/a\&gt;                             \&lt;a class\=\&quot;dropdown\-item\&quot; href\=\&quot;\/combat\-training\-system\/safety\-equipments\/fire\-fighting\-system\.html\&quot;\&gt;Fire Fighting System\&lt;\/a\&gt;                         \&lt;\/div\&gt;                     \&lt;\/li\&gt;                  \&lt;\/ul\&gt;             \&lt;\/div\&gt;         \&lt;\/div\&gt;     \&lt;\/nav\&gt;\n</find>
       <find>cent</find>
+      <find>/as/</find>
     </findStrings>
     <replaceStrings>
       <replace>st</replace>
@@ -223,6 +310,8 @@
       <replace>offset-sm-0 offset-md-0 offset-2 wow fadeInUp gf</replace>
       <replace>text-center</replace>
       <replace>&lt;nav class=&quot;navbar navbar-expand-lg navbar-dark fixed-top &quot; id=&quot;mainNav&quot; &gt;         &lt;div class=&quot;container&quot;&gt;             &lt;a class=&quot;navbar-brand js-scroll-trigger&quot; href=&quot;/&quot;&gt;&lt;img src=&quot;../../img/logo/2.png&quot; width=&quot;180px&quot;&gt;&lt;/a&gt;             &lt;button class=&quot;navbar-toggler navbar-toggler-right&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#navbarResponsive&quot; aria-controls=&quot;navbarResponsive&quot; aria-expanded=&quot;false&quot; aria-label=&quot;Toggle navigation&quot;&gt;                 &lt;i class=&quot;fa fa-bars&quot;&gt;                 &lt;/i&gt;             &lt;/button&gt;             &lt;div class=&quot;collapse navbar-collapse&quot; id=&quot;navbarResponsive&quot;&gt;                 &lt;ul class=&quot;navbar-nav  ml-auto&quot;&gt;                     &lt;li class=&quot;nav-item dropdown&quot;&gt;                         &lt;a class=&quot;nav-link dropdown-toggle&quot; href=&quot;/combat-training-system/shooting-ranges/index.html&quot; id=&quot;srdropdown&quot; role=&quot;button&quot; data-toggle=&quot;dropdown&quot; &gt;                             Shooting Ranges                         &lt;/a&gt;                         &lt;div class=&quot;dropdown-menu&quot; aria-labelledby=&quot;srdropdown&quot;&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/shooting-ranges/indoor-shooting-range.html&quot;&gt;Indoor Shooting Range&lt;/a&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/shooting-ranges/containerized-shooting-range.html&quot;&gt;Containerized Shooting Range&lt;/a&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/shooting-ranges/hybrid-shooting-range.html&quot;&gt;Hybrid Shooting Range&lt;/a&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/shooting-ranges/outdoor-shooting-range.html&quot;&gt;Outdoor Shooting Range&lt;/a&gt;                             &lt;div class=&quot;dropdown-divider&quot;&gt;&lt;/div&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/shooting-ranges/shooting-range-services.html&quot;&gt;Shooting Range Services&lt;/a&gt;                         &lt;/div&gt;                     &lt;/li&gt;                      &lt;li class=&quot;nav-item dropdown&quot;&gt;                         &lt;a class=&quot;nav-link dropdown-toggle&quot; href=&quot;/combat-training-system/target-systems/index.html&quot; id=&quot;tsdropdown&quot; role=&quot;button&quot; data-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;                             Target Systems                         &lt;/a&gt;                         &lt;div class=&quot;dropdown-menu&quot; aria-labelledby=&quot;tsdropdown&quot;&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/target-systems/multi-function.html&quot;&gt;Multi Function&lt;/a&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/target-systems/sara.html&quot;&gt;SARA&lt;/a&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/target-systems/steel-targets.html&quot;&gt;Steel Targets&lt;/a&gt;                          &lt;/div&gt;                     &lt;/li&gt;                      &lt;li class=&quot;nav-item dropdown&quot;&gt;                         &lt;a class=&quot;nav-link dropdown-toggle&quot;  href=&quot;/combat-training-system/virtual-training-system/index.html&quot; id=&quot;vtsdropdown&quot; role=&quot;button&quot; data-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;                             Virtual Training                         &lt;/a&gt;                         &lt;div class=&quot;dropdown-menu&quot; aria-labelledby=&quot;vtsdropdown&quot;&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/virtual-training-system/live-fire-simulator.html&quot;&gt;Live Fire Simulator&lt;/a&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/virtual-training-system/immersive-cqb-system.html&quot;&gt;Immersive CQB System&lt;/a&gt;                         &lt;/div&gt;                     &lt;/li&gt;                      &lt;li class=&quot;nav-item dropdown&quot;&gt;                         &lt;a class=&quot;nav-link dropdown-toggle&quot;  href=&quot;/combat-training-system/shoot-houses/index.html&quot; id=&quot;shdropdown&quot; role=&quot;button&quot; data-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;                             Shoot Houses                         &lt;/a&gt;                         &lt;div class=&quot;dropdown-menu&quot; aria-labelledby=&quot;shdropdown&quot;&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/shoot-houses/Modular-shoot-house.html&quot;&gt;Modular Shoot Houses&lt;/a&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/shoot-houses/fixed-shoot-house.html&quot;&gt;Fixed Shoot Houses&lt;/a&gt;                         &lt;/div&gt;                     &lt;/li&gt;                     &lt;li class=&quot;nav-item dropdown&quot;&gt;                         &lt;a class=&quot;nav-link dropdown-toggle&quot; href=&quot;/combat-training-system/safety-equipments/index.html&quot; id=&quot;sedropdown&quot; role=&quot;button&quot; data-toggle=&quot;dropdown&quot; aria-haspopup=&quot;true&quot; aria-expanded=&quot;false&quot;&gt;                             Safety Supplies                         &lt;/a&gt;                         &lt;div class=&quot;dropdown-menu&quot; aria-labelledby=&quot;sedropdown&quot;&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/safety-equipments/cctv.html&quot;&gt;CCTV&lt;/a&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/safety-equipments/eyes-ear-protection.html&quot;&gt;Eyes &amp; Ear Protection&lt;/a&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/safety-equipments/portable-clearing-tap.html&quot;&gt;Portable Clearing Tap&lt;/a&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/safety-equipments/fire-fighting-system.html&quot;&gt;Fire Fighting System&lt;/a&gt;                             &lt;a class=&quot;dropdown-item&quot; href=&quot;/combat-training-system/safety-equipments/training-ammunition.html&quot;&gt;Training Ammunition&lt;/a&gt;                         &lt;/div&gt;                     &lt;/li&gt;                  &lt;/ul&gt;             &lt;/div&gt;         &lt;/div&gt;     &lt;/nav&gt;</replace>
+      <replace>/rc/</replace>
+      <replace>/rl/</replace>
     </replaceStrings>
   </component>
   <component name="Git.Settings">
@@ -250,10 +339,6 @@
         <option value="$PROJECT_DIR$/scss/agency.scss" />
         <option value="$PROJECT_DIR$/scss/_footer.scss" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/special-operation-system/index.html" />
-        <option value="$PROJECT_DIR$/special-operation-system/ascender.html" />
-        <option value="$PROJECT_DIR$/special-operation-system/counter-drone-system.html" />
-        <option value="$PROJECT_DIR$/special-operation-system/hydraulic-ramps.html" />
         <option value="$PROJECT_DIR$/combat-training-system/safety-equipments/training-ammunition.html" />
         <option value="$PROJECT_DIR$/combat-training-system/safety-equipments/cctv.html" />
         <option value="$PROJECT_DIR$/combat-training-system/safety-equipments/eyes-ear-protection.html" />
@@ -261,7 +346,6 @@
         <option value="$PROJECT_DIR$/combat-training-system/safety-equipments/portable-clearing-tap.html" />
         <option value="$PROJECT_DIR$/combat-training-system/shooting-ranges/containerized-shooting-range.html" />
         <option value="$PROJECT_DIR$/combat-training-system/shooting-ranges/hybrid-shooting-range.html" />
-        <option value="$PROJECT_DIR$/special-operation-system/tactical-access-system/index.html" />
         <option value="$PROJECT_DIR$/combat-training-system/index.html" />
         <option value="$PROJECT_DIR$/combat-training-system/safety-equipments/index.html" />
         <option value="$PROJECT_DIR$/combat-training-system/shoot-houses/index.html" />
@@ -277,6 +361,14 @@
         <option value="$PROJECT_DIR$/combat-training-system/virtual-training-system/immersive-cqb-system.html" />
         <option value="$PROJECT_DIR$/combat-training-system/shoot-houses/Modular-shoot-house.html" />
         <option value="$PROJECT_DIR$/combat-training-system/shoot-houses/fixed-shoot-house.html" />
+        <option value="$PROJECT_DIR$/special-operation-system/ascender.html" />
+        <option value="$PROJECT_DIR$/special-operation-system/tactical-access-system/rope-rider.html" />
+        <option value="$PROJECT_DIR$/special-operation-system/tactical-access-system/rope-canon.html" />
+        <option value="$PROJECT_DIR$/special-operation-system/tactical-access-system/rope-launcher.html" />
+        <option value="$PROJECT_DIR$/special-operation-system/counter-drone-system.html" />
+        <option value="$PROJECT_DIR$/special-operation-system/hydraulic-ramps.html" />
+        <option value="$PROJECT_DIR$/special-operation-system/tactical-access-system/index.html" />
+        <option value="$PROJECT_DIR$/special-operation-system/index.html" />
       </list>
     </option>
   </component>
@@ -320,13 +412,26 @@
             <path>
               <item name="AimTrex Website" type="b2602c69:ProjectViewProjectNode" />
               <item name="AimTrex Website" type="462c0819:PsiDirectoryNode" />
-              <item name="combat-training-system" type="462c0819:PsiDirectoryNode" />
+              <item name="special-operation-system" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AimTrex Website" type="b2602c69:ProjectViewProjectNode" />
               <item name="AimTrex Website" type="462c0819:PsiDirectoryNode" />
-              <item name="combat-training-system" type="462c0819:PsiDirectoryNode" />
-              <item name="shooting-ranges" type="462c0819:PsiDirectoryNode" />
+              <item name="special-operation-system" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AimTrex Website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AimTrex Website" type="462c0819:PsiDirectoryNode" />
+              <item name="special-operation-system" type="462c0819:PsiDirectoryNode" />
+              <item name="tactical-access-system" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AimTrex Website" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AimTrex Website" type="462c0819:PsiDirectoryNode" />
+              <item name="special-operation-system" type="462c0819:PsiDirectoryNode" />
+              <item name="tactical-access-system" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -345,19 +450,19 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\AimTrex Website\combat-training-system\virtual-training-system" />
-      <recent name="E:\AimTrex Website\special-operation-system" />
-      <recent name="E:\AimTrex Website\special-operation-system\img" />
-      <recent name="E:\AimTrex Website\combat-training-system\shooting-ranges\img\isr\carousel" />
-      <recent name="E:\AimTrex Website\combat-training-system\virtual-training-system\img\ics" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\AimTrex Website\special-operation-system" />
       <recent name="E:\AimTrex Website\special-operation-system\img\hr" />
       <recent name="E:\AimTrex Website\special-operation-system\img\cds" />
       <recent name="E:\AimTrex Website\special-operation-system\img\as" />
       <recent name="E:\AimTrex Website\special-operation-system\img\carousel" />
-      <recent name="E:\AimTrex Website\combat-training-system\virtual-training-system\img\ics" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\AimTrex Website\special-operation-system\tactical-access-system" />
+      <recent name="E:\AimTrex Website\combat-training-system\virtual-training-system" />
+      <recent name="E:\AimTrex Website\special-operation-system" />
+      <recent name="E:\AimTrex Website\special-operation-system\img" />
+      <recent name="E:\AimTrex Website\combat-training-system\shooting-ranges\img\isr\carousel" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -429,12 +534,12 @@
       <workItem from="1535166632458" duration="1198000" />
       <workItem from="1535172027024" duration="366000" />
       <workItem from="1535172414808" duration="1161000" />
-      <workItem from="1535552175243" duration="2172000" />
+      <workItem from="1535552175243" duration="3247000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="101720000" />
+    <option name="totallyTimeSpent" value="102795000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -496,22 +601,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/scss/_services.scss">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/scss/_contact.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="3" lean-forward="true" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/combat-training-system/shooting-ranges/img/hsr/body-1.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/combat-training-system/shooting-ranges/img/osr/header.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/combat-training-system/shooting-ranges/img/isr/key-features/kf1.png">
       <provider selected="true" editor-type-id="images" />
     </entry>
@@ -625,38 +714,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/special-operation-system/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-49">
-          <caret line="40" column="34" lean-forward="true" selection-start-line="40" selection-start-column="34" selection-end-line="40" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/special-operation-system/hydraulic-ramps.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="644">
-          <caret line="142" column="78" lean-forward="true" selection-start-line="142" selection-start-column="78" selection-end-line="142" selection-end-column="78" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/special-operation-system/counter-drone-system.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="94" column="3" lean-forward="true" selection-start-line="94" selection-start-column="3" selection-end-line="106" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/combat-training-system/safety-equipments/training-ammunition.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="16" selection-start-line="4" selection-start-column="11" selection-end-line="4" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/special-operation-system/ascender.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="43" column="1" selection-start-line="43" selection-start-column="1" selection-end-line="77" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -685,13 +746,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="48" column="2" selection-start-line="48" selection-start-column="2" selection-end-line="48" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/special-operation-system/tactical-access-system/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="333">
-          <caret line="39" selection-start-line="39" selection-end-line="39" />
         </state>
       </provider>
     </entry>
@@ -754,31 +808,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/combat-training-system/target-systems/sara.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="8050">
-          <caret line="351" column="61" selection-start-line="351" selection-start-column="61" selection-end-line="351" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/combat-training-system/shooting-ranges/hybrid-shooting-range.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1012">
-          <caret line="44" column="2" selection-start-line="44" selection-start-column="2" selection-end-line="44" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/combat-training-system/shooting-ranges/outdoor-shooting-range.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="8119">
           <caret line="354" column="39" selection-start-line="354" selection-start-column="39" selection-end-line="354" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/combat-training-system/target-systems/steel-targets.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3266">
-          <caret line="143" column="53" selection-start-line="143" selection-start-column="53" selection-end-line="143" selection-end-column="53" />
         </state>
       </provider>
     </entry>
@@ -834,17 +867,137 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/combat-training-system/virtual-training-system/live-fire-simulator.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="205" column="119" selection-start-line="205" selection-start-column="119" selection-end-line="205" selection-end-column="119" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/combat-training-system/shoot-houses/fixed-shoot-house.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="693">
           <caret line="214" column="69" selection-start-line="214" selection-start-column="69" selection-end-line="214" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/combat-training-system/shooting-ranges/hybrid-shooting-range.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="694">
+          <caret line="44" column="2" selection-start-line="44" selection-start-column="2" selection-end-line="44" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/combat-training-system/target-systems/sara.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="694">
+          <caret line="351" column="61" selection-start-line="351" selection-start-column="61" selection-end-line="351" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/combat-training-system/target-systems/steel-targets.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="694">
+          <caret line="143" column="53" selection-start-line="143" selection-start-column="53" selection-end-line="143" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/special-operation-system/tactical-access-system/img/as/essential-features/ef-02.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/combat-training-system/virtual-training-system/live-fire-simulator.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="70" column="19" selection-start-line="70" selection-start-column="19" selection-end-line="80" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/special-operation-system/ascender.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="56" column="18" selection-start-line="56" selection-start-column="18" selection-end-line="56" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/special-operation-system/tactical-access-system/rope-rider.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="66" column="25" selection-start-line="66" selection-start-column="25" selection-end-line="66" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/special-operation-system/tactical-access-system/rope-canon.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="601">
+          <caret line="66" column="25" selection-start-line="66" selection-start-column="25" selection-end-line="66" selection-end-column="25" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#2;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#3;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#3;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#4;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#4;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#5;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#5;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#2;n#div#1;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#3;n#div#1;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/special-operation-system/counter-drone-system.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="67" column="25" selection-start-line="67" selection-start-column="25" selection-end-line="67" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/special-operation-system/hydraulic-ramps.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="354">
+          <caret line="66" column="25" selection-start-line="66" selection-start-column="25" selection-end-line="66" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/special-operation-system/tactical-access-system/rope-launcher.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="43" column="23" lean-forward="true" selection-start-line="43" selection-start-column="23" selection-end-line="43" selection-end-column="23" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#2;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#2;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#3;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#3;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#4;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#4;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#div#5;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#5;n#div#1;n#div#0;n#section#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#0;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#0;n#div#1;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#1;n#div#1;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#2;n#div#1;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#0;n#div#3;n#div#1;n#div#0;n#section#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/special-operation-system/tactical-access-system/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="326">
+          <caret line="154" column="10" lean-forward="true" selection-start-line="154" selection-start-column="10" selection-end-line="154" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/special-operation-system/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="110" column="102" lean-forward="true" selection-start-line="110" selection-start-column="102" selection-end-line="110" selection-end-column="102" />
         </state>
       </provider>
     </entry>
